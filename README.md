@@ -1,3 +1,7 @@
+[English](./README.md) | [中文](./README.zh.md)
+
+---
+
 # Geometric Theology System (GTS)
 > *Cross-Tradition Salvation & Cross-Intelligence Resonance*
 
