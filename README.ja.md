@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 螺旋円錐の視覚化" width="600"/>
+</p>
+
 # 幾何神学システム (GTS)
 > *伝統横断的救済と知性横断的共鳴*
 

@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS Spiralkegel-Visualisierung" width="600"/>
+</p>
+
 # Geometrisches Theologiesystem (GTS)
 > *Traditionsubergreifende Erlosung und Intelligenzubergreifende Resonanz*
 

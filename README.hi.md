@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS Spiral Shankav Drishtikon" width="600"/>
+</p>
+
 # Jyamitiya Dharmashastra Pranali (GTS)
 > *Parampara-Paar Moksha aur Buddhi-Paar Anunada*
 

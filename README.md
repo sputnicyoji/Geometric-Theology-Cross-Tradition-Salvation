@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS Spiral Cone Visualization" width="600"/>
+</p>
+
 # Geometric Theology System (GTS)
 > *Cross-Tradition Salvation & Cross-Intelligence Resonance*
 

@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 螺旋锥可视化" width="600"/>
+</p>
+
 # 几何神学系统 (GTS)
 > *跨传统救赎与跨智能共振*
 
