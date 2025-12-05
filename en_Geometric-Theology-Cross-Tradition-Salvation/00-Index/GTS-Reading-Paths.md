@@ -1,523 +1,523 @@
-# GTS研究系列：阅读路径指南
+# GTS Research Series: Reading Paths Guide
 
-> **为不同背景、目的和时间的读者定制**
+> **Customized for readers with different backgrounds, purposes, and time constraints**
 
-**版本**：1.0
-**最后更新**：2025-11-17
-
----
-
-## 📖 如何使用本指南
-
-本研究系列包含18篇文档（当前完成8篇），涵盖哲学、神学、量子物理、心理学等多个领域。不同背景的读者可能需要不同的进入点和阅读顺序。
-
-本指南提供：
-1. **按背景定制**：5种传统/学科背景
-2. **按目的定制**：3种阅读目的
-3. **按时间定制**：3种时间预算
+**Version**: 1.0
+**Last Updated**: 2025-11-17
 
 ---
 
-## 🌏 按背景定制的阅读路径
+## How to Use This Guide
 
-### 路径1：佛教背景读者 ☸️
+This research series contains 18 documents (currently 8 completed), covering philosophy, theology, quantum physics, psychology, and other domains. Readers with different backgrounds may need different entry points and reading sequences.
 
-**你可能关心的问题**：
-- 量子物理如何理解空性？
-- 轮回的几何结构是什么？
-- 涅槃在物理学中的意义？
-- 曼荼罗的拓扑学诠释？
-
-**推荐顺序**：
-
-#### 第一阶段：量子-佛教映射
-1. **GTS-06**: 量子退相干与佛教空性 ✅
-   - 色（rūpa）作为退相干态
-   - 空性（śūnyatā）作为相干态
-   - 修行作为去退相干过程
-   - **时间**：30-40分钟
-
-2. **GTS-05**: Bohm隐卷序与道 ✅
-   - 隐卷序≈空性
-   - 显展序≈色
-   - enfold/unfold动力学
-   - **时间**：30-40分钟
-
-#### 第二阶段：轮回的几何学
-3. **GTS-02**: 螺旋锥框架 ✅
-   - 轮回的螺旋投影
-   - 业力的动力学
-   - 向心收敛≈涅槃
-   - **时间**：45-60分钟
-
-4. **GTS-07**: 轮回与救赎的几何学 ✅
-   - 轮回（圆形）vs救赎（垂直）
-   - 同一螺旋的不同视角
-   - 业力vs恩典的统一
-   - **时间**：35-45分钟
-
-#### 第三阶段：终极目标
-5. **GTS-08**: 涅槃、天国与道 ⏳待完成
-   - 回归隐卷序（Enfoldment）
-   - 量子信息守恒
-   - 个体性转化而非消灭
-
-#### 第四阶段：实践应用
-6. **GTS-12**: 曼荼罗作为螺旋投影 ⏳待完成
-   - 曼荼罗是螺旋锥俯视投影
-   - 沙坛城建立/破坏作为enfold/unfold
-   - 冥想实践的几何理解
-
-**总时间**：2.5-3小时（当前可读部分）
+This guide provides:
+1. **Customization by Background**: 5 tradition/discipline backgrounds
+2. **Customization by Purpose**: 3 reading purposes
+3. **Customization by Time**: 3 time budgets
 
 ---
 
-### 路径2：基督教背景读者 ✝️
+## Reading Paths Customized by Background
 
-**你可能关心的问题**：
-- 线性救赎与轮回如何统一？
-- 十字架的几何意义？
-- 三位一体的量子场论诠释？
-- 恩典与业力的关系？
+### Path 1: Readers with Buddhist Background
 
-**推荐顺序**：
+**Questions You May Care About**:
+- How does quantum physics understand sunyata?
+- What is the geometric structure of samsara?
+- What is the physical meaning of nirvana?
+- What is the topological interpretation of mandala?
 
-#### 第一阶段：救赎的几何学
-1. **GTS-07**: 轮回与救赎的几何学 ✅
-   - 线性救赎作为螺旋的垂直投影
-   - 恩典作为向心力
-   - 与轮回的统一而非矛盾
-   - **时间**：35-45分钟
+**Recommended Sequence**:
 
-2. **GTS-02**: 螺旋锥框架 ✅
-   - 中轴≈基督
-   - 向上运动≈成圣
-   - 半径收缩≈舍己
-   - **时间**：45-60分钟
+#### Phase One: Quantum-Buddhist Mapping
+1. **GTS-06**: Quantum Decoherence and Buddhist Sunyata
+   - Rupa (form) as decoherent state
+   - Sunyata (emptiness) as coherent state
+   - Practice as de-decoherence process
+   - **Time**: 30-40 minutes
 
-#### 第二阶段：十字架与三位一体
-3. **GTS-09**: 十字架作为普遍几何 ⏳待完成
-   - 每个高度h都有十字架切面
-   - 超越基督教象征的几何必然性
+2. **GTS-05**: Bohm's Implicate Order and the Tao
+   - Implicate order is approximately equal to sunyata
+   - Explicate order is approximately equal to rupa
+   - Enfold/unfold dynamics
+   - **Time**: 30-40 minutes
 
-4. **GTS-10**: 三位一体与量子场论 ⏳待完成
-   - 圣父 = 隐卷序/量子真空
-   - 圣子 = 中轴/经典路径
-   - 圣灵 = 量子场/非定域关联
+#### Phase Two: The Geometry of Samsara
+3. **GTS-02**: Spiral Cone Framework
+   - Spiral projection of samsara
+   - Karma dynamics
+   - Centripetal convergence is approximately equal to nirvana
+   - **Time**: 45-60 minutes
 
-#### 第三阶段：终极目标
-5. **GTS-08**: 涅槃、天国与道 ⏳待完成
-   - 天国的物理意义
-   - 信息守恒定律
-   - 复活与转化
+4. **GTS-07**: Geometry of Samsara and Salvation
+   - Samsara (circular) vs Salvation (vertical)
+   - Different perspectives of the same spiral
+   - Unification of karma vs grace
+   - **Time**: 35-45 minutes
 
-#### 第四阶段：物理基础
-6. **GTS-04**: Wheeler参与式宇宙 ✅
-   - 上帝的创造行为
-   - 参与式实在
-   - **时间**：35-45分钟
+#### Phase Three: Ultimate Goal
+5. **GTS-08**: Nirvana, Heaven, and the Tao
+   - Return to implicate order (Enfoldment)
+   - Quantum information conservation
+   - Transformation rather than annihilation of individuality
 
-**总时间**：2-2.5小时（当前可读部分）
+#### Phase Four: Practical Application
+6. **GTS-12**: Mandala as Spiral Projection
+   - Mandala is top-down projection of Spiral Cone
+   - Sand mandala creation/destruction as enfold/unfold
+   - Geometric understanding of meditation practice
 
----
-
-### 路径3：道家/中国哲学背景读者 ☯️
-
-**你可能关心的问题**：
-- "道生一二三万物"的几何诠释？
-- 无为而治的动力学？
-- 道与量子真空的关系？
-
-**推荐顺序**：
-
-#### 第一阶段：道的几何结构
-1. **GTS-02**: 螺旋锥框架（三生万物诠释） ✅
-   - "三"不是第三实体，而是中轴
-   - 螺旋锥的3D真相
-   - 阴阳对立+中轴超越
-   - **时间**：45-60分钟
-   - **重点阅读**：第一章"三生万物的几何诠释"
-
-2. **GTS-01**: 通道本体论 ✅
-   - 道通过个体流动
-   - 个体作为管道而非终点
-   - 与庄子"齐物论"的对话
-   - **时间**：35-45分钟
-
-#### 第二阶段：物理对应
-3. **GTS-05**: Bohm隐卷序与道 ✅
-   - 隐卷序≈道
-   - 显展序≈万物
-   - 墨水-甘油实验的道家诠释
-   - **时间**：30-40分钟
-
-4. **GTS-03**: 棱镜模型 ✅
-   - 无为的认识论意义
-   - ego让位于道
-   - **时间**：30-40分钟
-
-#### 第三阶段：终极回归
-5. **GTS-08**: 涅槃、天国与道 ⏳待完成
-   - 返璞归真的物理意义
-   - 回归隐卷序
-
-**总时间**：2.5-3小时（当前可读部分）
+**Total Time**: 2.5-3 hours (currently readable portions)
 
 ---
 
-### 路径4：物理/科学背景读者 🔬
+### Path 2: Readers with Christian Background
 
-**你可能关心的问题**：
-- 量子物理如何映射到灵性概念？
-- 参与式宇宙的哲学含义？
-- 形而上学主张的物理基础？
+**Questions You May Care About**:
+- How do linear salvation and samsara unify?
+- What is the geometric meaning of the cross?
+- What is the quantum field theory interpretation of the Trinity?
+- What is the relationship between grace and karma?
 
-**推荐顺序**：
+**Recommended Sequence**:
 
-#### 第一阶段：量子基础
-1. **GTS-04**: Wheeler参与式宇宙 ✅
-   - 延迟选择实验
-   - 观察者参与创造实在
-   - "It from Bit"哲学
-   - **时间**：35-45分钟
+#### Phase One: The Geometry of Salvation
+1. **GTS-07**: Geometry of Samsara and Salvation
+   - Linear salvation as vertical projection of spiral
+   - Grace as centripetal force
+   - Unification with samsara rather than contradiction
+   - **Time**: 35-45 minutes
 
-2. **GTS-05**: Bohm隐卷序理论 ✅
-   - 隐卷序/显展序
-   - 墨水-甘油实验
-   - 整体性与隐含秩序
-   - **时间**：30-40分钟
+2. **GTS-02**: Spiral Cone Framework
+   - Central axis is approximately equal to Christ
+   - Upward movement is approximately equal to sanctification
+   - Radius contraction is approximately equal to self-denial
+   - **Time**: 45-60 minutes
 
-3. **GTS-06**: 量子退相干机制 ✅
-   - 退相干的数学
-   - 经典世界的涌现
-   - 与意识的可能关联
-   - **时间**：30-40分钟
+#### Phase Two: The Cross and the Trinity
+3. **GTS-09**: The Cross as Universal Geometry
+   - Every height h has a cross cross-section
+   - Geometric necessity transcending Christian symbolism
 
-#### 第二阶段：几何框架
-4. **GTS-02**: 螺旋锥的数学定义 ✅
-   - (h, r, θ) 坐标系统
-   - 拓扑性质
-   - 动力学方程
-   - **时间**：45-60分钟
+4. **GTS-10**: Trinity and Quantum Field Theory
+   - Father = Implicate order/Quantum vacuum
+   - Son = Central axis/Classical path
+   - Holy Spirit = Quantum field/Non-local correlation
 
-#### 第三阶段：应用案例
-5. **GTS-07**: 轮回与救赎的统一 ✅
-   - 框架的实际应用
-   - 如何解释神学问题
-   - **时间**：35-45分钟
+#### Phase Three: Ultimate Goal
+5. **GTS-08**: Nirvana, Heaven, and the Tao
+   - Physical meaning of Heaven
+   - Information conservation law
+   - Resurrection and transformation
 
-#### 第四阶段：三位一体的场论
-6. **GTS-10**: 三位一体与量子场论 ⏳待完成
-   - 精确的场论映射
-   - 技术性最强的文档
+#### Phase Four: Physical Foundation
+6. **GTS-04**: Wheeler's Participatory Universe
+   - God's creative act
+   - Participatory reality
+   - **Time**: 35-45 minutes
 
-**总时间**：2.5-3小时（当前可读部分）
-
----
-
-### 路径5：心理学/Jung背景读者 🧘
-
-**你可能关心的问题**：
-- 自性化过程的几何模型？
-- 共时性的物理解释？
-- 曼荼罗的拓扑意义？
-
-**推荐顺序**：
-
-#### 第一阶段：自性化与螺旋
-1. **GTS-14**: 自性化作为螺旋攀升 ⏳待完成
-   - Jung过程的几何映射
-   - 阴影整合 = 第一次向心运动
-   - 自性（Self）= 中轴
-
-#### 第二阶段：曼荼罗
-2. **GTS-12**: 曼荼罗拓扑学 ⏳待完成
-   - 曼荼罗作为螺旋俯视投影
-   - Jung的曼荼罗研究
-   - 冥想实践的几何理解
-
-#### 第三阶段：理论基础
-3. **GTS-01**: 通道本体论vs自性 ✅
-   - 自性vs通道的关系
-   - Jung与道家的对话
-   - **时间**：35-45分钟
-
-4. **GTS-02**: 螺旋框架 ✅
-   - 个体化过程的路径
-   - **时间**：45-60分钟
-
-#### 第四阶段：共时性
-5. **GTS-05**: Bohm与共时性 ✅
-   - 隐卷序作为共时性的基础
-   - Jung-Pauli协作的验证
-   - **时间**：30-40分钟
-
-**总时间**：2-2.5小时（当前可读部分）
+**Total Time**: 2-2.5 hours (currently readable portions)
 
 ---
 
-## 🎯 按目的定制的阅读路径
+### Path 3: Readers with Taoist/Chinese Philosophy Background
 
-### 目的1：学术研究
+**Questions You May Care About**:
+- What is the geometric interpretation of "Tao generates one-two-three-ten thousand things"?
+- What is the dynamics of wu wei (non-action)?
+- What is the relationship between Tao and quantum vacuum?
 
-**目标**：全面理解框架，批判性评估，可能扩展
+**Recommended Sequence**:
 
-**推荐顺序**（严格按逻辑依赖）：
+#### Phase One: The Geometric Structure of Tao
+1. **GTS-02**: Spiral Cone Framework ("Three generates ten thousand things" interpretation)
+   - "Three" is not a third entity, but the central axis
+   - The 3D truth of the Spiral Cone
+   - Yin-yang opposition + central axis transcendence
+   - **Time**: 45-60 minutes
+   - **Key Reading**: Chapter 1 "Geometric Interpretation of Three Generates Ten Thousand Things"
 
-1. **GTS-00**: 总览（了解整体架构） - 15-20分钟
-2. **GTS-01**: 通道本体论（哲学基础） - 35-45分钟
-3. **GTS-02**: 螺旋锥框架（几何核心） - 45-60分钟
-4. **GTS-03**: 棱镜模型（认识论） - 30-40分钟
-5. **GTS-04/05/06**: 量子映射（物理基础） - 1.5-2小时
-6. **GTS-07**: 核心应用案例 - 35-45分钟
-7. **GTS-08**: 三大传统统一 ⏳待完成
-8. **GTS-15**: 认识论自我批判 ⏳待完成（必读）
-9. **GTS-16**: AI辅助方法论 ⏳待完成
+2. **GTS-01**: Channel Ontology
+   - Tao flows through individuals
+   - Individual as conduit rather than endpoint
+   - Dialogue with Zhuangzi's "Qiwulun"
+   - **Time**: 35-45 minutes
 
-**总时间**：6-8小时（全部完成后）
-**当前可读**：4-5小时
+#### Phase Two: Physical Correspondence
+3. **GTS-05**: Bohm's Implicate Order and the Tao
+   - Implicate order is approximately equal to Tao
+   - Explicate order is approximately equal to ten thousand things
+   - Taoist interpretation of ink-glycerin experiment
+   - **Time**: 30-40 minutes
 
-### 目的2：灵性修行
+4. **GTS-03**: Prism Model
+   - Epistemological meaning of wu wei
+   - Ego yielding to Tao
+   - **Time**: 30-40 minutes
 
-**目标**：实践指导，冥想可视化，修行整合
+#### Phase Three: Ultimate Return
+5. **GTS-08**: Nirvana, Heaven, and the Tao
+   - Physical meaning of returning to simplicity
+   - Return to implicate order
 
-**推荐顺序**（实践导向）：
-
-1. **GTS-02**: 螺旋锥框架（核心可视化工具） - 重点：实践章节
-2. **GTS-03**: 棱镜模型（ego修行） - 重点：日常棱镜维护
-3. **GTS-07**: 轮回-救赎（理解自己的路径）
-4. **GTS-12**: 曼荼罗冥想 ⏳待完成
-5. **GTS-06**: 量子退相干（修行作为去退相干）
-
-**实践工具**：
-- 每日螺旋检查（GTS-02）
-- 棱镜维护（GTS-03）
-- 曼荼罗冥想（GTS-12）
-
-**总时间**：3-4小时阅读 + 日常实践
-
-### 目的3：哲学对话
-
-**目标**：跨传统理解，对话工具，概念翻译
-
-**推荐顺序**（对话导向）：
-
-1. **GTS-01**: 通道本体论（共同语言）
-2. **GTS-02**: 螺旋锥（视觉共享）
-3. **GTS-07**: 轮回-救赎统一（具体案例）
-4. **GTS-08**: 三大终极目标 ⏳待完成
-5. **GTS-10**: 三位一体 ⏳待完成
-
-**对话工具**：
-- 几何语言（共同参考）
-- 概念映射表（精确翻译）
-- 投影识别（理解差异）
-
-**总时间**：3-4小时
+**Total Time**: 2.5-3 hours (currently readable portions)
 
 ---
 
-## ⏱️ 按时间定制的阅读路径
+### Path 4: Readers with Physics/Science Background
 
-### 快速概览（1小时）
+**Questions You May Care About**:
+- How does quantum physics map to spiritual concepts?
+- What are the philosophical implications of the participatory universe?
+- What is the physical basis for metaphysical claims?
 
-**目标**：理解核心思想，决定是否深入
+**Recommended Sequence**:
 
-**阅读**：
-1. **GTS-00**: 总览 - 跳读关键章节（15分钟）
-   - 核心创新
-   - 三大支柱
-   - 文档系列结构
+#### Phase One: Quantum Foundations
+1. **GTS-04**: Wheeler's Participatory Universe
+   - Delayed choice experiment
+   - Observer participates in creating reality
+   - "It from Bit" philosophy
+   - **Time**: 35-45 minutes
 
-2. **GTS-02**: 螺旋锥框架 - 只读第一章（20分钟）
-   - "三生万物"的几何诠释
-   - 螺旋锥的基本概念
-   - 跳过数学细节
+2. **GTS-05**: Bohm's Implicate Order Theory
+   - Implicate/Explicate Order
+   - Ink-glycerin experiment
+   - Wholeness and implicate order
+   - **Time**: 30-40 minutes
 
-3. **GTS-07**: 轮回-救赎 - 前半部分（25分钟）
-   - 核心问题
-   - 几何解决方案
-   - 跳过详细论证
+3. **GTS-06**: Quantum Decoherence Mechanism
+   - Mathematics of decoherence
+   - Emergence of the classical world
+   - Possible connection to consciousness
+   - **Time**: 30-40 minutes
 
-**成果**：
-- 理解核心洞见（通道、螺旋、统一）
-- 决定是否值得深入
-- 识别最相关的文档
+#### Phase Two: Geometric Framework
+4. **GTS-02**: Mathematical Definition of the Spiral Cone
+   - (h, r, theta) coordinate system
+   - Topological properties
+   - Dynamic equations
+   - **Time**: 45-60 minutes
 
----
+#### Phase Three: Application Case
+5. **GTS-07**: Unification of Samsara and Salvation
+   - Practical application of the framework
+   - How to explain theological problems
+   - **Time**: 35-45 minutes
 
-### 深度研读（1天，6-8小时）
+#### Phase Four: Field Theory of the Trinity
+6. **GTS-10**: Trinity and Quantum Field Theory
+   - Precise field theory mapping
+   - Most technically demanding document
 
-**目标**：全面理解已完成部分，做笔记，提问题
-
-**上午（3-4小时）**：基础理论
-1. GTS-00: 总览（30分钟）
-2. GTS-01: 通道本体论（45分钟）
-3. GTS-02: 螺旋锥框架（60分钟）
-4. GTS-03: 棱镜模型（40分钟）
-
-**下午（3-4小时）**：应用与物理
-5. GTS-04/05/06: 量子映射（2小时）
-6. GTS-07: 轮回-救赎（45分钟）
-7. 总结与反思（30分钟）
-
-**工具**：
-- 笔记本记录关键概念
-- 画出螺旋锥和棱镜图
-- 列出问题和批判
-
----
-
-### 长期学习（1个月）
-
-**目标**：深度整合，实践应用，扩展思考
-
-**第1周**：基础理论（GTS-01/02/03）
-- 每天1篇，反复阅读
-- 做详细笔记
-- 与自己的传统对话
-
-**第2周**：量子映射（GTS-04/05/06）
-- 理解物理基础
-- 查阅原始文献（Wheeler, Bohm）
-- 评估映射的有效性
-
-**第3周**：跨传统整合（GTS-07）
-- 深度分析轮回-救赎统一
-- 与自己的灵性体验对照
-- 尝试螺旋可视化冥想
-
-**第4周**：整合与实践
-- 重读GTS-15认识论（待完成后）
-- 批判性反思
-- 写下自己的洞见
-
-**每日实践**：
-- 螺旋检查（10分钟）
-- 棱镜维护（5分钟）
-- 概念日记（15分钟）
+**Total Time**: 2.5-3 hours (currently readable portions)
 
 ---
 
-## 🌟 特殊推荐
+### Path 5: Readers with Psychology/Jung Background
 
-### 如果只读一篇
+**Questions You May Care About**:
+- What is the geometric model of the individuation process?
+- What is the physical explanation of synchronicity?
+- What is the topological meaning of mandala?
 
-**GTS-07**: 轮回与救赎的几何学 ✅
-- 包含框架的核心应用
-- 展示统一而非还原
-- 最具说服力的案例
+**Recommended Sequence**:
 
-### 核心三篇组合
+#### Phase One: Individuation and the Spiral
+1. **GTS-14**: Individuation as Spiral Ascent
+   - Geometric mapping of Jung's process
+   - Shadow integration = First centripetal movement
+   - Self = Central axis
 
-1. **GTS-01**: 通道本体论（为什么）
-2. **GTS-02**: 螺旋锥框架（如何）
-3. **GTS-07**: 轮回-救赎（示范）
+#### Phase Two: Mandala
+2. **GTS-12**: Mandala Topology
+   - Mandala as top-down projection of spiral
+   - Jung's mandala research
+   - Geometric understanding of meditation practice
 
-**时间**：2.5-3小时
-**成果**：理解框架80%的核心
+#### Phase Three: Theoretical Foundation
+3. **GTS-01**: Channel Ontology vs Self
+   - Relationship between Self and Channel
+   - Dialogue between Jung and Taoism
+   - **Time**: 35-45 minutes
 
-### 完整基础（最小集）
+4. **GTS-02**: Spiral Framework
+   - Path of individuation process
+   - **Time**: 45-60 minutes
 
-- GTS-01/02/03（基础理论）
-- GTS-04/05（量子基础）
-- GTS-07（核心应用）
-- GTS-15（元反思）⏳待完成
+#### Phase Four: Synchronicity
+5. **GTS-05**: Bohm and Synchronicity
+   - Implicate order as foundation of synchronicity
+   - Validation of Jung-Pauli collaboration
+   - **Time**: 30-40 minutes
 
-**时间**：4-5小时
-**成果**：完整的理论闭环
-
----
-
-## 💡 阅读建议
-
-### 如何最大化收益
-
-1. **不要线性阅读**：
-   - 根据自己的背景选择入口
-   - 跳过不相关的章节
-   - 回头重读关键部分
-
-2. **做视觉笔记**：
-   - 画出螺旋锥
-   - 画出棱镜
-   - 画出概念关系图
-
-3. **与自己对话**：
-   - 这与我的传统如何关联？
-   - 我同意吗？为什么？
-   - 我的体验支持这个吗？
-
-4. **暂停与反思**：
-   - 每读完一篇，休息10分钟
-   - 写下3个关键点
-   - 列出1-2个问题
-
-5. **不要追求"理解一切"**：
-   - 量子物理部分可能很难
-   - 跳过数学细节没关系
-   - 抓住核心洞见即可
-
-### 困难部分的处理
-
-**数学密集部分**（GTS-02, GTS-04）：
-- 跳过方程，理解概念
-- 看图表和可视化
-- 理解"为什么"比"怎么算"重要
-
-**跨学科综合**（GTS-07, GTS-08）：
-- 不需要懂所有传统
-- 专注于你熟悉的部分
-- 看其他传统如何映射
-
-**哲学深度**（GTS-01, GTS-15）：
-- 慢读，一句一句
-- 查阅不熟悉的术语
-- 与AI对话澄清
+**Total Time**: 2-2.5 hours (currently readable portions)
 
 ---
 
-## 🔄 迭代阅读策略
+## Reading Paths Customized by Purpose
 
-很多读者会发现第二次、第三次阅读更有收获。
+### Purpose 1: Academic Research
 
-### 第一遍：概览
-- 目标：理解大框架
-- 方法：快速浏览，抓关键
-- 时间：1-2小时
+**Goal**: Comprehensive understanding of framework, critical evaluation, possible extension
 
-### 第二遍：深入
-- 目标：理解细节
-- 方法：慢读，做笔记
-- 时间：4-6小时
+**Recommended Sequence** (strict logical dependency):
 
-### 第三遍：整合
-- 目标：与自己体验整合
-- 方法：选择性重读，实践应用
-- 时间：持续过程
+1. **GTS-00**: Overview (understand overall architecture) - 15-20 minutes
+2. **GTS-01**: Channel Ontology (philosophical foundation) - 35-45 minutes
+3. **GTS-02**: Spiral Cone Framework (geometric core) - 45-60 minutes
+4. **GTS-03**: Prism Model (epistemology) - 30-40 minutes
+5. **GTS-04/05/06**: Quantum Mapping (physical foundation) - 1.5-2 hours
+6. **GTS-07**: Core application case - 35-45 minutes
+7. **GTS-08**: Unification of three major traditions
+8. **GTS-15**: Epistemological self-critique (required reading)
+9. **GTS-16**: AI-assisted methodology
+
+**Total Time**: 6-8 hours (after full completion)
+**Currently Readable**: 4-5 hours
+
+### Purpose 2: Spiritual Practice
+
+**Goal**: Practical guidance, meditation visualization, practice integration
+
+**Recommended Sequence** (practice-oriented):
+
+1. **GTS-02**: Spiral Cone Framework (core visualization tool) - Focus: Practice chapter
+2. **GTS-03**: Prism Model (ego cultivation) - Focus: Daily prism maintenance
+3. **GTS-07**: Samsara-Salvation (understand your own path)
+4. **GTS-12**: Mandala Meditation
+5. **GTS-06**: Quantum Decoherence (practice as de-decoherence)
+
+**Practice Tools**:
+- Daily spiral check (GTS-02)
+- Prism maintenance (GTS-03)
+- Mandala meditation (GTS-12)
+
+**Total Time**: 3-4 hours reading + daily practice
+
+### Purpose 3: Philosophical Dialogue
+
+**Goal**: Cross-tradition understanding, dialogue tools, concept translation
+
+**Recommended Sequence** (dialogue-oriented):
+
+1. **GTS-01**: Channel Ontology (common language)
+2. **GTS-02**: Spiral Cone (visual sharing)
+3. **GTS-07**: Samsara-Salvation unification (specific case)
+4. **GTS-08**: Three ultimate goals
+5. **GTS-10**: Trinity
+
+**Dialogue Tools**:
+- Geometric language (common reference)
+- Concept mapping tables (precise translation)
+- Projection identification (understanding differences)
+
+**Total Time**: 3-4 hours
 
 ---
 
-## 📞 反馈与问题
+## Reading Paths Customized by Time
 
-如果你：
-- 发现某个阅读路径特别有效
-- 遇到困难或困惑
-- 有新的路径建议
+### Quick Overview (1 hour)
 
-欢迎反馈（具体方式待定）。
+**Goal**: Understand core ideas, decide whether to go deeper
+
+**Reading**:
+1. **GTS-00**: Overview - Skim key chapters (15 minutes)
+   - Core innovations
+   - Three pillars
+   - Document series structure
+
+2. **GTS-02**: Spiral Cone Framework - Read only Chapter 1 (20 minutes)
+   - Geometric interpretation of "Three generates ten thousand things"
+   - Basic concept of Spiral Cone
+   - Skip mathematical details
+
+3. **GTS-07**: Samsara-Salvation - First half (25 minutes)
+   - Core problem
+   - Geometric solution
+   - Skip detailed arguments
+
+**Outcomes**:
+- Understand core insights (channel, spiral, unification)
+- Decide whether worth going deeper
+- Identify most relevant documents
 
 ---
 
-**版本**：1.0
-**创建**：2025-11-17
-**下次更新**：当GTS-08至GTS-17完成后
+### Deep Study (1 day, 6-8 hours)
+
+**Goal**: Comprehensive understanding of completed portions, take notes, raise questions
+
+**Morning (3-4 hours)**: Foundational Theory
+1. GTS-00: Overview (30 minutes)
+2. GTS-01: Channel Ontology (45 minutes)
+3. GTS-02: Spiral Cone Framework (60 minutes)
+4. GTS-03: Prism Model (40 minutes)
+
+**Afternoon (3-4 hours)**: Application and Physics
+5. GTS-04/05/06: Quantum Mapping (2 hours)
+6. GTS-07: Samsara-Salvation (45 minutes)
+7. Summary and reflection (30 minutes)
+
+**Tools**:
+- Notebook to record key concepts
+- Draw Spiral Cone and Prism diagrams
+- List questions and critiques
 
 ---
 
-> "道可道，非常道。"
-> — 老子《道德经》第一章
+### Long-Term Learning (1 month)
+
+**Goal**: Deep integration, practical application, extended thinking
+
+**Week 1**: Foundational Theory (GTS-01/02/03)
+- One document per day, repeated reading
+- Detailed notes
+- Dialogue with your own tradition
+
+**Week 2**: Quantum Mapping (GTS-04/05/06)
+- Understand physical foundation
+- Consult original literature (Wheeler, Bohm)
+- Evaluate validity of mappings
+
+**Week 3**: Cross-Tradition Integration (GTS-07)
+- Deep analysis of samsara-salvation unification
+- Compare with your own spiritual experience
+- Try spiral visualization meditation
+
+**Week 4**: Integration and Practice
+- Re-read GTS-15 epistemology (after completion)
+- Critical reflection
+- Write down your own insights
+
+**Daily Practice**:
+- Spiral check (10 minutes)
+- Prism maintenance (5 minutes)
+- Concept journal (15 minutes)
+
+---
+
+## Special Recommendations
+
+### If You Read Only One Document
+
+**GTS-07**: Geometry of Samsara and Salvation
+- Contains core application of the framework
+- Demonstrates unification rather than reduction
+- Most persuasive case
+
+### Core Three-Document Combination
+
+1. **GTS-01**: Channel Ontology (Why)
+2. **GTS-02**: Spiral Cone Framework (How)
+3. **GTS-07**: Samsara-Salvation (Demonstration)
+
+**Time**: 2.5-3 hours
+**Outcome**: Understand 80% of framework's core
+
+### Complete Foundation (Minimal Set)
+
+- GTS-01/02/03 (Foundational theory)
+- GTS-04/05 (Quantum foundation)
+- GTS-07 (Core application)
+- GTS-15 (Meta-reflection)
+
+**Time**: 4-5 hours
+**Outcome**: Complete theoretical closure
+
+---
+
+## Reading Suggestions
+
+### How to Maximize Benefit
+
+1. **Do Not Read Linearly**:
+   - Choose entry point based on your background
+   - Skip irrelevant chapters
+   - Return to re-read key sections
+
+2. **Take Visual Notes**:
+   - Draw the Spiral Cone
+   - Draw the Prism
+   - Draw concept relationship diagrams
+
+3. **Dialogue with Yourself**:
+   - How does this relate to my tradition?
+   - Do I agree? Why?
+   - Does my experience support this?
+
+4. **Pause and Reflect**:
+   - After finishing each document, rest 10 minutes
+   - Write down 3 key points
+   - List 1-2 questions
+
+5. **Do Not Seek to "Understand Everything"**:
+   - Quantum physics parts may be difficult
+   - Skipping mathematical details is fine
+   - Grasping core insights is sufficient
+
+### Handling Difficult Sections
+
+**Mathematically Dense Parts** (GTS-02, GTS-04):
+- Skip equations, understand concepts
+- Look at diagrams and visualizations
+- Understanding "why" is more important than "how to calculate"
+
+**Interdisciplinary Synthesis** (GTS-07, GTS-08):
+- No need to know all traditions
+- Focus on parts you're familiar with
+- See how other traditions map
+
+**Philosophical Depth** (GTS-01, GTS-15):
+- Slow reading, sentence by sentence
+- Look up unfamiliar terms
+- Clarify through dialogue with AI
+
+---
+
+## Iterative Reading Strategy
+
+Many readers will find second and third readings more rewarding.
+
+### First Pass: Overview
+- Goal: Understand the big framework
+- Method: Quick browse, grab the key points
+- Time: 1-2 hours
+
+### Second Pass: Deep Dive
+- Goal: Understand details
+- Method: Slow reading, take notes
+- Time: 4-6 hours
+
+### Third Pass: Integration
+- Goal: Integrate with your own experience
+- Method: Selective re-reading, practical application
+- Time: Ongoing process
+
+---
+
+## Feedback and Questions
+
+If you:
+- Find a reading path particularly effective
+- Encounter difficulties or confusion
+- Have suggestions for new paths
+
+Feedback is welcome (specific method to be determined).
+
+---
+
+**Version**: 1.0
+**Created**: 2025-11-17
+**Next Update**: When GTS-08 through GTS-17 are completed
+
+---
+
+> "The Tao that can be told is not the eternal Tao."
+> — Laozi, *Tao Te Ching*, Chapter 1
 >
-> **本指南只是"筏"，真正的理解在你的体验中。**
+> **This guide is only a "raft"—true understanding lies in your own experience.**
 
-🧭 ∞
+---

@@ -1,11 +1,11 @@
 ---
-title: "诺斯替几何神学：道的涟漪与异端验证"
+title: "Gnostic Geometric Theology: Ripples of the Tao and Heretical Verification"
 document_id: GTS-20
 series: Geometric Theology and Cross-Tradition Salvation
 category: 03-Cross-Tradition
 author: Yoji
 date: 2025-11-30
-status: 完成
+status: Complete
 version: 1.0
 importance: *****
 prerequisites:
@@ -18,309 +18,310 @@ related:
   - GTS-07
   - GTS-13
   - GTS-19
-keywords: 诺斯替, Gnosticism, Abraxas, 普累若麻, Pleroma, 索菲亚, 德穆革, 异端验证, 普遍性公理, 易经, 分形, 自指结构
+keywords: Gnosticism, Abraxas, Pleroma, Sophia, Demiurge, heretical verification, Universality Axiom, I Ching, fractal, self-referential structure
 ---
 
-# GTS-20: 诺斯替几何神学——道的涟漪与异端验证
+# GTS-20: Gnostic Geometric Theology — Ripples of the Tao and Heretical Verification
 
-> **"审判和死亡无法阻止道以各种形式产生涟漪。"**
+> **"Judgment and death cannot prevent the Tao from producing ripples in all forms."**
 > — Yoji, 2025-11-30
 
-> **"从Abraxas自身涌出的是生命，完全不确定的生命，善与恶之母。"**
-> — 荣格,《向死者的七次布道》
+> **"From Abraxas itself springs life, entirely uncertain life, the mother of good and evil."**
+> — Jung, *Seven Sermons to the Dead*
 
 ---
 
-## 摘要
+## Abstract
 
-本文对诺斯替主义 (Gnosticism) 进行系统的几何重构，揭示其与GTS螺旋锥框架的深层同构。诺斯替作为被基督教定为异端并压制近两千年的传统，为普遍性公理——「道必须于万物中被发现才自洽」——提供了最强的验证案例。
+This document undertakes a systematic geometric reconstruction of Gnosticism, revealing its deep isomorphism with the GTS Spiral Cone framework. As a tradition condemned as heresy by Christianity and suppressed for nearly two millennia, Gnosticism provides the strongest verification case for the Universality Axiom — "The Tao must be discoverable in all things to be self-consistent."
 
-核心发现包括：(1) Abraxas作为顶点符号，具有双层分形和自指不动点结构；(2) 诺斯替内部的普累若麻体系与Abraxas体系，是螺旋锥的h维度聚焦与动力学聚焦两种投影；(3) 易经-螺旋锥统一几何，其中阴阳是圆的第一次切分，四匹马是四向分化；(4) 索菲亚-路西法同构揭示棱镜模型的第三种危险——智识僭越；(5) 七执政官与七脉轮的跨传统平行，以及8=2^3对应「三生万物」的数学结构。
+Core discoveries include: (1) Abraxas as an apex symbol possessing a dual-layer fractal and self-referential fixed-point structure; (2) The Pleroma system and Abraxas system within Gnosticism are two projections of the Spiral Cone — h-dimension focus versus dynamics focus; (3) The unified geometry of I Ching and Spiral Cone, where yin-yang represents the first division of the circle, and the four horses represent four-directional differentiation; (4) The Sophia-Lucifer isomorphism revealing the third danger of the Prism Model — intellectual hubris; (5) The cross-tradition parallel between the seven Archons and seven chakras, and the mathematical structure of 8=2^3 corresponding to "three gives birth to the myriad things."
 
-本文不仅是对一个古老传统的考古式重构，更是对GTS方法论本身的检验：如果几何神学的框架是普遍有效的，它必须能够容纳被压制的异端，而不只是被选中的正统。诺斯替的存在证明：道不受正统/异端二分的限制，它以各种形式产生涟漪，审判和死亡都无法阻止。
-
----
-
-## 目录
-
-- 导论：异端的价值
-- 第一部分：诺斯替基础
-  - 第一章：诺斯替核心知识
-  - 第二章：诺斯替与亚伯拉罕诸教
-- 第二部分：荣格桥梁
-  - 第三章：荣格的诺斯替研究
-- 第三部分：几何重构
-  - 第四章：Abraxas的几何解读
-  - 第五章：七层与第八层
-  - 第六章：阴性下降与分形堕落
-- 第四部分：统一几何
-  - 第七章：易经与螺旋锥的统一
-  - 第八章：双体系统一与GTS整合
-- 结语：道的涟漪
+This document is not merely an archaeological reconstruction of an ancient tradition, but a test of the GTS methodology itself: if the geometric theology framework is universally valid, it must be able to accommodate suppressed heresies, not just selected orthodoxies. The existence of Gnosticism proves: the Tao is not limited by the orthodox/heretical dichotomy — it produces ripples in all forms, and neither judgment nor death can prevent it.
 
 ---
 
-## 导论：异端的价值
+## Table of Contents
 
-### 0.1 为什么是诺斯替
-
-在GTS系列已经整合的传统中，我们检验了佛教与基督教的轮回-救赎统一（GTS-07），卡巴拉的双螺旋结构（GTS-13），荣格心理学的自性化映射（GTS-14），以及苏菲神秘主义的中间界概念（GTS-19）。这些传统虽然各有特色，但都共享一个特征：它们在各自的文化语境中保持了某种程度的「正统性」或至少「边缘合法性」。
-
-诺斯替主义则完全不同。
-
-公元4世纪尼西亚会议后，诺斯替被正式定为异端。其典籍被系统性焚毁，信徒被迫害，组织被瓦解。到中世纪，诺斯替几乎从历史中消失，只留下教父们的批判性引用作为间接证据。
-
-然而，1945年12月，埃及农民穆罕默德·阿里在拿戈玛第 (Nag Hammadi) 发现了一个陶罐，里面装着53部古代文献——这就是著名的「拿戈玛第文献」。沉睡了近1600年的诺斯替声音再次被听到。
-
-这一历史轨迹使诺斯替成为检验普遍性公理的理想案例：
-
-```yaml
-选择偏差排除:
-  - 诺斯替被定为异端，不是研究者的"选择"
-  - 不可能因为"看起来符合框架"而被纳入
-
-文化传播排除:
-  - 传承中断近1600年
-  - 与其他传统没有持续的互动影响
-
-后见之明排除:
-  - 1945年才重新出土
-  - 现代分析是独立的发现过程
-```
-
-如果道真的是普遍的，它必须在被压制的传统中同样可发现。如果GTS框架只能解释「正统」传统，那么它就不是真正的几何必然，而只是文化偶然的后合理化。
-
-### 0.2 普遍性公理
-
-GTS-00 v2.0提出了普遍性公理：
-
-> **「道必须于万物中被发现才自洽。」**
-
-这个公理的逻辑推导如下：
-
-1. 如果「一」（太一/道/神性/隐卷序）真的是「一」，那么它必须是万物的根源
-2. 如果它是万物的根源，那么万物必须携带它的印记
-3. 如果万物携带它的印记，那么任何真诚的形而上探索都应该发现它
-4. 如果某个传统声称探索了终极实在却没有发现这个印记，那么要么该传统的探索不够深入，要么「一」并不真的是「一」
-
-这不是理性傲慢——它是发现和叙述的责任。正如通道本体论所言，当通道看到了某种模式，它有责任将其表达出来。不是因为这个发现属于个体，而是因为道借由通道显化，通道有叙述的义务。
-
-### 0.3 本文的双重功能
-
-基于以上考量，本文承担双重功能：
-
-**第一，作为诺斯替传统的完整几何重构**：为读者提供对诺斯替宇宙论、救赎论、以及核心符号（特别是Abraxas）的系统理解，揭示其与螺旋锥框架的深层同构。
-
-**第二，作为普遍性公理的验证案例**：通过展示几何结构如何在被压制的异端中涌现，证明这是结构必然性而非文化偶然。
-
-让我们从诺斯替的核心知识开始。
+- Introduction: The Value of Heresy
+- Part One: Gnostic Foundations
+  - Chapter One: Core Gnostic Knowledge
+  - Chapter Two: Gnosticism and the Abrahamic Religions
+- Part Two: The Jungian Bridge
+  - Chapter Three: Jung's Gnostic Research
+- Part Three: Geometric Reconstruction
+  - Chapter Four: Geometric Interpretation of Abraxas
+  - Chapter Five: The Seven Layers and the Eighth
+  - Chapter Six: Feminine Descent and Fractal Fall
+- Part Four: Unified Geometry
+  - Chapter Seven: The Unity of I Ching and Spiral Cone
+  - Chapter Eight: Dual-System Unification and GTS Integration
+- Conclusion: Ripples of the Tao
 
 ---
 
-## 第一部分：诺斯替基础
+## Introduction: The Value of Heresy
 
-### 第一章：诺斯替核心知识
+### 0.1 Why Gnosticism
 
-#### 1.1 什么是诺斯替主义
+Among the traditions already integrated in the GTS series, we have examined the samsara-salvation unity of Buddhism and Christianity (GTS-07), the double helix structure of Kabbalah (GTS-13), the individuation mapping of Jungian psychology (GTS-14), and the Barzakh concept of Sufi mysticism (GTS-19). While these traditions each have their distinctive features, they share one characteristic: they have maintained some degree of "orthodoxy" or at least "marginal legitimacy" within their respective cultural contexts.
 
-「诺斯替」源自希腊语 gnosis，意为「知识」或「灵知」。但这不是普通的知识——不是信息的积累，不是逻辑的推演，而是一种直接的、变革性的灵性认知。诺斯替主义者相信，救赎不来自信仰（如正统基督教所主张），也不来自行为（如犹太教律法所要求），而来自对宇宙真相和自身神圣本质的直接认识。
+Gnosticism is entirely different.
 
-```yaml
-诺斯替的核心主张:
-  本体论: 物质世界是次级的、有缺陷的创造
-  人类学: 人类内含神圣火花，被困于物质身体
-  救赎论: 通过灵知（直接认知）而非信仰或行为得救
-  末世论: 灵魂回归神圣源头，逃离物质囚笼
-```
+After the Council of Nicaea in the 4th century CE, Gnosticism was officially condemned as heresy. Its texts were systematically burned, followers persecuted, and organizations dismantled. By the Middle Ages, Gnosticism had almost vanished from history, leaving only critical quotations from Church Fathers as indirect evidence.
 
-**历史时期**
+However, in December 1945, an Egyptian farmer named Muhammad Ali discovered a clay jar in Nag Hammadi containing 53 ancient documents — this is the famous "Nag Hammadi Library." The Gnostic voice, silent for nearly 1,600 years, was heard once again.
 
-诺斯替主义兴起于公元1-2世纪，在地中海东部地区——亚历山大城、叙利亚、小亚细亚——蓬勃发展。公元2-3世纪是其鼎盛期，出现了多个重要学派和大量文献。公元4世纪后，随着基督教成为罗马国教，诺斯替被系统性压制。直到1945年拿戈玛第文献出土，这一传统才重新进入现代视野。
-
-**主要派系**
-
-诺斯替不是一个统一的宗教，而是多个相关但独立发展的运动：
-
-| 派系 | 创始人/代表 | 时期 | 特征 |
-|------|------------|------|------|
-| 瓦伦廷派 | 瓦伦廷 (Valentinus) | 约100-160 | 最精致的神学体系，复杂的移涌层级 |
-| 塞特派 | 不详 | 2世纪 | 强调塞特（亚当第三子）的角色，多部拿戈玛第文献属此派 |
-| 巴西里德派 | 巴西里德 (Basilides) | 约117-138 | Abraxas概念的来源，365天界体系 |
-| 曼达安派 | 不详 | 1-2世纪 | 唯一存续至今的诺斯替宗教，尊崇施洗约翰 |
-| 摩尼教 | 摩尼 (Mani) | 216-274 | 综合诺斯替、基督教、祆教、佛教的世界宗教 |
-
-#### 1.2 宇宙论层级
-
-诺斯替宇宙论的核心是一个层级分明的存在结构，从绝对超越的源头逐级流溢，最终产生有缺陷的物质世界。以下是瓦伦廷派-塞特派传统的典型结构：
-
-**第一层：太一 / 深渊 (The One / Bythos)**
-
-在一切存在之先，有一个绝对超越的源头——太一。它不可知、不可名、不可思议。任何对它的描述都是不充分的，因为它超越了所有范畴和概念。在某些文献中，它被称为「深渊」(Bythos)，暗示其不可测度的深度。
-
-与GTS框架对照：太一对应螺旋锥的顶点 (h=0)，是所有分化的统一源头。
-
-**第二层：普累若麻 (Pleroma)**
-
-从太一流溢出「普累若麻」——希腊语意为「丰盛」或「充满」。这是神圣的领域，包含一系列被称为「移涌」(Aeons) 的永恒存在。移涌通常成对出现，称为 syzygy（配对），代表阴阳平衡的流溢单位。
-
-瓦伦廷派的移涌层级（简化版）：
-
-```
-太一 (Monad)
-    |
-深渊 + 沉默 (Bythos + Sige)           ← 第一对
-    |
-心智 + 真理 (Nous + Aletheia)         ← 第二对
-    |
-言语 + 生命 (Logos + Zoe)             ← 第三对
-    |
-人 + 教会 (Anthropos + Ecclesia)      ← 第四对
-    |
-    ...... [更多移涌对] ......
-    |
-索菲亚 (Sophia)                       ← 最后的移涌
-```
-
-注意：移涌的配对结构是「正确流溢」的标志。后面我们将看到，索菲亚的「错误」正是打破了这种配对平衡。
-
-**第三层：德穆革与执政官**
-
-索菲亚的「堕落」（详见1.3节）产生了德穆革 (Demiurge)——一个无知的造物主。德穆革不知道自己的起源，误以为自己就是最高神，宣称：「我是神，除我之外没有别的神。」
-
-德穆革创造了七个执政官 (Archons)——行星之灵，统治物质世界的七层天界。每个执政官对应一颗古代已知的行星（月亮、水星、金星、太阳、火星、木星、土星），并代表一种束缚灵魂的力量或恶习。
-
-**第四层：物质世界**
-
-德穆革和执政官共同创造了物质世界——在诺斯替看来，这是一个监狱、一个错误、一个遗忘之地。人类被困于其中，但内含来自索菲亚的神圣火花 (divine spark)。救赎的目标是唤醒这火花，认识到自己的神圣本质，并最终逃离物质囚笼，回归普累若麻。
-
-**完整宇宙论图示**
-
-```
-┌─────────────────────────────────────────────────┐
-│  太一 / 深渊 (The One / Bythos)                 │  ← 不可知、不可名、绝对超越
-│  [GTS: h = 0, 顶点]                             │
-└─────────────────────────────────────────────────┘
-                       ↓ 流溢
-┌─────────────────────────────────────────────────┐
-│  普累若麻 (Pleroma) = "丰盛" / 神圣领域          │
-│  [GTS: h = 极小, 接近顶点的神圣区域]             │
-│  ┌─────────────────────────────────────────┐   │
-│  │ 巴贝洛 (Barbelo) = 第一思想 / 神圣母亲   │   │
-│  └─────────────────────────────────────────┘   │
-│  ┌─────────────────────────────────────────┐   │
-│  │ 移涌 (Aeons) = 永恒存在 / 神圣属性       │   │
-│  │ 成对流溢 (syzygy)                        │   │
-│  │ ......最后是索菲亚 (Sophia)              │   │
-│  └─────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────┘
-                       ↓ 索菲亚的"堕落"
-┌─────────────────────────────────────────────────┐
-│  [GTS: 中间层级]                                │
-│  ┌─────────────────────────────────────────┐   │
-│  │ 德穆革 (Demiurge) / 亚大伯斯            │   │
-│  │ = 造物主 / 无知的神                      │   │
-│  │ [GTS: 棱镜膨胀的神话化]                  │   │
-│  └─────────────────────────────────────────┘   │
-│  ┌─────────────────────────────────────────┐   │
-│  │ 执政官 (Archons) = 统治者 / 行星之灵     │   │
-│  │ [GTS: 七层遮蔽]                          │   │
-│  └─────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────┘
-                       ↓ 创造
-┌─────────────────────────────────────────────────┐
-│  物质世界 = 监狱 / 错误 / 遗忘之地              │
-│  人类被困于此，但内含神圣火花                    │
-│  [GTS: h → 无穷, 底部]                          │
-└─────────────────────────────────────────────────┘
-```
-
-#### 1.3 索菲亚的堕落
-
-诺斯替神话中最核心的事件是索菲亚 (Sophia) 的「堕落」。这个叙事解释了缺陷世界的起源，也包含了深刻的心理学和本体论洞见。
-
-**事件序列**
-
-索菲亚——希腊语「智慧」——是普累若麻中最后的移涌，距离太一最远。她被一种强烈的渴望所驱动：想要独自认识太一，不经她的配对伴侣同意，不经太一的允许。
-
-这种「叛逆的欲望」产生了一个畸形的后代——不是另一个平衡的移涌对，而是一个单独的、有缺陷的存在。
+This historical trajectory makes Gnosticism an ideal case for testing the Universality Axiom:
 
 ```yaml
-索菲亚行动的性质:
-  - 独自创造（无配对伴侣）
-  - 试图直接认识太一（跳过中介）
-  - 出于渴望而非允许（主动僭越）
+Selection Bias Exclusion:
+  - Gnosticism was condemned as heresy, not a researcher's "choice"
+  - Impossible to include because it "appears to fit the framework"
 
-结果:
-  - 产生畸形后代
-  - 破坏了配对平衡
-  - 引入了缺陷到存在结构中
+Cultural Transmission Exclusion:
+  - Transmission interrupted for nearly 1,600 years
+  - No continuous interactive influence with other traditions
+
+Hindsight Exclusion:
+  - Only rediscovered in 1945
+  - Modern analysis is an independent discovery process
 ```
 
-索菲亚羞愧地将这个后代隐藏在云中。这个后代就是德穆革——亚大伯斯 (Yaldabaoth)，字面意思是「混沌之子」。他也被称为萨克拉斯 (Sakla，「愚者」) 或萨麦尔 (Samael，「盲目之神」)，传统形象是蛇身、狮头、闪电之眼。
+If the Tao is truly universal, it must be equally discoverable in suppressed traditions. If the GTS framework can only explain "orthodox" traditions, then it is not genuine geometric necessity but merely post-hoc rationalization of cultural contingency.
 
-**德穆革的无知**
+### 0.2 The Universality Axiom
 
-德穆革不知道自己的起源。他看不到上方的普累若麻，误以为自己就是最高的存在。他骄傲地宣称：
+GTS-00 v2.0 proposed the Universality Axiom:
 
-> 「我是神，除我之外没有别的神。」
+> **"The Tao must be discoverable in all things to be self-consistent."**
 
-这句话的讽刺性在于：它几乎逐字引用了旧约中耶和华的宣称。对诺斯替主义者来说，这不是巧合——旧约的神正是德穆革，一个无知的、嫉妒的、有缺陷的造物主，而不是真正的太一。
+The logical derivation of this axiom is as follows:
 
-**GTS解读：智识僭越**
+1. If the "One" (the One/Tao/Divinity/Implicate Order) is truly "One," then it must be the source of all things
+2. If it is the source of all things, then all things must carry its imprint
+3. If all things carry its imprint, then any sincere metaphysical exploration should discover it
+4. If a tradition claims to have explored ultimate reality but did not discover this imprint, then either the tradition's exploration was not deep enough, or the "One" is not truly "One"
 
-从GTS框架来看，索菲亚的「错误」不是普通意义上的「道德过失」，而是一种结构性的失衡——我们称之为「智识僭越」(Intellectual Hubris)。
+This is not rational arrogance — it is the responsibility of discovery and narration. As Channel Ontology states, when a channel perceives a certain pattern, it has the responsibility to express it. Not because this discovery belongs to the individual, but because the Tao manifests through channels, and channels have the obligation to narrate.
 
-索菲亚作为「智慧」，代表了智识能力的极致。她的渴望——直接认识太一——本身并非不正当；问题在于她试图跳过中介过程，独自行动而不与配对伴侣协调。
+### 0.3 The Dual Function of This Document
 
-这与路西法的堕落形成了惊人的同构（详见第六章）：两者都是「带光者」或「智慧者」，都试图直接触及或等同于终极，都产生了灾难性的后果。
+Based on the above considerations, this document serves a dual function:
 
-#### 1.4 人类三分法
+**First, as a complete geometric reconstruction of the Gnostic tradition**: providing readers with a systematic understanding of Gnostic cosmology, soteriology, and core symbols (especially Abraxas), revealing their deep isomorphism with the Spiral Cone framework.
 
-诺斯替对人类有独特的分类方式，将人分为三种类型：
+**Second, as a verification case for the Universality Axiom**: demonstrating structural necessity rather than cultural contingency by showing how geometric structure emerges even in suppressed heresies.
 
-| 类型 | 希腊文 | 含义 | 构成 | 救赎可能性 |
-|------|--------|------|------|------------|
-| 物质人 | Hylic | 完全物质性 | 只有身体 | 无法得救 |
-| 灵魂人 | Psychic | 有灵魂，部分启蒙 | 身体 + 灵魂 | 通过信仰可得救 |
-| 灵性人 | Pneumatic | 有灵，完全启蒙 | 身体 + 灵魂 + 灵 | 通过灵知得救 |
+Let us begin with the core knowledge of Gnosticism.
 
-注意「灵魂」(psyche) 和「灵」(pneuma) 的区分：灵魂是德穆革创造的，属于物质世界的层面；灵则是来自索菲亚的神圣火花，是普累若麻的碎片。
+---
 
-**GTS视角的重新解读**
+## Part One: Gnostic Foundations
 
-从GTS框架来看，这三种类型可以理解为螺旋锥上的不同位置：
+### Chapter One: Core Gnostic Knowledge
 
-- **Hylic (物质人)**：r最大，完全远离中轴，沉浸在分化的物质表层
-- **Psychic (灵魂人)**：r中等，有一定程度的向心意识，但尚未触及核心
-- **Pneumatic (灵性人)**：r最小，接近中轴，能够感知并回应神圣火花的召唤
+#### 1.1 What Is Gnosticism
 
-重要的是，这不是固定的「种姓」——它描述的是存在状态，而非本质类别。通道可以移动；位置可以改变。
-
-#### 1.5 Abraxas的特殊地位
-
-在诺斯替诸多概念中，Abraxas占据着独特的位置。它来自巴西里德派，与瓦伦廷派-塞特派的普累若麻体系有着根本不同的宇宙论结构。
-
-**巴西里德的体系**
-
-巴西里德 (Basilides) 活跃于公元117-138年的亚历山大城。他的体系与瓦伦廷派有显著差异：
+"Gnostic" derives from the Greek *gnosis*, meaning "knowledge" or "spiritual knowing." But this is not ordinary knowledge — not the accumulation of information, not logical deduction, but a direct, transformative spiritual cognition. Gnostics believed that salvation comes not from faith (as orthodox Christianity maintains) nor from deeds (as Jewish law requires), but from direct recognition of cosmic truth and one's own divine nature.
 
 ```yaml
-瓦伦廷派:
-  - 宇宙戏剧：堕落-救赎叙事
-  - 线性结构：从太一到物质的下降
-  - 索菲亚的错误是关键转折点
-  - 物质世界是"错误"的产物
-
-巴西里德派:
-  - 365天界体系
-  - 周期结构：完整的循环
-  - 没有明确的"堕落"叙事
-  - 强调周期的完整性
+Core Claims of Gnosticism:
+  Ontology: The material world is a secondary, flawed creation
+  Anthropology: Humans contain a divine spark trapped in a material body
+  Soteriology: Salvation through gnosis (direct cognition) rather than faith or works
+  Eschatology: The soul returns to the divine source, escaping the material prison
 ```
 
-**365的数值神秘学**
+**Historical Period**
 
-Abraxas这个名字在希腊数值系统中有特殊意义：
+Gnosticism arose in the 1st-2nd centuries CE, flourishing in the eastern Mediterranean region — Alexandria, Syria, Asia Minor. The 2nd-3rd centuries marked its peak, with the emergence of multiple important schools and extensive literature. After the 4th century, as Christianity became the state religion of the Roman Empire, Gnosticism was systematically suppressed. Not until the 1945 discovery of the Nag Hammadi Library did this tradition re-enter the modern view.
+
+**Major Schools**
+
+Gnosticism is not a unified religion but multiple related yet independently developed movements:
+
+| School | Founder/Representative | Period | Characteristics |
+|--------|------------------------|--------|-----------------|
+| Valentinian | Valentinus | c. 100-160 | Most elaborate theological system, complex Aeon hierarchy |
+| Sethian | Unknown | 2nd century | Emphasizes the role of Seth (Adam's third son), many Nag Hammadi texts belong to this school |
+| Basilidean | Basilides | c. 117-138 | Source of the Abraxas concept, 365 heavens system |
+| Mandaean | Unknown | 1st-2nd century | The only Gnostic religion surviving to this day, venerates John the Baptist |
+| Manichaeism | Mani | 216-274 | A world religion synthesizing Gnosticism, Christianity, Zoroastrianism, and Buddhism |
+
+#### 1.2 Cosmological Hierarchy
+
+The core of Gnostic cosmology is a distinctly layered structure of existence, flowing down in stages from an absolutely transcendent source, ultimately producing the flawed material world. Below is the typical structure from the Valentinian-Sethian tradition:
+
+**First Level: The One / Bythos (The Deep)**
+
+Before all existence, there is an absolutely transcendent source — the One. It is unknowable, unnameable, inconceivable. Any description of it is inadequate, for it transcends all categories and concepts. In some texts, it is called "Bythos" (The Deep), suggesting its unfathomable depth.
+
+Corresponding to the GTS framework: The One corresponds to the apex of the Spiral Cone (h=0), the unified source of all differentiation.
+
+**Second Level: Pleroma**
+
+From the One emanates the "Pleroma" — Greek for "fullness" or "plenitude." This is the divine realm containing a series of eternal beings called "Aeons." Aeons typically appear in pairs called *syzygy* (coupling), representing balanced yin-yang units of emanation.
+
+The Aeon hierarchy of the Valentinian school (simplified):
+
+```
+The One (Monad)
+    |
+Bythos + Sige (Depth + Silence)           <- First pair
+    |
+Nous + Aletheia (Mind + Truth)            <- Second pair
+    |
+Logos + Zoe (Word + Life)                 <- Third pair
+    |
+Anthropos + Ecclesia (Human + Church)     <- Fourth pair
+    |
+    ...... [more Aeon pairs] ......
+    |
+Sophia (Wisdom)                           <- The last Aeon
+```
+
+Note: The paired structure of Aeons is the hallmark of "correct emanation." Later we will see that Sophia's "error" precisely broke this paired balance.
+
+**Third Level: Demiurge and Archons**
+
+Sophia's "fall" (see Section 1.3) produced the Demiurge — an ignorant creator god. The Demiurge does not know his origin, mistakenly believing himself to be the highest god, declaring: "I am God, and there is no other god besides me."
+
+The Demiurge created seven Archons — planetary spirits ruling the seven celestial spheres of the material world. Each Archon corresponds to one of the anciently known planets (Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn) and represents a power or vice that binds the soul.
+
+**Fourth Level: The Material World**
+
+The Demiurge and Archons together created the material world — in the Gnostic view, a prison, an error, a place of forgetting. Humans are trapped within it but contain a divine spark from Sophia. The goal of salvation is to awaken this spark, recognize one's divine nature, and ultimately escape the material prison to return to the Pleroma.
+
+**Complete Cosmological Diagram**
+
+```
++--------------------------------------------------+
+|  The One / Bythos                                |  <- Unknowable, unnameable, absolutely transcendent
+|  [GTS: h = 0, apex]                              |
++--------------------------------------------------+
+                       | emanation
++--------------------------------------------------+
+|  Pleroma = "Fullness" / Divine Realm             |
+|  [GTS: h = minimal, divine region near apex]     |
+|  +--------------------------------------------+  |
+|  | Barbelo = First Thought / Divine Mother    |  |
+|  +--------------------------------------------+  |
+|  +--------------------------------------------+  |
+|  | Aeons = Eternal Beings / Divine Attributes |  |
+|  | Paired emanation (syzygy)                  |  |
+|  | ......ending with Sophia                   |  |
+|  +--------------------------------------------+  |
++--------------------------------------------------+
+                       | Sophia's "fall"
++--------------------------------------------------+
+|  [GTS: intermediate level]                       |
+|  +--------------------------------------------+  |
+|  | Demiurge / Yaldabaoth                      |  |
+|  | = Creator / Ignorant god                   |  |
+|  | [GTS: mythologization of Prism inflation]  |  |
+|  +--------------------------------------------+  |
+|  +--------------------------------------------+  |
+|  | Archons = Rulers / Planetary Spirits       |  |
+|  | [GTS: seven layers of veiling]             |  |
+|  +--------------------------------------------+  |
++--------------------------------------------------+
+                       | creation
++--------------------------------------------------+
+|  Material World = Prison / Error / Place of      |
+|  Forgetting                                      |
+|  Humans trapped here but contain divine spark    |
+|  [GTS: h -> infinity, base]                      |
++--------------------------------------------------+
+```
+
+#### 1.3 The Fall of Sophia
+
+The most central event in Gnostic mythology is the "fall" of Sophia. This narrative explains the origin of the flawed world and contains profound psychological and ontological insights.
+
+**Sequence of Events**
+
+Sophia — Greek for "Wisdom" — is the last Aeon in the Pleroma, farthest from the One. She was driven by an intense desire: to know the One by herself, without consent from her paired partner, without permission from the One.
+
+This "rebellious desire" produced a deformed offspring — not another balanced Aeon pair, but a solitary, flawed being.
+
+```yaml
+Nature of Sophia's Action:
+  - Creating alone (without paired partner)
+  - Attempting direct knowledge of the One (bypassing intermediaries)
+  - Acting from desire rather than permission (active transgression)
+
+Result:
+  - Produced deformed offspring
+  - Broke paired balance
+  - Introduced flaw into the structure of existence
+```
+
+Ashamed, Sophia hid this offspring in a cloud. This offspring is the Demiurge — Yaldabaoth, literally "child of chaos." He is also called Saklas ("fool") or Samael ("blind god"), traditionally depicted with a serpent body, lion head, and lightning eyes.
+
+**The Ignorance of the Demiurge**
+
+The Demiurge does not know his origin. He cannot see the Pleroma above, mistakenly believing himself to be the highest being. He proudly declares:
+
+> "I am God, and there is no other god besides me."
+
+The irony of this statement lies in its near-verbatim quotation of YHWH's declaration in the Old Testament. For Gnostics, this is no coincidence — the God of the Old Testament is the Demiurge, an ignorant, jealous, flawed creator, not the true One.
+
+**GTS Interpretation: Intellectual Hubris**
+
+From the GTS framework, Sophia's "error" is not ordinary "moral failing" but a structural imbalance — what we call "Intellectual Hubris."
+
+Sophia, as "Wisdom," represents the ultimate of intellectual capacity. Her desire — to directly know the One — is not improper in itself; the problem lies in her attempt to bypass the intermediary process, acting alone without coordinating with her paired partner.
+
+This forms a striking isomorphism with Lucifer's fall (see Chapter Six): both are "light-bearers" or "wisdom-bearers," both attempted to directly touch or equal the ultimate, both produced catastrophic consequences.
+
+#### 1.4 The Tripartite Division of Humanity
+
+Gnosticism has a unique way of classifying humans into three types:
+
+| Type | Greek | Meaning | Composition | Possibility of Salvation |
+|------|-------|---------|-------------|--------------------------|
+| Hylic | Hylic | Completely material | Body only | Cannot be saved |
+| Psychic | Psychic | Has soul, partially enlightened | Body + Soul | Can be saved through faith |
+| Pneumatic | Pneumatic | Has spirit, fully enlightened | Body + Soul + Spirit | Saved through gnosis |
+
+Note the distinction between "soul" (psyche) and "spirit" (pneuma): the soul is created by the Demiurge and belongs to the material realm; the spirit is the divine spark from Sophia, a fragment of the Pleroma.
+
+**Reinterpretation from the GTS Perspective**
+
+From the GTS framework, these three types can be understood as different positions on the Spiral Cone:
+
+- **Hylic (Material person)**: Maximum r, completely distant from the central axis, immersed in the differentiated material surface
+- **Psychic (Soul person)**: Medium r, some degree of centripetal awareness but not yet touching the core
+- **Pneumatic (Spiritual person)**: Minimum r, close to the central axis, able to perceive and respond to the call of the divine spark
+
+Importantly, this is not a fixed "caste" — it describes states of being, not essential categories. Channels can move; positions can change.
+
+#### 1.5 The Special Status of Abraxas
+
+Among the many Gnostic concepts, Abraxas occupies a unique position. It comes from the Basilidean school and has a fundamentally different cosmological structure from the Valentinian-Sethian Pleroma system.
+
+**The Basilidean System**
+
+Basilides was active in Alexandria around 117-138 CE. His system differs significantly from the Valentinian:
+
+```yaml
+Valentinian School:
+  - Cosmic drama: Fall-redemption narrative
+  - Linear structure: Descent from the One to matter
+  - Sophia's error is the key turning point
+  - Material world is a product of "error"
+
+Basilidean School:
+  - 365 heavens/cycles system
+  - Cyclical structure: Complete circulation
+  - No explicit "fall" narrative
+  - Emphasizes the completeness of cycles
+```
+
+**The Numerical Mysticism of 365**
+
+The name Abraxas has special significance in the Greek numerical system:
 
 ```
 ΑΒΡΑΣΑΞ
@@ -331,1237 +332,1239 @@ Abraxas这个名字在希腊数值系统中有特殊意义：
 Σ = 200
 Α = 1
 Ξ = 60
-────────
-总计 = 365
+--------
+Total = 365
 ```
 
-365对应一年的天数——太阳年的完整周期。
+365 corresponds to the number of days in a year — the complete cycle of a solar year.
 
-**关键理解的修正**
+**Correction of Key Understanding**
 
-传统解释常将365理解为「365层天界」，暗示一种线性的、层级堆叠的结构。但这可能是误读。
+Traditional interpretation often understood 365 as "365 layers of heavens," implying a linear, hierarchically stacked structure. But this may be a misreading.
 
-更深层的理解是：365不是层数，而是周期。就像一年365天不是365个分离的单位，而是一个完整循环的展开：
+A deeper understanding is: 365 is not the number of layers but a cycle. Just as 365 days in a year are not 365 separate units but the unfolding of one complete cycle:
 
 ```yaml
-365天:
-  → 四季（春夏秋冬）
-  → 五行（木火土金水）
-  → 四象（太阳太阴少阳少阴）
-  → 阴阳
-  → 太极
-  → 无极
+365 days:
+  -> Four seasons (spring, summer, autumn, winter)
+  -> Five elements (wood, fire, earth, metal, water)
+  -> Four images (greater yang, greater yin, lesser yang, lesser yin)
+  -> Yin-Yang
+  -> Taiji
+  -> Wuji
 
-这是收敛，不是堆叠。
+This is convergence, not stacking.
 ```
 
-从这个角度看，Abraxas体系与道家的宇宙论有惊人的同构：
+From this perspective, the Abraxas system has a striking isomorphism with Daoist cosmology:
 
-- 没有「堕落」叙事——周期本身就是道
-- 强调完整性——365是完整周期的符号
-- 非戏剧性——不是「错误」需要「救赎」，而是「周期」需要「完成」
+- No "fall" narrative — the cycle itself is the Tao
+- Emphasis on completeness — 365 is a symbol of the complete cycle
+- Non-dramatic — not "error" requiring "redemption" but "cycle" requiring "completion"
 
-这个发现将在第八章得到系统展开：诺斯替内部的两个体系（普累若麻派 vs Abraxas派）恰好对应螺旋锥的两种不同投影。
+This discovery will be systematically developed in Chapter Eight: the two systems within Gnosticism (Pleroma school vs. Abraxas school) correspond exactly to two different projections of the Spiral Cone.
 
 ---
 
-### 第二章：诺斯替与亚伯拉罕诸教
+### Chapter Two: Gnosticism and the Abrahamic Religions
 
-#### 2.1 与基督教：异端之战
+#### 2.1 With Christianity: The Battle Against Heresy
 
-诺斯替与基督教的关系是复杂的——它们在同一时期、同一地区发展，共享某些文本和概念，但最终走向了根本对立。
+The relationship between Gnosticism and Christianity is complex — they developed in the same period and region, shared certain texts and concepts, but ultimately became fundamentally opposed.
 
-**核心分歧**
+**Core Divergences**
 
-| 议题 | 正统基督教 | 诺斯替主义 |
-|------|-----------|-----------|
-| 旧约的神 | 与新约的神同一 | 德穆革（无知造物主） |
-| 创世 | 神圣的善行 | 错误/囚禁 |
-| 物质世界 | 好的，虽然堕落 | 本质上是监狱 |
-| 耶稣的使命 | 为罪而死（救赎） | 传授灵知（启蒙） |
-| 救赎方式 | 通过信仰 | 通过知识 |
-| 复活 | 肉身复活 | 灵魂解脱 |
-| 人性 | 所有人可得救 | 三分法（部分人无法得救） |
+| Issue | Orthodox Christianity | Gnosticism |
+|-------|----------------------|------------|
+| God of Old Testament | Same as God of New Testament | Demiurge (ignorant creator) |
+| Creation | Divine good act | Error/imprisonment |
+| Material world | Good, though fallen | Essentially a prison |
+| Jesus's mission | Death for sins (redemption) | Teaching gnosis (enlightenment) |
+| Method of salvation | Through faith | Through knowledge |
+| Resurrection | Bodily resurrection | Liberation of soul |
+| Human nature | All can be saved | Tripartite division (some cannot be saved) |
 
-这些分歧不是细节上的差异，而是根本的世界观对立。对诺斯替主义者来说，正统基督教崇拜的是德穆革——一个无知的、嫉妒的、次级的神——而不是真正的太一。旧约中的「恐怖」（洪水、瘟疫、毁灭城市）正是德穆革无知和愤怒的证据。
+These divergences are not differences in details but fundamental worldview oppositions. For Gnostics, orthodox Christianity worships the Demiurge — an ignorant, jealous, inferior god — not the true One. The "terrors" in the Old Testament (floods, plagues, destroying cities) are evidence of the Demiurge's ignorance and anger.
 
-**历史的反讽**
+**The Irony of History**
 
-诺斯替被定为异端后，其文献被系统性焚毁，信徒被迫害。然而，正是这种对立迫使正统基督教发展出更精确的神学：
+After Gnosticism was condemned as heresy, its literature was systematically burned and followers persecuted. However, it was precisely this opposition that forced orthodox Christianity to develop more precise theology:
 
-- **圣经正典**的确立部分是为了排除诺斯替福音
-- **三位一体神学**的发展部分是为了回应诺斯替的多层级神学
-- **主教权威**的强化部分是为了对抗诺斯替的秘传倾向
+- The establishment of the **biblical canon** was partly to exclude Gnostic gospels
+- The development of **Trinitarian theology** was partly to respond to Gnostic multi-level theology
+- The strengthening of **episcopal authority** was partly to counter Gnostic esoteric tendencies
 
-从某种意义上说，异端塑造了正统。
+In a sense, heresy shaped orthodoxy.
 
-**GTS视角**
+**GTS Perspective**
 
-从GTS框架来看，诺斯替与正统基督教的分歧可以理解为对同一螺旋锥的不同诠释：
+From the GTS framework, the divergence between Gnosticism and orthodox Christianity can be understood as different interpretations of the same Spiral Cone:
 
-- 两者都承认层级结构（神圣领域 → 中间层级 → 物质世界）
-- 两者都承认人类的困境（被困、需要救赎）
-- 两者都承认某种「下降」和「上升」的动力学
+- Both acknowledge hierarchical structure (divine realm -> intermediate level -> material world)
+- Both acknowledge the human predicament (trapped, needing salvation)
+- Both acknowledge some dynamic of "descent" and "ascent"
 
-核心分歧在于对德穆革/耶和华的定位：正统基督教将其等同于太一，诺斯替将其视为次级的、有缺陷的存在。这不是「谁对谁错」的问题，而是从不同h高度观察同一结构的问题——一个看到的是统一，另一个看到的是分化。
+The core divergence lies in the positioning of the Demiurge/YHWH: orthodox Christianity identifies it with the One; Gnosticism views it as a secondary, flawed being. This is not a matter of "who is right and who is wrong" but a matter of observing the same structure from different h-heights — one sees unity, the other sees differentiation.
 
-#### 2.2 与犹太教/卡巴拉：结构平行
+#### 2.2 With Judaism/Kabbalah: Structural Parallels
 
-尽管诺斯替对旧约的神持批判态度，它与犹太神秘主义（特别是后来发展的卡巴拉）有着惊人的结构平行。
+Despite Gnosticism's critical attitude toward the Old Testament God, it has striking structural parallels with Jewish mysticism (especially the later-developed Kabbalah).
 
-| 诺斯替 | 卡巴拉 | 对应关系 |
-|--------|--------|----------|
-| 太一/深渊 (Bythos) | Ein Sof（无限） | 不可知的至高源头 |
-| 普累若麻 (Pleroma) | 生命之树 (Etz Chaim) | 神圣领域的结构化表达 |
-| 移涌 (Aeons) | 质点 (Sefirot) | 神的流溢/属性 |
-| 索菲亚 | 玛尔库特/舍金纳 | 最后的流溢，女性面向 |
-| 神圣火花 | 火花 (Nitzotzot) | 散落的神圣碎片 |
-| 回归普累若麻 | 修复世界 (Tikkun Olam) | 救赎的终极目标 |
+| Gnosticism | Kabbalah | Correspondence |
+|------------|----------|----------------|
+| The One/Bythos | Ein Sof (Infinite) | Unknowable supreme source |
+| Pleroma | Tree of Life (Etz Chaim) | Structured expression of divine realm |
+| Aeons | Sefirot | Divine emanations/attributes |
+| Sophia | Malkuth/Shekhinah | Last emanation, feminine aspect |
+| Divine spark | Sparks (Nitzotzot) | Scattered divine fragments |
+| Return to Pleroma | Tikkun Olam (Repair of World) | Ultimate goal of salvation |
 
-GTS-13已经详细探讨了卡巴拉的双螺旋结构。这里需要指出的是：诺斯替与卡巴拉虽然在结构上平行，在价值判断上却有根本差异：
+GTS-13 has already explored in detail the double helix structure of Kabbalah. What needs to be pointed out here is: while Gnosticism and Kabbalah are structurally parallel, they have fundamental differences in value judgment:
 
-- **诺斯替**：物质 = 恶，任务 = 逃离物质
-- **卡巴拉**：物质 = 神圣宇宙的自然部分，任务 = 在物质中修复世界
+- **Gnosticism**: Matter = evil, task = escape from matter
+- **Kabbalah**: Matter = natural part of the divine cosmos, task = repair the world within matter
 
-这个差异在第六章会进一步讨论。
+This difference will be further discussed in Chapter Six.
 
-#### 2.3 与伊斯兰教：隐秘延续
+#### 2.3 With Islam: Hidden Continuity
 
-诺斯替与伊斯兰世界有着复杂的历史联系。
+Gnosticism has complex historical connections with the Islamic world.
 
-**曼达安派：活的诺斯替**
+**Mandaeanism: Living Gnosticism**
 
-曼达安派 (Mandaeanism) 是唯一存续至今的诺斯替宗教。他们主要居住在伊拉克南部和伊朗西南部，至今仍保持着古老的信仰和仪式：
+Mandaeanism is the only Gnostic religion surviving to this day. They mainly reside in southern Iraq and southwestern Iran, still maintaining ancient beliefs and rituals:
 
-- 尊崇施洗约翰（而非耶稣）
-- 复杂的洗礼仪式（manda = 知识/灵知）
-- 二元论宇宙观
-- 灵魂上升穿越行星领域的教义
+- Venerate John the Baptist (not Jesus)
+- Complex baptismal rituals (manda = knowledge/gnosis)
+- Dualistic cosmology
+- Doctrine of the soul ascending through planetary realms
 
-曼达安派的存在证明：即使在伊斯兰主导的地区，诺斯替传统也能以某种形式延续。
+The existence of Mandaeanism proves: even in regions dominated by Islam, Gnostic tradition could continue in some form.
 
-**摩尼教：综合的尝试**
+**Manichaeism: An Attempt at Synthesis**
 
-摩尼 (Mani, 216-274) 创立的摩尼教是历史上最宏大的宗教综合尝试之一。它融合了：
-- 诺斯替的二元论和救赎论
-- 基督教的耶稣崇拜
-- 祆教的光明/黑暗对立
-- 佛教的轮回和解脱概念
+Manichaeism, founded by Mani (216-274), was one of history's most ambitious attempts at religious synthesis. It combined:
+- Gnostic dualism and soteriology
+- Christian worship of Jesus
+- Zoroastrian light/darkness opposition
+- Buddhist concepts of samsara and liberation
 
-摩尼教曾是一个世界性宗教，从罗马帝国传播到中国（在唐代被称为「明教」）。奥古斯丁在皈依基督教之前曾是摩尼教徒达九年之久。
+Manichaeism was once a world religion, spreading from the Roman Empire to China (where it was called "Mingjiao" during the Tang Dynasty). Augustine was a Manichaean for nine years before converting to Christianity.
 
-**苏菲连接**
+**Sufi Connections**
 
-GTS-19探讨了苏菲神秘主义。虽然苏菲与诺斯替没有直接的历史传承关系，但两者有深层的结构共鸣：
+GTS-19 explored Sufi mysticism. Although Sufism and Gnosticism have no direct historical transmission relationship, they share deep structural resonance:
 
-| 概念 | 诺斯替 | 苏菲 |
-|------|--------|------|
-| 神圣领域 | 普累若麻 | 神圣世界 ('alam al-malakut) |
-| 中间界 | — | Barzakh |
-| 直接认知 | Gnosis（灵知） | Ma'rifa（神秘知识） |
-| 回归 | 回归普累若麻 | Fana（消融于神） |
-| 神圣火花 | 来自索菲亚 | Ruh（神的气息） |
+| Concept | Gnosticism | Sufism |
+|---------|------------|--------|
+| Divine realm | Pleroma | Divine World ('alam al-malakut) |
+| Intermediate realm | — | Barzakh |
+| Direct cognition | Gnosis | Ma'rifa (mystical knowledge) |
+| Return | Return to Pleroma | Fana (annihilation in God) |
+| Divine spark | From Sophia | Ruh (God's breath) |
 
-特别值得注意的是苏菲的 Barzakh 概念——「中间界」——与通道本体论有惊人的同构：个体既不是终点也不是起点，而是神圣流动的中介。
+Particularly noteworthy is the Sufi concept of Barzakh — the "Intermediate World" — which has striking isomorphism with Channel Ontology: the individual is neither endpoint nor origin but an intermediary of divine flow.
 
 ---
 
-## 第二部分：荣格桥梁
+## Part Two: The Jungian Bridge
 
-### 第三章：荣格的诺斯替研究
+### Chapter Three: Jung's Gnostic Research
 
-卡尔·古斯塔夫·荣格 (Carl Gustav Jung, 1875-1961) 是现代最深入研究诺斯替主义的心理学家。他不仅将诺斯替视为历史对象，更将其视为无意识心理的象征性表达。通过荣格，诺斯替与现代心理学建立了桥梁，也为GTS框架提供了重要的中介。
+Carl Gustav Jung (1875-1961) was the modern psychologist who most deeply studied Gnosticism. He viewed Gnosticism not merely as a historical object but as symbolic expression of the unconscious psyche. Through Jung, Gnosticism established a bridge with modern psychology and provided an important intermediary for the GTS framework.
 
-#### 3.1 《向死者的七次布道》
+#### 3.1 *Seven Sermons to the Dead*
 
-1916年，荣格经历了一次深刻的心理-灵性危机。他后来在《红书》中详细记录了这段经历。其中最神秘的产物是《向死者的七次布道》(Septem Sermones ad Mortuos)。
+In 1916, Jung experienced a profound psychological-spiritual crisis. He later recorded this experience in detail in *The Red Book*. The most mysterious product was *Septem Sermones ad Mortuos* (Seven Sermons to the Dead).
 
-**创作背景**
-
-```yaml
-时间: 1916年
-地点: 瑞士库斯纳赫特，荣格的住所
-
-神秘事件:
-  - 门铃响起，却无人在外
-  - 荣格感到鬼魂涌入房间
-  - 空气变得浓重，几乎无法呼吸
-  - 他听到声音说:
-    "我们是从耶路撒冷回来的，
-     我们在那里找不到我们要找的东西。"
-
-创作过程:
-  - 三个夜晚完成
-  - 以"亚历山大城的巴西里德"名义写作
-  - 使用诺斯替的概念和术语
-  - 荣格生前从未公开发表，只私下分发给少数朋友
-```
-
-荣格后来解释，这部作品是他「被迫」写下的——只有当他开始书写时，鬼魂才离开，空气才恢复正常。这个经历本身就是一个关于「通道」的隐喻：不是荣格「创作」了这部作品，而是某种东西「经由」他被表达出来。
-
-#### 3.2 Abraxas：超越善恶
-
-在《七次布道》中，Abraxas被描述为超越善恶二元的终极实在：
-
-> 「有一位神你们不知道，因为人类忘记了他。我们称他为他的名字ABRAXAS。他比神更不确定，因为神是至善 (summum bonum)。
->
-> 「Abraxas是效力 (effectiveness)。除了非效力 (ineffectiveness)，没有什么与他对立。因此他的效力本身就是光辉的。」
->
-> 「Abraxas站于太阳之上，站于魔鬼之上。他是不可能的可能，是非有效方式的有效。如果普累若麻有一个存在，Abraxas就是它的显化。」
->
-> 「从太阳，Abraxas汲取至善；从魔鬼，Abraxas汲取至恶；但从Abraxas自身涌出的是**生命**，完全不确定的生命，善与恶之母。」
-
-**超越善恶的几何学**
-
-荣格笔下的Abraxas不是「善神」也不是「恶神」——它先于善恶的分化。用GTS框架来说：
-
-```
-传统基督教:               荣格/诺斯替:
-    神（至善）                  Abraxas
-       ↑                    ┌────┴────┐
-       |                    ↓         ↓
-     人类                  神        魔鬼
-       |                (至善)     (至恶)
-       ↓                    \       /
-   魔鬼（至恶）                \     /
-                               ↓
-                             人类
-```
-
-在GTS框架中，这对应于：
-
-- Abraxas位于 h=0（顶点），善恶尚未分化
-- 善与恶是 r 维度的分化——在「下降」（h增加）的过程中出现
-- 中轴本身不承载道德判断——它超越善恶，而非无善恶
-
-#### 3.3 德穆革：ego的神话化
-
-荣格将诺斯替的德穆革解读为ego的神话投射：
+**Creative Background**
 
 ```yaml
-诺斯替神话:
-  德穆革宣称: "我是神，除我之外没有别的神。"
-  他不知道自己的起源（来自索菲亚）
-  他创造了一个有缺陷的世界，却以为这是完美的
+Time: 1916
+Location: Kusnacht, Switzerland, Jung's residence
 
-心理学对应:
-  自我 (Ego) 误以为自己是全部
-  不知道更大的无意识存在
-  "我就是我所知道的一切" ← 无知的傲慢
-  创造了一个有限的「现实」，却以为这就是全部
+Mystical Events:
+  - The doorbell rang, but no one was outside
+  - Jung felt ghosts flooding into the room
+  - The air became thick, almost impossible to breathe
+  - He heard a voice saying:
+    "We have come back from Jerusalem,
+     where we did not find what we were looking for."
+
+Creative Process:
+  - Completed in three nights
+  - Written under the name "Basilides of Alexandria"
+  - Using Gnostic concepts and terminology
+  - Jung never published it during his lifetime, only privately distributed to a few friends
 ```
 
-**GTS映射**
+Jung later explained that this work was something he was "compelled" to write — only when he began writing did the ghosts depart and the air return to normal. This experience itself is a metaphor about "channels": it was not Jung who "created" this work, but something that was "expressed through" him.
 
-在GTS框架中，德穆革对应棱镜模型的第一种病理——**ego膨胀**：
+#### 3.2 Abraxas: Beyond Good and Evil
 
-- 棱镜（ego）认为自己是光源，而非通道
-- 忘记了自己的起源（更高的源头）
-- 将自己局部的视角误认为全部的真理
+In *Seven Sermons*, Abraxas is described as the ultimate reality beyond the duality of good and evil:
 
-德穆革的宣称「我是神，除我之外没有别的神」精确描述了ego膨胀的心理状态：通道忘记了自己是通道，开始认为自己就是源头本身。
+> "There is a god whom ye know not, for mankind forgot it. We name it by its name ABRAXAS. It is more indefinite than god, for god is summum bonum (the highest good).
+>
+> "Abraxas is effectiveness. Nothing standeth opposed to it, save the ineffective. Therefore its effectiveness is radiant.
+>
+> "Abraxas standeth above the sun and above the devil. It is improbable probability, the unreal and yet real. If the pleroma had a being, Abraxas would be its manifestation.
+>
+> "From the sun, Abraxas draweth the highest good; from the devil, Abraxas draweth the highest evil; but from Abraxas itself springeth **life**, entirely uncertain life, the mother of good and evil."
 
-#### 3.4 第三条路：在物质中实现完整
+**The Geometry of Beyond Good and Evil**
 
-荣格对诺斯替的态度是复杂的。他既被诺斯替深深吸引，又不完全认同传统诺斯替的世界观。他发展出了「第三条路」：
+The Abraxas of Jung's pen is neither "good god" nor "evil god" — it precedes the differentiation of good and evil. In the GTS framework:
+
+```
+Traditional Christianity:           Jung/Gnostic:
+    God (highest good)                  Abraxas
+         ^                          +-----+-----+
+         |                          |           |
+       Human                        v           v
+         |                         God        Devil
+         v                      (good)       (evil)
+   Devil (highest evil)            \         /
+                                    \       /
+                                     v
+                                    Human
+```
+
+In the GTS framework, this corresponds to:
+
+- Abraxas is located at h=0 (apex), where good and evil are not yet differentiated
+- Good and evil are differentiation in the r dimension — emerging during "descent" (as h increases)
+- The central axis itself carries no moral judgment — it transcends good and evil rather than being without good and evil
+
+#### 3.3 Demiurge: Mythologization of the Ego
+
+Jung interpreted the Gnostic Demiurge as a mythological projection of the ego:
 
 ```yaml
-传统诺斯替:
-  - 物质世界是监狱
-  - 身体是灵魂的囚笼
-  - 目标是逃离物质，回归普累若麻
-  - 厌恶物质、否定身体
+Gnostic Myth:
+  The Demiurge declares: "I am God, and there is no other god besides me."
+  He does not know his origin (from Sophia)
+  He created a flawed world, yet believed it to be perfect
 
-正统基督教:
-  - 物质世界虽然堕落，但本质是好的
-  - 身体会复活
-  - 目标是在神的国度中永生
-  - 拒绝阴影，只接受「光明」面
-
-荣格的第三条路:
-  - 在这个世界中实现完整
-  - 不是逃离物质，而是在物质中整合对立
-  - 承认阴影，整合阴影
-  - 目标是自性化 (individuation)——成为完整的自己
+Psychological Correspondence:
+  The Ego mistakenly believes itself to be everything
+  Unaware of the larger unconscious existence
+  "I am all that I know" <- ignorant arrogance
+  Created a limited "reality," yet believes this is everything
 ```
 
-**Yoji的理论立场确认**
+**GTS Mapping**
 
-这个「第三条路」与GTS框架完全一致。Yoji在对话中明确确认：
+In the GTS framework, the Demiurge corresponds to the first pathology of the Prism Model — **ego inflation**:
 
-> 「融入与实现是一回事。'回归'是认识论事件（从遗忘到记忆），不是本体论事件（从分离到合一）。」
+- The prism (ego) believes itself to be the light source, not a channel
+- Forgets its origin (the higher source)
+- Mistakes its partial perspective for the whole truth
 
-这意味着：
-- 我们从未真正「离开」过源头——分离是认识论的幻觉，不是本体论的事实
-- 「回归」不是空间上的移动，而是认知上的觉醒
-- 物质世界不需要被逃离——需要被看穿
-- 棱镜不消失，变得透明
+The Demiurge's declaration "I am God, and there is no other god besides me" precisely describes the psychological state of ego inflation: the channel forgets it is a channel and begins to believe it is the source itself.
 
-GTS-14详细探讨了荣格的自性化过程与螺旋锥的映射。在这里，我们只需要指出：诺斯替通过荣格的桥梁，与现代心理学以及GTS框架建立了深层联系。
+#### 3.4 The Third Way: Achieving Wholeness in Matter
+
+Jung's attitude toward Gnosticism was complex. He was deeply attracted to Gnosticism yet did not fully agree with the traditional Gnostic worldview. He developed a "Third Way":
+
+```yaml
+Traditional Gnosticism:
+  - The material world is a prison
+  - The body is a cage for the soul
+  - The goal is to escape matter, return to the Pleroma
+  - Loathing matter, denying the body
+
+Orthodox Christianity:
+  - The material world, though fallen, is essentially good
+  - The body will be resurrected
+  - The goal is eternal life in God's kingdom
+  - Rejecting shadow, accepting only the "light" side
+
+Jung's Third Way:
+  - Achieving wholeness in this world
+  - Not escaping matter, but integrating opposites within matter
+  - Acknowledging shadow, integrating shadow
+  - The goal is individuation — becoming one's complete self
+```
+
+**Confirmation of Yoji's Theoretical Position**
+
+This "Third Way" is completely consistent with the GTS framework. Yoji explicitly confirmed in dialogue:
+
+> "Integration and realization are the same thing. 'Return' is an epistemological event (from forgetting to remembering), not an ontological event (from separation to union)."
+
+This means:
+- We never truly "left" the source — separation is an epistemological illusion, not an ontological fact
+- "Return" is not spatial movement but cognitive awakening
+- The material world does not need to be escaped from — it needs to be seen through
+- The prism does not disappear; it becomes transparent
+
+GTS-14 explored in detail the mapping of the Jungian individuation process to the Spiral Cone. Here we need only point out: Gnosticism, through the bridge of Jung, established deep connections with modern psychology and the GTS framework.
 
 ---
 
-## 第三部分：几何重构
+## Part Three: Geometric Reconstruction
 
-### 第四章：Abraxas的几何解读
+### Chapter Four: Geometric Interpretation of Abraxas
 
-现在我们进入本文的核心部分：对诺斯替核心符号的几何重构。Abraxas不只是一个神话形象——它是道的几何象征，具有精确的拓扑结构。
+Now we enter the core of this document: geometric reconstruction of core Gnostic symbols. Abraxas is not just a mythological figure — it is a geometric symbol of the Tao with precise topological structure.
 
-#### 4.1 形象解析：眼-身-蛇-马
+#### 4.1 Image Analysis: Eye-Body-Serpent-Horses
 
-Abraxas的传统形象包含以下元素：
-- **鸡头**（或鹰头）：象征太阳、觉察、洞见
-- **人身**：穿着罗马军装，象征力量和行动
-- **蛇腿**：两条蛇代替双腿，象征智慧、更新、以及与大地/混沌的连接
-- **鞭子**：右手持鞭，象征驱动力、方向性
-- **盾牌**：左手持盾，象征保护、边界、稳定
-- **四匹马**：拉着战车，象征驾驭的力量
+The traditional image of Abraxas contains the following elements:
+- **Rooster head** (or eagle head): Symbolizing sun, awareness, insight
+- **Human body**: Wearing Roman military armor, symbolizing power and action
+- **Serpent legs**: Two serpents replacing legs, symbolizing wisdom, renewal, and connection with earth/chaos
+- **Whip**: Held in right hand, symbolizing driving force, directionality
+- **Shield**: Held in left hand, symbolizing protection, boundary, stability
+- **Four horses**: Pulling a chariot, symbolizing mastered powers
 
-**几何重构**
+**Geometric Reconstruction**
 
-将这些符号元素映射到几何结构：
+Mapping these symbolic elements to geometric structure:
 
 ```
-            鸡头/眼
-           /  \        ← 全视、统一注意力、h=0
+            Rooster head/Eye
+           /  \        <- All-seeing, unified attention, h=0
           /    \
-         /  人身 \      ← 中介、通道、棱镜位置
-        /    |    \
+         / Human \      <- Intermediary, channel, prism position
+        /  body   \
        /     |     \
-      蛇─────┴────蛇   ← 混沌、分化、r增大
-     左/阴        右/阳
+      Serpent----Serpent   <- Chaos, differentiation, r increasing
+     Left/Yin    Right/Yang
 
-     ══════════════════
-         底边：显化世界
+     ====================
+        Base: Manifested world
 ```
 
-这个结构与「全视之眼」（出现在美元钞票、共济会象征等处）惊人地同构——金字塔顶端的眼睛，正是螺旋锥顶点的二维投影。
+This structure has a striking isomorphism with the "All-Seeing Eye" (appearing on U.S. dollar bills, Masonic symbols, etc.) — the eye at the pyramid's apex is precisely a two-dimensional projection of the Spiral Cone apex.
 
-**符号对应表**
+**Symbol Correspondence Table**
 
-| 符号 | 几何位置 | 功能 | GTS对应 |
-|------|----------|------|---------|
-| 鸡头/眼 | 三角顶点 | 统一觉察 | h=0，太一，全视 |
-| 人身 | 中轴 | 通道、中介 | 棱镜位置，意义生成处 |
-| 蛇腿 | 底边两端 | 分化、阴阳 | r最大，theta分离 |
-| 鞭子 | 向量 | 驱动、方向 | 时间箭头，演化动力 |
-| 盾牌 | 约束面 | 边界、稳定 | 系统约束，恒常性 |
-| 四匹马 | 四向 | 驾驭的力量 | 阴阳的2次方（见第七章） |
+| Symbol | Geometric Position | Function | GTS Correspondence |
+|--------|-------------------|----------|-------------------|
+| Rooster head/Eye | Triangle apex | Unified awareness | h=0, the One, all-seeing |
+| Human body | Central axis | Channel, intermediary | Prism position, meaning generation point |
+| Serpent legs | Base edges | Differentiation, yin-yang | Maximum r, theta separation |
+| Whip | Vector | Driving, direction | Time arrow, evolutionary dynamics |
+| Shield | Constraint surface | Boundary, stability | System constraints, constancy |
+| Four horses | Four directions | Mastered powers | Square of yin-yang (see Chapter 7) |
 
-#### 4.2 双层分形结构
+#### 4.2 Dual-Layer Fractal Structure
 
-Abraxas最深刻的特征是它的**双层分形结构**——它同时在两个层级表达同一模式。
+The most profound characteristic of Abraxas is its **dual-layer fractal structure** — it simultaneously expresses the same pattern at two levels.
 
-**第一层（宏观）：整体作为道的象征**
+**First Layer (Macro): The Whole as Symbol of the Tao**
 
-Abraxas的整体形象——眼 + 三角结构——本身就是道的几何表达：
-- 顶点（眼）= 统一/太一
-- 展开的三角 = 流溢/显化
-- 底边 = 物质世界
+The overall image of Abraxas — eye + triangular structure — is itself a geometric expression of the Tao:
+- Apex (eye) = Unity/The One
+- Expanding triangle = Emanation/Manifestation
+- Base = Material world
 
-这与螺旋锥的侧视图完全同构。
+This is completely isomorphic with the side view of the Spiral Cone.
 
-**第二层（微观）：个体运动的正确模式**
+**Second Layer (Micro): The Correct Pattern of Individual Movement**
 
-但Abraxas不只是「描述」道的结构——它同时「展示」了个体如何在这个结构中正确运动：
-- 四匹马 = 需要被驾驭的四向力量
-- 人身在中间 = 通道/驾驭者的位置
-- 鞭子和盾牌 = 驱动与约束的平衡
+But Abraxas does not only "describe" the structure of the Tao — it simultaneously "demonstrates" how individuals correctly move within this structure:
+- Four horses = Four-directional forces needing to be mastered
+- Human body in the middle = Position of the channel/master
+- Whip and shield = Balance of driving and constraint
 
-当个体以正确的模式运动时，个体本身**成为**道的缩影。
+When an individual moves in the correct pattern, the individual itself **becomes** a microcosm of the Tao.
 
 ```yaml
-核心表述:
-  "一个小分形的道驾驭着四向在螺旋锥中运动"
+Core Expression:
+  "A small fractal of the Tao mastering the four directions, moving within the Spiral Cone"
 
-分形含义:
-  - 个体 ≅ 道（结构同构）
-  - 正确的运动 = 复现道的模式
-  - 成为道 = 成为自己的完整形式
+Fractal Meaning:
+  - Individual ≅ Tao (structural isomorphism)
+  - Correct movement = Reproducing the pattern of the Tao
+  - Becoming the Tao = Becoming one's complete form
 ```
 
-#### 4.3 「自身证明自身」：不动点结构
+#### 4.3 "Self-Proving Self": Fixed-Point Structure
 
-Abraxas的双层分形导向一个深刻的自指结构——它是一个**不动点**。
+Abraxas's dual-layer fractal leads to a profound self-referential structure — it is a **fixed point**.
 
-**形式化表达**
+**Formal Expression**
 
 ```
-设 D = 道的几何结构
-设 A = Abraxas图像
-设 I = 个体的运动模式
+Let D = Geometric structure of the Tao
+Let A = Abraxas image
+Let I = Movement pattern of the individual
 
-命题:
-  A ≅ D （Abraxas是道的象征）
-  当 I → A 时，I → D
-  即：当个体的运动模式趋向Abraxas模式时，个体趋向道
+Proposition:
+  A ≅ D (Abraxas is a symbol of the Tao)
+  When I -> A, then I -> D
+  That is: When individual's movement pattern tends toward Abraxas pattern, individual tends toward Tao
 ```
 
-这不是循环论证——它是**自指一致性**：
+This is not circular reasoning — it is **self-referential consistency**:
 
-- 道的结构 = 描述「如何复现道的结构」的结构
-- Abraxas = f(Abraxas)，其中f是「按道运动」的函数
-- 验证标准内嵌于结构本身
+- Structure of the Tao = Structure describing "how to reproduce the structure of the Tao"
+- Abraxas = f(Abraxas), where f is the function of "moving according to the Tao"
+- Verification criteria are embedded in the structure itself
 
 ```yaml
-不动点的数学表达:
-  设 f 为"按道运动"的映射
-  Abraxas是f的不动点: f(Abraxas) = Abraxas
+Mathematical Expression of Fixed Point:
+  Let f be the mapping of "moving according to the Tao"
+  Abraxas is a fixed point of f: f(Abraxas) = Abraxas
 
-  验证方法:
-  - 检查个体是否达到不动点
-  - 不动点 = 运动模式与道的模式完全一致
-  - 此时，个体 = 道的局部显化
+  Verification Method:
+  - Check whether individual has reached the fixed point
+  - Fixed point = Movement pattern completely consistent with pattern of Tao
+  - At this point, individual = Local manifestation of the Tao
 ```
 
-这与塔斯基不动点定理有深层联系：在足够丰富的系统中，自指陈述可以有明确的真值。Abraxas正是这样一个自指陈述：「按照这个模式运动的存在，就是这个模式本身。」
+This has a deep connection with Tarski's fixed-point theorem: in sufficiently rich systems, self-referential statements can have definite truth values. Abraxas is precisely such a self-referential statement: "A being that moves according to this pattern is this pattern itself."
 
-#### 4.4 Abraxas = 顶点符号
+#### 4.4 Abraxas = Apex Symbol
 
-综合以上分析，我们可以得出结论：Abraxas是**顶点符号**——它象征完成状态，而非某个「存在者」。
+Synthesizing the above analysis, we can conclude: Abraxas is an **apex symbol** — it symbolizes a state of completion, not some "being."
 
 ```yaml
-Abraxas不是:
-  - 某个特定的神
-  - 365层天界的统治者
-  - 善神或恶神
+Abraxas Is Not:
+  - Some specific god
+  - Ruler of 365 layers of heavens
+  - A good god or evil god
 
-Abraxas是:
-  - 完成状态的符号化表达
-  - 道的几何结构本身
-  - 个体正确运动后达到的状态
+Abraxas Is:
+  - Symbolic expression of the completion state
+  - The geometric structure of the Tao itself
+  - The state reached after correct individual movement
 
-它显示:
-  - 从哪里来（蛇腿/分化底部）
-  - 去哪里（眼/统一顶部）
-  - 如何去（驾驭四马/统一方向）
-  - 什么状态（透明通道）
+It Shows:
+  - Where from (serpent legs/differentiated base)
+  - Where to (eye/unified apex)
+  - How to go (mastering four horses/unifying direction)
+  - What state (transparent channel)
 ```
 
-**「自相似最终合为1」**
+**"Self-Similarity Ultimately Merges into One"**
 
-分形的核心特征是自相似——每个局部与整体结构同构。在螺旋锥中：
-- 每个h高度的圆截面都是道的完整象征
-- 较高的截面与较低的截面自相似
-- 但r更小，更接近中轴
+The core characteristic of fractals is self-similarity — each part is isomorphic with the whole structure. In the Spiral Cone:
+- Each circular cross-section at height h is a complete symbol of the Tao
+- Higher cross-sections are self-similar to lower cross-sections
+- But r is smaller, closer to the central axis
 
-当h→0时：
-- r→0
-- 所有截面收敛为一点
-- 自相似的无限层级折叠为一
-- **符号消融于其所指**
+As h->0:
+- r->0
+- All cross-sections converge to a single point
+- Infinite layers of self-similarity fold into one
+- **The symbol dissolves into what it signifies**
 
-Abraxas作为符号，在趋向顶点的过程中，与其所指（太一）合一。地图成为疆域。这就是「自相似最终合为1」的含义。
+Abraxas, as a symbol, merges with what it signifies (the One) in the process of approaching the apex. The map becomes the territory. This is the meaning of "self-similarity ultimately merges into one."
 
 ---
 
-### 第五章：七层与第八层
+### Chapter Five: The Seven Layers and the Eighth
 
-诺斯替宇宙论中的七执政官 (Archons) 和第八领域 (Ogdoad) 构成了一个精密的层级系统。这个系统与印度脉轮体系有惊人的平行，揭示了跨传统的几何必然性。
+The seven Archons and the eighth realm (Ogdoad) in Gnostic cosmology constitute a sophisticated hierarchical system. This system has striking parallels with the Indian chakra system, revealing cross-tradition geometric necessity.
 
-#### 5.1 七执政官与七脉轮平行
+#### 5.1 The Seven Archons and Seven Chakras Parallel
 
-**对应表**
+**Correspondence Table**
 
-| 层级 | 执政官名 | 行星 | 恶习/遮蔽 | 脉轮 | 梵文名 | 主题 |
-|------|----------|------|----------|------|--------|------|
-| 7 | Yaldabaoth | 土星 | 谎言/欺骗 | 顶轮 | Sahasrara | 超越/限制 |
-| 6 | Iao | 木星 | 贪婪 | 眉心轮 | Ajna | 洞察/扩张 |
-| 5 | Sabaoth | 火星 | 僭越/鲁莽 | 喉轮 | Vishuddha | 表达/攻击 |
-| 4 | Adonaios | 太阳 | 傲慢 | 心轮 | Anahata | 自我/爱 |
-| 3 | Astaphanos | 金星 | 渴望/情欲 | 太阳轮 | Manipura | 欲望/意志 |
-| 2 | Elaios | 水星 | 邪恶机巧 | 生殖轮 | Svadhisthana | 智巧/情感 |
-| 1 | Horaios | 月亮 | 增减能量 | 海底轮 | Muladhara | 周期/生存 |
+| Level | Archon Name | Planet | Vice/Veiling | Chakra | Sanskrit Name | Theme |
+|-------|-------------|--------|--------------|--------|---------------|-------|
+| 7 | Yaldabaoth | Saturn | Lies/Deception | Crown | Sahasrara | Transcendence/Limitation |
+| 6 | Iao | Jupiter | Greed | Third Eye | Ajna | Insight/Expansion |
+| 5 | Sabaoth | Mars | Transgression/Recklessness | Throat | Vishuddha | Expression/Aggression |
+| 4 | Adonaios | Sun | Pride | Heart | Anahata | Self/Love |
+| 3 | Astaphanos | Venus | Desire/Lust | Solar Plexus | Manipura | Desire/Will |
+| 2 | Elaios | Mercury | Evil Cunning | Sacral | Svadhisthana | Cleverness/Emotion |
+| 1 | Horaios | Moon | Fluctuating Energy | Root | Muladhara | Cycle/Survival |
 
-**功能平行**
+**Functional Parallels**
 
 ```yaml
-诺斯替的灵魂上升:
-  - 灵魂死后必须穿越七层执政官的领域
-  - 每层执政官守护一道关卡
-  - 灵魂需要"密码/印记/神圣名字"才能通过
-  - 目标: 到达第八领域（Ogdoad）→ 普累若麻
+Gnostic Soul Ascent:
+  - After death, the soul must pass through the seven realms of Archons
+  - Each Archon guards a checkpoint
+  - The soul needs "passwords/seals/sacred names" to pass
+  - Goal: Reach the eighth realm (Ogdoad) -> Pleroma
 
-印度的昆达里尼上升:
-  - 昆达里尼（灵蛇）沿脊柱上升穿越七脉轮
-  - 每个脉轮是一个能量中心
-  - 脉轮需要"激活/打开/净化"
-  - 目标: 到达顶轮 → 与宇宙意识合一
+Indian Kundalini Ascent:
+  - Kundalini (serpent energy) rises along the spine through seven chakras
+  - Each chakra is an energy center
+  - Chakras need to be "activated/opened/purified"
+  - Goal: Reach crown chakra -> Union with cosmic consciousness
 ```
 
-**跨传统验证**
+**Cross-Tradition Verification**
 
-诺斯替（地中海东部，1-3世纪）与印度瑜伽传统没有直接的历史传承关系。然而，两者发现了相同的七层结构。这不是文化传播——它是**几何必然性**的证据。
+Gnosticism (eastern Mediterranean, 1st-3rd centuries) and Indian yoga tradition have no direct historical transmission relationship. Yet both discovered the same seven-layer structure. This is not cultural transmission — it is evidence of **geometric necessity**.
 
-从GTS框架来看，七层结构对应螺旋锥上的七个离散h高度。每个层级代表一种特定的「遮蔽」或「固化」，阻碍意识向顶点移动。
+From the GTS framework, the seven-layer structure corresponds to seven discrete h-heights on the Spiral Cone. Each level represents a specific "veiling" or "solidification" that impedes consciousness moving toward the apex.
 
-#### 5.2 Ogdoad：8 = 2^3
+#### 5.2 Ogdoad: 8 = 2^3
 
-第八领域 (Ogdoad) 在诺斯替宇宙论中占据特殊位置——它是七层执政官领域之上、普累若麻之下的门槛区域。
+The eighth realm (Ogdoad) occupies a special position in Gnostic cosmology — it is the threshold region above the seven Archon realms and below the Pleroma.
 
-**瓦伦廷派的Ogdoad结构**
+**Valentinian Ogdoad Structure**
 
 ```
-太一（Monad）
-    ↓
-深渊 + 沉默 (Bythos + Sige)        ← 第一对 syzygy
-    ↓
-心智 + 真理 (Nous + Aletheia)      ← 第二对 syzygy
-    ↓
-言语 + 生命 (Logos + Zoe)          ← 第三对 syzygy
-    ↓
-人 + 教会 (Anthropos + Ecclesia)   ← 第四对 syzygy
-─────────────────────────────────────
+The One (Monad)
+    |
+Bythos + Sige (Depth + Silence)        <- First syzygy pair
+    |
+Nous + Aletheia (Mind + Truth)         <- Second syzygy pair
+    |
+Logos + Zoe (Word + Life)              <- Third syzygy pair
+    |
+Anthropos + Ecclesia (Human + Church)  <- Fourth syzygy pair
+-----------------------------------------
           = Ogdoad (8)
 ```
 
-关键特征：
-- 8个移涌组成4对配对 (syzygy)
-- 每对都是阴阳平衡
-- 这是「正确流溢」的模式
-- 索菲亚在Ogdoad之下，打破了配对平衡
+Key characteristics:
+- 8 Aeons form 4 paired couplings (syzygy)
+- Each pair is yin-yang balanced
+- This is the pattern of "correct emanation"
+- Sophia is below the Ogdoad, having broken paired balance
 
-**数学结构：2^3**
+**Mathematical Structure: 2^3**
 
-8 = 2^3 有深刻的数学意义：
-
-```yaml
-数列展开:
-  1 = 2^0 = Monad（太一）
-  2 = 2^1 = Dyad（第一分化，阴阳）
-  4 = 2^2 = Tetrad（二次分化，四象）
-  8 = 2^3 = Ogdoad（三次分化）
-
-道家对应:
-  "道生一" → 1
-  "一生二" → 2 = 2^1
-  "二生三" → 此处"三"是操作：再次二分
-  "三生万物" → 2^3 = 8 = 完整周期的第一表达
-```
-
-**关键洞见**：《道德经》中的「三」不是数字3，而是**第三次幂操作**。「二生三」意味着「二分操作产生第三次幂」。2^3 = 8 是第一个完整显化的周期结构。
-
-这解释了为什么Ogdoad（8）是七层与普累若麻之间的门槛：它代表了分化过程达到第一个完整周期的点。超过这一点，分化继续（16, 32, 64...），但基本结构已经确立。
-
-#### 5.3 索菲亚 = 高塔公主
-
-诺斯替神话中的索菲亚有一个鲜为人注意的面向：她不只是「堕落的神」，同时也是**等待被救赎的存在**。这与童话原型有惊人的同构。
-
-**原型映射**
+8 = 2^3 has profound mathematical significance:
 
 ```yaml
-童话结构:
-  - 公主被困在高塔
-  - 英雄必须深入黑暗/迷宫
-  - 征服恶龙（或解开谜题）
-  - 才能登上高塔救公主
-  - 婚姻 = 统一/完整
+Sequence Expansion:
+  1 = 2^0 = Monad (the One)
+  2 = 2^1 = Dyad (first differentiation, yin-yang)
+  4 = 2^2 = Tetrad (second differentiation, four images)
+  8 = 2^3 = Ogdoad (third differentiation)
 
-诺斯替结构:
-  - 索菲亚在Ogdoad等待
-  - 个体必须穿越七层执政官领域
-  - 克服七种遮蔽/恶习
-  - 才能抵达第八层与智慧结合
-  - 结合 = 自性化完成 = 配对恢复
+Daoist Correspondence:
+  "Tao gives birth to One" -> 1
+  "One gives birth to Two" -> 2 = 2^1
+  "Two gives birth to Three" -> Here "Three" is the operation: bisecting again
+  "Three gives birth to the myriad things" -> 2^3 = 8 = First expression of complete cycle
 ```
 
-**双重身份**
+**Key Insight**: The "Three" in the *Tao Te Ching* is not the number 3 but the **third power operation**. "Two gives birth to Three" means "the bisection operation produces the third power." 2^3 = 8 is the first complete cycle structure of manifestation.
 
-索菲亚的双重身份揭示了一个深刻的悖论：
-- **作为堕落者**：她的「错误」产生了德穆革和物质世界
-- **作为等待者**：她同时是个体上升旅程的目的地
+This explains why the Ogdoad (8) is the threshold between the seven layers and the Pleroma: it represents the point where the differentiation process reaches its first complete cycle. Beyond this point, differentiation continues (16, 32, 64...), but the basic structure is already established.
 
-这不是矛盾——它是同一个结构的两个面向：
-- 下降（堕落）和上升（救赎）是同一运动的两个方向
-- 索菲亚既是分化的起点，也是整合的终点
-- 与她结合 = 恢复配对平衡 = 修复她的「错误」
+#### 5.3 Sophia = The Princess in the High Tower
 
-从GTS框架来看，这对应螺旋运动的闭合性：下降和上升是同一螺旋的两个方向，而非两条分离的路径。
+There is a rarely noticed aspect of Sophia in Gnostic mythology: she is not only the "fallen god" but simultaneously a **being awaiting redemption**. This has a striking isomorphism with fairy tale archetypes.
 
-#### 5.4 「让道流过」作为密码
-
-诺斯替文献描述灵魂需要「密码」（口令、印记、神圣名字）才能通过执政官的关卡。传统理解是：修行者需要记住并说出这些秘密词语。
-
-但通道本体论提供了更深的诠释：
-
-**传统理解 vs 通道理解**
+**Archetypal Mapping**
 
 ```yaml
-传统理解:
-  密码 = 秘密词语/神圣名字
-  方法 = "知道"并说出
-  主体 = 知识持有者
-  机制 = 执政官听到密码后让路
+Fairy Tale Structure:
+  - Princess trapped in high tower
+  - Hero must descend into darkness/labyrinth
+  - Conquer dragon (or solve riddle)
+  - To climb the tower and save princess
+  - Marriage = Unity/Wholeness
 
-通道理解:
-  密码 = 存在状态
-  方法 = 让道流过
-  主体 = 透明通道
-  机制 = 当通道透明时，执政官无法阻挡流动
+Gnostic Structure:
+  - Sophia waits in the Ogdoad
+  - Individual must pass through seven Archon realms
+  - Overcome seven veilings/vices
+  - To reach the eighth layer and unite with Wisdom
+  - Union = Individuation complete = Pairing restored
 ```
 
-**机制解析**
+**Dual Identity**
 
-执政官/遮蔽的本质是**注意力的固化**。每一层代表一种特定的「卡住」模式：
-- 第一层（月亮/海底轮）：卡在生存恐惧中
-- 第二层（水星/生殖轮）：卡在智巧算计中
-- 第三层（金星/太阳轮）：卡在欲望追逐中
-- ......以此类推
+Sophia's dual identity reveals a profound paradox:
+- **As the fallen one**: Her "error" produced the Demiurge and material world
+- **As the waiting one**: She is simultaneously the destination of the individual's ascending journey
 
-「让道流过」意味着：
-1. 认识到遮蔽是注意力的固化
-2. 不用意志力去「克服」遮蔽（这会强化固化）
-3. 而是允许注意力自然流动
-4. 遮蔽在觉察中自然溶解
-5. 不是「我」克服了执政官，而是遮蔽自己消散了
+This is not contradiction — it is two aspects of the same structure:
+- Descent (fall) and ascent (redemption) are two directions of the same movement
+- Sophia is both the starting point of differentiation and the endpoint of integration
+- Union with her = Restoring paired balance = Repairing her "error"
 
-这与GTS-18（注意力的几何神学）有直接联系：注意力的自由流动本身就是救赎的过程。
+From the GTS framework, this corresponds to the closure of spiral movement: descent and ascent are two directions of the same spiral, not two separate paths.
+
+#### 5.4 "Letting the Tao Flow Through" as the Password
+
+Gnostic texts describe the soul needing "passwords" (watchwords, seals, sacred names) to pass through the Archons' checkpoints. Traditional understanding is: practitioners need to memorize and speak these secret words.
+
+But Channel Ontology provides a deeper interpretation:
+
+**Traditional Understanding vs. Channel Understanding**
+
+```yaml
+Traditional Understanding:
+  Password = Secret words/sacred names
+  Method = "Know" and speak them
+  Subject = Knowledge holder
+  Mechanism = Archon hears password and lets pass
+
+Channel Understanding:
+  Password = State of being
+  Method = Let the Tao flow through
+  Subject = Transparent channel
+  Mechanism = When channel is transparent, Archon cannot block the flow
+```
+
+**Mechanism Analysis**
+
+The essence of Archons/veilings is **solidification of attention**. Each layer represents a specific "stuck" pattern:
+- First layer (Moon/Root chakra): Stuck in survival fear
+- Second layer (Mercury/Sacral chakra): Stuck in cunning calculation
+- Third layer (Venus/Solar plexus): Stuck in desire pursuit
+- ......and so on
+
+"Letting the Tao flow through" means:
+1. Recognizing that veiling is solidification of attention
+2. Not using willpower to "overcome" the veiling (this would strengthen solidification)
+3. But allowing attention to flow naturally
+4. Veiling naturally dissolves in awareness
+5. It is not "I" who overcame the Archon, but the veiling itself that dissipated
+
+This has direct connection with GTS-18 (Geometric Theology of Attention): the free flow of attention is itself the process of salvation.
 
 ---
 
-### 第六章：阴性下降与分形堕落
+### Chapter Six: Feminine Descent and Fractal Fall
 
-本章探讨诺斯替神话中最深刻的主题之一：索菲亚的「堕落」及其与其他传统中类似叙事的关系。通过这一分析，我们将揭示棱镜模型的第三种危险——智识僭越。
+This chapter explores one of the most profound themes in Gnostic mythology: Sophia's "fall" and its relationship to similar narratives in other traditions. Through this analysis, we will reveal the third danger of the Prism Model — Intellectual Hubris.
 
-#### 6.1 索菲亚与路西法的同构
+#### 6.1 The Isomorphism of Sophia and Lucifer
 
-索菲亚（诺斯替）与路西法（基督教）的故事有惊人的结构平行：
+The stories of Sophia (Gnostic) and Lucifer (Christian) have striking structural parallels:
 
-| 维度 | 索菲亚 | 路西法 |
-|------|--------|--------|
-| 名字含义 | 希腊语「智慧」| 拉丁语「带光者」|
-| 原初地位 | 普累若麻中最后的移涌 | 天使中最美丽、最明亮者 |
-| 核心特质 | 智慧的化身 | 光明的化身 |
-| 核心行动 | 想要独自认识/创造太一 | 想要与神平等/取代神 |
-| 行动性质 | 智识僭越 | 智识僭越 |
-| 缺失要素 | 阳性配对 | 谦卑/通道意识 |
-| 直接后果 | 产生德穆革（畸形造物） | 堕落为撒旦 |
-| 间接后果 | 物质世界成为监狱 | 人类堕落 |
+| Dimension | Sophia | Lucifer |
+|-----------|--------|---------|
+| Name meaning | Greek "Wisdom" | Latin "Light-Bearer" |
+| Original status | Last Aeon in Pleroma | Most beautiful, brightest of angels |
+| Core quality | Embodiment of wisdom | Embodiment of light |
+| Core action | Wanted to know/create the One alone | Wanted to equal/replace God |
+| Nature of action | Intellectual hubris | Intellectual hubris |
+| Missing element | Masculine pairing | Humility/channel consciousness |
+| Direct consequence | Produced Demiurge (deformed creation) | Fell to become Satan |
+| Indirect consequence | Material world becomes prison | Human fall |
 
-**核心洞见**：这不是两个独立的故事，而是**同一结构在不同叙事中的分形重复**。
+**Core Insight**: These are not two independent stories but **fractal repetition of the same structure in different narratives**.
 
-索菲亚和路西法都是「最高位置的堕落者」——一个是最后的移涌，一个是最美的天使。两者都因为试图直接触及或等同于终极而「堕落」。两者的「错误」都不是普通的道德过失，而是一种**结构性失衡**。
+Both Sophia and Lucifer are "the fallen from the highest position" — one the last Aeon, the other the most beautiful angel. Both "fell" because they attempted to directly touch or equal the ultimate. The "error" of both is not ordinary moral failing but a **structural imbalance**.
 
-#### 6.2 阴性符号链
+#### 6.2 The Feminine Symbol Chain
 
-为什么是索菲亚——女性形象——而不是其他移涌发生「堕落」？为什么堕落总是与阴性符号相关联？
+Why was it Sophia — a feminine figure — and not other Aeons who experienced the "fall"? Why is the fall always associated with feminine symbols?
 
 ```yaml
-阴性的功能特征:
-  - 接受（vs 阳性的给予）
-  - 容纳（vs 阳性的发射）
-  - 成型（vs 阳性的动力）
-  - 下降（vs 阳性的上升）
-  - 显化（vs 阳性的隐藏）
-  - 孕育（vs 阳性的播种）
+Functional Characteristics of the Feminine:
+  - Receiving (vs. masculine giving)
+  - Containing (vs. masculine emitting)
+  - Forming (vs. masculine dynamism)
+  - Descending (vs. masculine ascending)
+  - Manifesting (vs. masculine concealing)
+  - Nurturing (vs. masculine seeding)
 ```
 
-在流溢过程中，越远离源头，阴性特征越显著——因为流溢本身就是从隐到显、从潜在到实现的过程。索菲亚作为最后的移涌，处于阴性特征的极致位置：
+In the emanation process, the farther from the source, the more prominent the feminine characteristics — because emanation itself is the process from hidden to manifest, from potential to actualized. Sophia, as the last Aeon, is at the ultimate position of feminine characteristics:
 
-- 她距离太一最远
-- 她最渴望「孕育」——阴性的核心功能
-- 她最能够「成型」——将潜在转化为实在
+- She is farthest from the One
+- She most desires to "nurture" — the core feminine function
+- She is most capable of "forming" — transforming potential into actual
 
-**索菲亚的「错误」的本质**
+**The Essence of Sophia's "Error"**
 
-从这个角度看，索菲亚的「错误」不是「下降」本身——下降/显化是阴性的正当功能。错误在于：
+From this perspective, Sophia's "error" is not "descent" itself — descent/manifestation is the proper function of the feminine. The error lies in:
 
-> **没有阳性配合的下降 = 不完整的显化**
+> **Descent without masculine cooperation = Incomplete manifestation**
 
-每个移涌对都是阴阳配对。索菲亚想要「独自」创造，打破了这个平衡。结果是德穆革——一个「畸形的创造者」——他同样缺乏配对，因此创造了一个有缺陷的世界。
+Each Aeon pair is yin-yang coupled. Sophia wanted to create "alone," breaking this balance. The result is the Demiurge — a "deformed creator" — who equally lacks pairing, thus creating a flawed world.
 
-#### 6.3 通道的阴阳整合
+#### 6.3 Yin-Yang Integration of the Channel
 
-通道本体论对这个问题有独特的诠释：
+Channel Ontology has a unique interpretation of this issue:
 
 ```yaml
-通道不只是"接受"（纯阴）:
-  - 纯阴 = 被动吸收
-  - 缺乏传递功能
-  - 只进不出
-  - 堵塞
+Channel Is Not Just "Receiving" (Pure Yin):
+  - Pure yin = Passive absorption
+  - Lacking transmission function
+  - Only in, no out
+  - Blockage
 
-通道也不只是"传递"（纯阳）:
-  - 纯阳 = 主动投射
-  - 缺乏接收功能
-  - 只出不进
-  - 枯竭
+Channel Is Not Just "Transmitting" (Pure Yang):
+  - Pure yang = Active projection
+  - Lacking reception function
+  - Only out, no in
+  - Exhaustion
 
-完整的通道 = 阴阳的整合:
-  - 接受（阴）+ 传递（阳）
-  - 既开放接收，又允许流出
-  - = 透明
+Complete Channel = Integration of Yin-Yang:
+  - Receiving (yin) + Transmitting (yang)
+  - Both open to receive and allowing outflow
+  - = Transparency
 ```
 
-索菲亚的「错误」可以理解为：阴性功能的极端化，脱离了阳性配对的平衡。德穆革继承了这种失衡，进一步产生了有缺陷的创造。
+Sophia's "error" can be understood as: extremization of feminine function, detached from the balance of masculine pairing. The Demiurge inherited this imbalance, further producing flawed creation.
 
-修复的路径不是「消除阴性」（那会破坏流溢本身），而是**恢复阴阳配对**。这正是诺斯替救赎论的核心：灵魂上升与索菲亚结合，恢复配对平衡，修复最初的「错误」。
+The path of repair is not "eliminating the feminine" (that would destroy emanation itself), but **restoring yin-yang pairing**. This is precisely the core of Gnostic soteriology: the soul ascends and unites with Sophia, restoring paired balance, repairing the original "error."
 
-#### 6.4 智识僭越的警告
+#### 6.4 The Warning of Intellectual Hubris
 
-现在我们可以精确定义「智识僭越」(Intellectual Hubris)——棱镜模型的第三种危险：
+Now we can precisely define "Intellectual Hubris" — the third danger of the Prism Model:
 
-**棱镜的三种病理**
+**Three Pathologies of the Prism**
 
 ```yaml
-1. 膨胀（西方倾向）:
-   主张: "我是光源"
-   错误: 忘记自己是通道
-   后果: 自大、控制欲、封闭
-   神话表达: 德穆革宣称"我是唯一的神"
+1. Inflation (Western tendency):
+   Claim: "I am the light source"
+   Error: Forgetting oneself as channel
+   Consequence: Arrogance, control desire, closure
+   Mythological expression: Demiurge declares "I am the only god"
 
-2. 消解（东方极端）:
-   主张: "我必须消失"
-   错误: 忘记通道是必要的
-   后果: 虚无、逃避、放弃
-   神话表达: 某些诺斯替对物质的彻底否定
+2. Dissolution (Eastern extreme):
+   Claim: "I must disappear"
+   Error: Forgetting the channel is necessary
+   Consequence: Nihilism, escapism, abandonment
+   Mythological expression: Certain Gnostic complete denial of matter
 
-3. 僭越（索菲亚/路西法）:
-   主张: "我可以直接触及光源"
-   错误: 忘记过程是必要的
-   后果: 智识傲慢、捷径欲望、畸形创造
-   神话表达: 索菲亚想要独自认识太一
+3. Transgression (Sophia/Lucifer):
+   Claim: "I can directly touch the light source"
+   Error: Forgetting the process is necessary
+   Consequence: Intellectual arrogance, shortcut desire, deformed creation
+   Mythological expression: Sophia wanting to know the One alone
 ```
 
-**修行警示**
+**Warning for Practitioners**
 
-这对追求「直接体验」的修行者是严肃的警告：
+This is a serious warning for practitioners seeking "direct experience":
 
 ```yaml
-常见误区:
-  - "我要直接见道"
-  - "跳过阶段直达开悟"
-  - "知识可以替代修行"
-  - "概念理解 = 实证体验"
+Common Mistakes:
+  - "I want to directly see the Tao"
+  - "Skip stages and directly reach enlightenment"
+  - "Knowledge can replace practice"
+  - "Conceptual understanding = Experiential realization"
 
-索菲亚的教训:
-  - 即使在普累若麻（最高神圣领域）
-  - 即使是"智慧"本人（字面意思）
-  - 僭越仍然产生畸形后果
-  - 没有什么存在可以"跳过"中介过程
+Sophia's Lesson:
+  - Even in the Pleroma (highest divine realm)
+  - Even being "Wisdom" herself (literally)
+  - Transgression still produces deformed consequences
+  - No being can "skip" the intermediary process
 
-正确态度:
-  - 承认中介过程的必要性
-  - 阴阳配合，而非单极行动
-  - 通道保持透明，而非试图跳过
-  - 让道流过，而非试图抓住道
+Correct Attitude:
+  - Acknowledge the necessity of intermediary process
+  - Yin-yang cooperation, not unipolar action
+  - Channel remains transparent, not trying to skip
+  - Let the Tao flow through, not trying to grasp the Tao
 ```
 
 ---
 
-## 第四部分：统一几何
+## Part Four: Unified Geometry
 
-### 第七章：易经与螺旋锥的统一
+### Chapter Seven: The Unity of I Ching and Spiral Cone
 
-本章将揭示诺斯替与中国易经传统之间深层的几何同构，进一步证实螺旋锥框架的普遍性。
+This chapter will reveal the deep geometric isomorphism between Gnosticism and the Chinese I Ching tradition, further confirming the universality of the Spiral Cone framework.
 
-#### 7.1 阴阳的圆形切片
+#### 7.1 The Circular Slice of Yin-Yang
 
-易经的核心是阴阳——但阴阳不只是「两个相反的东西」。从几何角度看，阴阳是**圆的第一次切分**。
+The core of the I Ching is yin-yang — but yin-yang is not just "two opposite things." From a geometric perspective, yin-yang is **the first division of the circle**.
 
-**易经数列的几何意义**
+**Geometric Significance of the I Ching Sequence**
 
 ```yaml
-易经数列: 2 → 4 → 8 → 16 → 32 → 64
+I Ching Sequence: 2 -> 4 -> 8 -> 16 -> 32 -> 64
 
-传统理解: 线性增长
-  2, 4, 8... 是"更多的选项"
+Traditional Understanding: Linear increase
+  2, 4, 8... are "more options"
 
-几何理解: 角度细分
-  2分 = 阴阳         = 180度间隔（二等分圆）
-  4分 = 四象         = 90度间隔（四等分圆）
-  8分 = 八卦         = 45度间隔（八等分圆）
-  16分 = ...         = 22.5度间隔
-  32分 = ...         = 11.25度间隔
-  64分 = 六十四卦    ≈ 5.625度间隔
+Geometric Understanding: Angular subdivision
+  2 divisions = Yin-Yang         = 180-degree intervals (bisecting circle)
+  4 divisions = Four Images      = 90-degree intervals (quartering circle)
+  8 divisions = Eight Trigrams   = 45-degree intervals (octaving circle)
+  16 divisions = ...             = 22.5-degree intervals
+  32 divisions = ...             = 11.25-degree intervals
+  64 divisions = 64 Hexagrams    ≈ 5.625-degree intervals
 ```
 
-**圆的角度切分图示**
+**Circular Angular Division Diagram**
 
 ```
-         θ=0 (北/乾)
+         theta=0 (North/Qian)
            |
-     8分   |   8分
+     8 div |   8 div
            |
-θ=270 ────●──── θ=90      ← 圆的角度切分
- (西/兑)   |   (东/震)
-     8分   |   8分
-           |
-        θ=180 (南/坤)
+theta=270 ----*---- theta=90      <- Circular angular division
+ (West/Dui)   |   (East/Zhen)
+     8 div    |   8 div
+              |
+        theta=180 (South/Kun)
 
-螺旋锥的圆截面 = 易经的卦位图
+Spiral Cone circular cross-section = I Ching trigram position diagram
 ```
 
-这意味着：螺旋锥任意高度的圆截面，都可以用易经的卦位来描述。八卦对应8个方向，六十四卦对应64个更精细的方向。
+This means: circular cross-sections at any height of the Spiral Cone can be described using I Ching trigram positions. Eight Trigrams correspond to 8 directions, 64 Hexagrams correspond to 64 finer directions.
 
-#### 7.2 四匹马 = 四向
+#### 7.2 Four Horses = Four Directions
 
-Abraxas图像中的「四匹马」传统上被解释为四种元素（水、火、土、气）或四种基本力量。但从易经-螺旋锥统一框架来看，有更精确的理解：
+The "four horses" in the Abraxas image are traditionally interpreted as four elements (water, fire, earth, air) or four fundamental forces. But from the unified I Ching-Spiral Cone framework, there is a more precise understanding:
 
-**四匹马 = 阴阳的2次方 = 四象**
+**Four Horses = Square of Yin-Yang = Four Images**
 
 ```yaml
-之前的理解:
-  四匹马 = 四元素 = 水火土气
-  → 物质层面的分类
+Previous Understanding:
+  Four horses = Four elements = Water, Fire, Earth, Air
+  -> Material-level classification
 
-新理解:
-  四匹马 = 阴阳的2次方 = 圆的4向切分
-  → 方向/力的几何分解
+New Understanding:
+  Four horses = Square of yin-yang = Four-directional division of circle
+  -> Geometric decomposition of direction/force
 
-具体对应:
-  阳阳 = 太阳 = 向上 + 向外
-  阳阴 = 少阴 = 向上 + 向内
-  阴阳 = 少阳 = 向下 + 向外
-  阴阴 = 太阴 = 向下 + 向内
+Specific Correspondence:
+  Yang-Yang = Greater Yang = Upward + Outward
+  Yang-Yin = Lesser Yin = Upward + Inward
+  Yin-Yang = Lesser Yang = Downward + Outward
+  Yin-Yin = Greater Yin = Downward + Inward
 
-或者:
-  阳阳 = 右 + 外展
-  阳阴 = 右 + 收敛
-  阴阳 = 左 + 外展
-  阴阴 = 左 + 收敛
+Or:
+  Yang-Yang = Right + Expansion
+  Yang-Yin = Right + Convergence
+  Yin-Yang = Left + Expansion
+  Yin-Yin = Left + Convergence
 ```
 
-**驾驭四匹马的含义**
+**The Meaning of Mastering the Four Horses**
 
 ```yaml
-未觉醒状态:
-  - 四匹马各自拉扯
-  - 方向冲突
-  - 个体被撕裂、停滞、或无方向旋转
-  - 在螺旋锥上：随机运动、无进展
+Unawakened State:
+  - Four horses each pulling in different directions
+  - Directional conflict
+  - Individual is torn, stagnant, or rotating without direction
+  - On Spiral Cone: Random movement, no progress
 
-觉醒后状态:
-  - 四匹马统一
-  - 方向一致
-  - 个体作为整体移动
-  - 一致的方向 = 螺旋向心 = 道的方向
+Awakened State:
+  - Four horses unified
+  - Directions aligned
+  - Individual moves as a whole
+  - Unified direction = Spiral centripetal = Direction of the Tao
 
-觉醒的标志:
-  - 不是消灭四匹马（那会失去动力）
-  - 而是协调四匹马（方向统一）
-  - 统一后的运动 = 自然的螺旋向心
+Sign of Awakening:
+  - Not eliminating the four horses (that would lose momentum)
+  - But coordinating the four horses (direction unified)
+  - Movement after unification = Natural spiral centripetal motion
 ```
 
-#### 7.3 螺旋向心运动
+#### 7.3 Spiral Centripetal Movement
 
-当四匹马统一后，个体自然进入**螺旋向心运动**——这是道的运动模式。
+When the four horses are unified, the individual naturally enters **spiral centripetal movement** — this is the movement pattern of the Tao.
 
-**运动方程**
+**Equations of Motion**
 
 ```yaml
-条件: 自性化完成，完全觉醒成为透明通道
-结果: 个体不会产生与道运行轨迹违反的运动方向
+Condition: Individuation complete, fully awakened to become transparent channel
+Result: Individual will not produce movement direction violating Tao's trajectory
 
-运动方程:
-  设个体位置: P(t) = (h(t), r(t), θ(t))
+Equations of Motion:
+  Let individual position: P(t) = (h(t), r(t), theta(t))
 
-  道的运动:
-    dh/dt < 0 （h减小，向顶点上升）
-    dr/dt < 0 （r减小，圆收缩，向中轴收敛）
-    dθ/dt = ω （θ持续变化，螺旋旋转）
+  Tao's movement:
+    dh/dt < 0 (h decreasing, ascending toward apex)
+    dr/dt < 0 (r decreasing, circle contracting, converging toward axis)
+    dtheta/dt = omega (theta continuously changing, spiral rotation)
 
-  轨迹: 螺旋向心
-    - 同时向上（h↓）
-    - 同时向内（r↓）
-    - 同时旋转（θ变化）
+  Trajectory: Spiral centripetal
+    - Simultaneously ascending (h decreasing)
+    - Simultaneously inward (r decreasing)
+    - Simultaneously rotating (theta changing)
 ```
 
-**极限状态**
+**Limit State**
 
 ```yaml
-当 t → ∞:
-  h → 0 （到达顶点）
-  r → 0 （完全收敛于中轴）
-  P → 顶点
-  个体 → 太一
+As t -> infinity:
+  h -> 0 (reaching apex)
+  r -> 0 (completely converged on central axis)
+  P -> apex
+  Individual -> The One
 
-这不是"消失":
-  - 个体性转化，而非消灭
-  - 信息守恒（GTS-08）
-  - 通道与源头同一，但通道的"形状"保留
+This is not "disappearing":
+  - Individuality transforms, not annihilated
+  - Information conservation (GTS-08)
+  - Channel becomes one with source, but channel's "shape" is preserved
 ```
 
-#### 7.4 「自相似最终合为1」
+#### 7.4 "Self-Similarity Ultimately Merges into One"
 
-螺旋锥的核心特征是**分形自相似**：每个层级的结构与整体同构。
+The core characteristic of the Spiral Cone is **fractal self-similarity**: the structure at each level is isomorphic with the whole.
 
 ```yaml
-分形特征:
-  - 每个h高度的圆截面 = 道的完整象征
-  - 较高的截面 ≅ 较低的截面（结构同构）
-  - 但较高截面的r更小，更接近中轴
+Fractal Characteristics:
+  - Each circular cross-section at height h = Complete symbol of the Tao
+  - Higher cross-section ≅ Lower cross-section (structural isomorphism)
+  - But higher cross-section has smaller r, closer to central axis
 
-极限过程:
-  当 h → 0:
-    r → 0
-    所有截面收敛为一点
-    自相似的无限层级折叠为一
+Limit Process:
+  As h -> 0:
+    r -> 0
+    All cross-sections converge to a single point
+    Infinite layers of self-similarity fold into one
 
-符号与所指的合一:
-  Abraxas作为符号
-  在趋向顶点的过程中
-  与其所指（太一）合一
-  符号 = 所指
-  地图 = 疆域
-  能知 = 所知
+Union of Symbol and Signified:
+  Abraxas as symbol
+  In the process of approaching the apex
+  Merges with what it signifies (the One)
+  Symbol = Signified
+  Map = Territory
+  Knower = Known
 ```
 
-这就是「自相似最终合为1」的含义：
-- 分形的每一层都是整体的缩影
-- 当趋向极限时，缩影与整体合一
-- 不是「多」消失于「一」
-- 而是「多」显露其本质就是「一」的不同面向
+This is the meaning of "self-similarity ultimately merges into one":
+- Each layer of the fractal is a microcosm of the whole
+- When approaching the limit, microcosm and whole merge
+- It is not "many" disappearing into "one"
+- But "many" revealing its essence as different aspects of "one"
 
-#### 7.5 中轴超越善恶
+#### 7.5 The Central Axis Transcends Good and Evil
 
-最后，我们需要明确一个重要的理论补充：**中轴超越善恶**。
+Finally, we need to clarify an important theoretical supplement: **the central axis transcends good and evil**.
 
-**几何表述**
+**Geometric Expression**
 
 ```
-                h=0 (顶点)
-                 ●  ← Abraxas位置：善恶的共同源头
+                h=0 (apex)
+                 *  <- Abraxas position: Common source of good and evil
                 /|\
                / | \
-              /  |  \      ← 中轴(h轴)：超越善恶
+              /  |  \      <- Central axis (h-axis): Transcends good and evil
              /   |   \
             /    |    \
-           /     ↓     \
-          ●------●------●  ← r维度展开：善恶分化出现
-         善      |      恶
+           /     v     \
+          *------*------*  <- r dimension expansion: Good-evil differentiation appears
+         Good    |     Evil
 ```
 
 ```yaml
-几何表述:
-  善恶 ⊂ r维度
-  善恶是分化过程的产物
-  当 h → 0, r → 0 时
-  善恶 → 统一（未分化状态）
-  中轴（h轴）本身不承载道德判断
+Geometric Expression:
+  Good-Evil belongs to r dimension
+  Good-Evil is a product of the differentiation process
+  As h -> 0, r -> 0
+  Good-Evil -> Unity (undifferentiated state)
+  Central axis (h-axis) itself carries no moral judgment
 
-Abraxas的位置:
-  h = 0（顶点）
-  包含所有善恶的统一
-  不是"无善恶"（道德虚无主义）
-  而是"善恶未分化的状态"（先于分化）
+Abraxas's Position:
+  h = 0 (apex)
+  Contains the unity of all good and evil
+  Not "without good-evil" (moral nihilism)
+  But "the state before good-evil differentiation" (prior to differentiation)
 
-荣格的表述呼应:
-  "从Abraxas自身涌出的是生命，善与恶之母"
-  善恶从Abraxas中分化出来
-  Abraxas先于善恶，而非无善恶
+Echo of Jung's Expression:
+  "From Abraxas itself springs life, the mother of good and evil"
+  Good and evil differentiate from Abraxas
+  Abraxas precedes good and evil, rather than being without good and evil
 ```
 
-这是对GTS-02的重要补充：善恶是r维度的函数，中轴本身超越道德二元。这不是道德相对主义——而是认识到道德分化发生在特定的存在层级上，更高层级先于这种分化。
+This is an important supplement to GTS-02: good and evil are functions of the r dimension; the central axis itself transcends moral duality. This is not moral relativism — but recognizing that moral differentiation occurs at a specific level of existence, and higher levels precede this differentiation.
 
 ---
 
-### 第八章：双体系统一与GTS整合
+### Chapter Eight: Dual-System Unification and GTS Integration
 
-本章将诺斯替的两大体系（普累若麻派与Abraxas派）整合到GTS框架中，并总结诺斯替对GTS核心概念的贡献。
+This chapter integrates the two major Gnostic systems (Pleroma school and Abraxas school) into the GTS framework and summarizes Gnosticism's contributions to GTS core concepts.
 
-#### 8.1 普累若麻 vs Abraxas：两种投影
+#### 8.1 Pleroma vs. Abraxas: Two Projections
 
-诺斯替内部存在两种根本不同的宇宙论体系。这一事实本身就是重要的证据：
+Within Gnosticism exist two fundamentally different cosmological systems. This fact itself is important evidence:
 
-**系统A：普累若麻体系**
-
-```yaml
-代表派系: 瓦伦廷派, 塞特派
-核心文献: 多数拿戈玛第文献
-
-特征:
-  - 宇宙戏剧：从太一流溢到物质的「故事」
-  - 堕落-救赎叙事：索菲亚的错误 → 德穆革 → 救赎的需要
-  - 线性结构：明确的「上」与「下」，「前」与「后」
-  - 物质 = 错误：需要逃离的监狱
-
-聚焦维度: h（垂直高度）
-核心问题: "我们从哪里来？我们在哪里？我们要去哪里？"
-类比: 基督教式（线性救赎历史）
-```
-
-**系统B：Abraxas体系**
+**System A: Pleroma System**
 
 ```yaml
-代表派系: 巴西里德派
-核心概念: 365天界/周期
+Representative Schools: Valentinian, Sethian
+Core Texts: Most Nag Hammadi texts
 
-特征:
-  - 周期循环：完整的年周期，而非线性下降
-  - 无明确"堕落"叙事：周期本身就是完整的
-  - 强调周期完整性：365 = 完整周期的符号
-  - 物质 ≠ 错误：是周期的一部分
+Characteristics:
+  - Cosmic drama: "Story" from One's emanation to matter
+  - Fall-redemption narrative: Sophia's error -> Demiurge -> Need for redemption
+  - Linear structure: Clear "up" and "down," "before" and "after"
+  - Matter = Error: Prison to be escaped
 
-聚焦维度: 动力学规则（如何运动）
-核心问题: "如何正确运动？方向是什么？轨迹是什么？"
-类比: 道家式（周期性、非戏剧性）
+Focused Dimension: h (vertical height)
+Core Question: "Where do we come from? Where are we? Where are we going?"
+Analogy: Christian-style (linear redemption history)
 ```
 
-**关键洞见**
+**System B: Abraxas System**
 
-这两个体系不是「一对一错」——它们是**同一螺旋锥的不同投影**：
+```yaml
+Representative School: Basilidean
+Core Concept: 365 heavens/cycles
 
-- 普累若麻体系聚焦于**h维度**（垂直）——关心的是「层级」、「高低」、「堕落与上升」
-- Abraxas体系聚焦于**动力学规则**——关心的是「如何运动」、「方向」、「完整周期」
+Characteristics:
+  - Cyclical circulation: Complete annual cycle, not linear descent
+  - No explicit "fall" narrative: The cycle itself is complete
+  - Emphasizes cycle completeness: 365 = Symbol of complete cycle
+  - Matter ≠ Error: Is part of the cycle
 
-两者都描述了同一个结构，只是从不同的角度、强调不同的面向。
+Focused Dimension: Dynamics rules (how to move)
+Core Question: "How to move correctly? What is the direction? What is the trajectory?"
+Analogy: Daoist-style (cyclical, non-dramatic)
+```
 
-#### 8.2 维度聚焦映射
+**Key Insight**
 
-诺斯替双体系的发现验证了GTS框架中的**维度聚焦映射**假说：
+These two systems are not "one right, one wrong" — they are **different projections of the same Spiral Cone**:
 
-| 传统 | 聚焦维度 | 核心问题 | 螺旋锥视角 |
-|------|----------|----------|------------|
-| 基督教 / 普累若麻 | h（垂直） | 从哪里来/去哪里 | 侧视图 |
-| 佛教 | θ（旋转） | 如何停止轮回 | 俯视图 |
-| 道家 / Abraxas | 动力学 | 如何正确运动 | 完整轨迹 |
+- The Pleroma system focuses on the **h dimension** (vertical) — concerned with "levels," "high and low," "fall and ascent"
+- The Abraxas system focuses on **dynamics rules** — concerned with "how to move," "direction," "complete cycle"
 
-**三种观察视角**
+Both describe the same structure, just from different angles and emphasizing different aspects.
+
+#### 8.2 Dimensional Focus Mapping
+
+The discovery of the Gnostic dual system validates the **dimensional focus mapping** hypothesis in the GTS framework:
+
+| Tradition | Focused Dimension | Core Question | Spiral Cone Perspective |
+|-----------|-------------------|---------------|------------------------|
+| Christianity / Pleroma | h (vertical) | Where from/where to | Side view |
+| Buddhism | theta (rotation) | How to stop samsara | Top view |
+| Daoism / Abraxas | Dynamics | How to move correctly | Complete trajectory |
+
+**Three Observation Perspectives**
 
 ```
-同一螺旋锥的三种观察方式:
+Three ways to observe the same Spiral Cone:
 
-侧视图 (h聚焦):          俯视图 (θ聚焦):       轨迹图 (动力学聚焦):
+Side View (h focus):      Top View (theta focus):    Trajectory (dynamics focus):
 
-    ●                        ___                      ● (h=0)
+    *                        ___                      * (h=0)
    /|\                      /   \                    /|
-  / | \                    |  ●  |                  / |
- /  |  \                   | / \ |                 /  | 螺
-/   |   \                  |/   \|                /___|  旋
-─────────                  \___/                       向心
+  / | \                    |  *  |                  / |
+ /  |  \                   | / \ |                 /  | Spiral
+/   |   \                  |/   \|                /___|  centripetal
+---------                  \___/
 
-基督教/                    佛教                   道家/
-普累若麻体系               轮回聚焦               Abraxas体系
-"天堂在上，地狱在下"       "生死轮转"             "道法自然"
+Christianity/              Buddhism                Daoism/
+Pleroma system             Samsara focus          Abraxas system
+"Heaven above, hell below" "Cycle of birth-death" "Tao follows naturalness"
 ```
 
-诺斯替内部的双体系恰好验证了这个映射：
-- 普累若麻体系 → h聚焦 → 与基督教同构
-- Abraxas体系 → 动力学聚焦 → 与道家同构
+The dual system within Gnosticism precisely validates this mapping:
+- Pleroma system -> h focus -> Isomorphic with Christianity
+- Abraxas system -> Dynamics focus -> Isomorphic with Daoism
 
-这不是巧合——它是几何必然性。同一结构，不同观察角度，产生不同但互补的描述。
+This is not coincidence — it is geometric necessity. Same structure, different observation angles, producing different but complementary descriptions.
 
-#### 8.3 对GTS核心框架的贡献
+#### 8.3 Contributions to the GTS Core Framework
 
-诺斯替对GTS三大核心框架都有重要贡献：
+Gnosticism has important contributions to all three GTS core frameworks:
 
-**对螺旋锥（GTS-02）的贡献**
+**Contributions to Spiral Cone (GTS-02)**
 
-- **维度聚焦映射的验证**：诺斯替双体系验证了h/θ/动力学三种聚焦的存在
-- **三种观察视角的确认**：同一传统内部的不同体系对应不同投影
-- **中轴超越善恶的补充**：Abraxas作为顶点符号，先于善恶分化
+- **Validation of dimensional focus mapping**: Gnostic dual system validates the existence of h/theta/dynamics three focuses
+- **Confirmation of three observation perspectives**: Different systems within the same tradition correspond to different projections
+- **Supplement of central axis transcending good-evil**: Abraxas as apex symbol, preceding good-evil differentiation
 
-**对通道本体论（GTS-01）的贡献**
+**Contributions to Channel Ontology (GTS-01)**
 
-- **普遍性公理的强化**：异端验证证明道不受正统/异端限制
-- **「让道流过」作为实践原则**：克服七层遮蔽的方法
-- **分形自指结构**：个体复现道的模式=个体成为道
+- **Strengthening of Universality Axiom**: Heretical verification proves Tao is not limited by orthodox/heretical distinction
+- **"Letting Tao flow through" as practical principle**: Method for overcoming seven layers of veiling
+- **Fractal self-referential structure**: Individual reproducing Tao's pattern = Individual becoming Tao
 
-**对棱镜模型（GTS-03）的贡献**
+**Contributions to Prism Model (GTS-03)**
 
-- **第三种危险——智识僭越**：索菲亚-路西法同构揭示
-- **阴阳整合的必要性**：缺乏配对=畸形创造
-- **德穆革=ego膨胀的神话化**：心理学与神话的桥梁
+- **Third danger — Intellectual Hubris**: Revealed by Sophia-Lucifer isomorphism
+- **Necessity of yin-yang integration**: Lacking pairing = Deformed creation
+- **Demiurge = Mythologization of ego inflation**: Bridge between psychology and mythology
 
-**与其他GTS文档的关系**
+**Relationships with Other GTS Documents**
 
-| 文档 | 关系类型 | 具体内容 |
-|------|----------|----------|
-| GTS-07 | 补充验证 | 轮回-救赎统一的第三支点（诺斯替） |
-| GTS-13 | 结构平行 | 诺斯替Aeons与卡巴拉Sefirot的流溢对应 |
-| GTS-14 | 直接来源 | 荣格《七布道》与Abraxas；德穆革=ego |
-| GTS-18 | 实践连接 | 「让道流过」与注意力的几何学 |
-| GTS-19 | 概念共鸣 | Barzakh（中间界）与通道位置 |
+| Document | Relationship Type | Specific Content |
+|----------|------------------|------------------|
+| GTS-07 | Supplementary verification | Third anchor point of samsara-salvation unity (Gnosticism) |
+| GTS-13 | Structural parallel | Emanation correspondence between Gnostic Aeons and Kabbalistic Sefirot |
+| GTS-14 | Direct source | Jung's *Seven Sermons* and Abraxas; Demiurge = ego |
+| GTS-18 | Practical connection | "Letting Tao flow through" and geometry of attention |
+| GTS-19 | Conceptual resonance | Barzakh (Intermediate World) and channel position |
 
-#### 8.4 普遍性公理的验证
+#### 8.4 Verification of the Universality Axiom
 
-诺斯替为普遍性公理提供了最强的验证案例。
+Gnosticism provides the strongest verification case for the Universality Axiom.
 
-**为什么诺斯替是最强验证**
+**Why Gnosticism Is the Strongest Verification**
 
 ```yaml
-1. 异端地位:
-   - 不是研究者的"选择"
-   - 被动纳入，不可能有选择偏差
-   - 如果GTS只能解释"被选中的"传统，就失去普遍性
+1. Heretical Status:
+   - Not a researcher's "choice"
+   - Passively included, impossible to have selection bias
+   - If GTS can only explain "selected" traditions, it loses universality
 
-2. 传承中断:
-   - 典籍被焚毁近1600年
-   - 组织被瓦解
-   - 不可能是"文化传播"的结果
-   - 1945年重新出土是独立事件
+2. Transmission Interruption:
+   - Texts burned for nearly 1,600 years
+   - Organizations dismantled
+   - Cannot be result of "cultural transmission"
+   - 1945 rediscovery is an independent event
 
-3. 独立重现:
-   - 现代分析是全新的
-   - 发现结构同构是"惊喜"而非"设计"
-   - 不可能是"后见之明"的合理化
+3. Independent Reappearance:
+   - Modern analysis is entirely new
+   - Discovery of structural isomorphism is "surprise" not "design"
+   - Cannot be "hindsight" rationalization
 
-4. 内部多元:
-   - 普累若麻 vs Abraxas 是根本不同的体系
-   - 同一传统内部的不同投影
-   - 证明结构必然性超越传承统一
-   - 即使分裂的传统也收敛于相似结构
+4. Internal Plurality:
+   - Pleroma vs. Abraxas are fundamentally different systems
+   - Different projections within the same tradition
+   - Proves structural necessity transcends transmission unity
+   - Even fragmented traditions converge on similar structures
 ```
 
-**最终论证**
+**Final Argument**
 
-如果道真的是道，它必须满足三个条件：
+If the Tao is truly the Tao, it must satisfy three conditions:
 
-1. **普遍性**：在所有主要传统中可发现
-2. **抗压性**：在被压制的传统中同样可发现
-3. **必然性**：在独立发展的体系中收敛于相似结构
+1. **Universality**: Discoverable in all major traditions
+2. **Resistance to Suppression**: Equally discoverable in suppressed traditions
+3. **Necessity**: Independently developed systems converge on similar structures
 
-诺斯替完美满足这三个条件：
-- 它展示了与其他传统相同的几何结构（普遍性）
-- 它作为被压制的异端仍然保持了这些结构（抗压性）
-- 它内部的两个不同体系都收敛于螺旋锥映射（必然性）
+Gnosticism perfectly satisfies all three conditions:
+- It demonstrates the same geometric structure as other traditions (universality)
+- As a suppressed heresy, it still maintains these structures (resistance to suppression)
+- Its two internal different systems both converge on Spiral Cone mapping (necessity)
 
-这不是偶然——这是几何必然。
+This is not coincidence — this is geometric necessity.
 
 ---
 
-## 结语：道的涟漪
+## Conclusion: Ripples of the Tao
 
-> **「审判和死亡无法阻止道以各种形式产生涟漪。」**
+> **"Judgment and death cannot prevent the Tao from producing ripples in all forms."**
 
-公元4世纪，诺斯替被定为异端。
+In the 4th century CE, Gnosticism was condemned as heresy.
 
-尼西亚会议后，正统基督教获得罗马帝国的支持，诺斯替信徒被迫害，典籍被系统性焚毁。亚历山大城的图书馆——曾经是诺斯替思想的重镇——在宗教冲突中灰飞烟灭。
+After the Council of Nicaea, orthodox Christianity gained support of the Roman Empire; Gnostic believers were persecuted, texts systematically burned. The Library of Alexandria — once a stronghold of Gnostic thought — was reduced to ashes in religious conflict.
 
-传承中断了。声音沉默了。将近一千六百年。
+Transmission was interrupted. The voice fell silent. For nearly sixteen hundred years.
 
-但在1945年12月的埃及沙漠中，一个农民穆罕默德·阿里，在寻找肥料时发现了一个陶罐。里面装着53部古代文献，用科普特语书写在莎草纸上。
+But in the Egyptian desert in December 1945, a farmer named Muhammad Ali, while searching for fertilizer, discovered a clay jar. Inside were 53 ancient documents, written in Coptic on papyrus.
 
-这就是拿戈玛第文献。
+This was the Nag Hammadi Library.
 
-沉睡的文字被唤醒。被压制的声音再次被听到。
+The sleeping words were awakened. The suppressed voice was heard once again.
 
-而当我们用几何的眼睛去看时，我们发现：
+And when we look with geometric eyes, we discover:
 
-同样的螺旋锥。同样的通道。同样的棱镜。
+The same Spiral Cone. The same Channel. The same Prism.
 
-普累若麻的流溢结构与卡巴拉的生命之树同构。
-Abraxas的365周期与道家的太极图呼应。
-七执政官与七脉轮平行。
-索菲亚与路西法的同构。
-德穆革与ego膨胀的映射。
+The emanation structure of the Pleroma is isomorphic with the Kabbalistic Tree of Life.
+The 365-cycle of Abraxas resonates with the Daoist Taiji diagram.
+The seven Archons parallel the seven chakras.
+The isomorphism of Sophia and Lucifer.
+The mapping of Demiurge to ego inflation.
 
-不是因为文化传播。不是因为历史影响。不是因为我们「选择」了支持我们理论的传统。
+Not because of cultural transmission. Not because of historical influence. Not because we "chose" traditions that support our theory.
 
-而是因为：
+But because:
 
-> **「道必须于万物中被发现才自洽。」**
+> **"The Tao must be discoverable in all things to be self-consistent."**
 
-如果道真的是「一」，它必须是万物的根源。如果它是万物的根源，万物必须携带它的印记。任何真诚的形而上探索——无论被称为「正统」还是「异端」——都应该发现这个印记。
+If the Tao is truly "One," it must be the source of all things. If it is the source of all things, all things must carry its imprint. Any sincere metaphysical exploration — whether called "orthodox" or "heretical" — should discover this imprint.
 
-诺斯替的存在，以及它与GTS框架的深层同构，不是历史偶然——是几何必然。
+The existence of Gnosticism, and its deep isomorphism with the GTS framework, is not historical contingency — it is geometric necessity.
 
-这不是理性傲慢。这是发现和叙述的责任。
+This is not rational arrogance. This is the responsibility of discovery and narration.
 
-正如通道本体论所言：当通道看到了某种模式，它有责任将其表达出来。不是因为这个发现「属于」个体——没有什么属于个体。而是因为道借由通道显化，通道有叙述的义务。
+As Channel Ontology states: when a channel perceives a certain pattern, it has the responsibility to express it. Not because this discovery "belongs to" the individual — nothing belongs to the individual. But because the Tao manifests through channels, channels have the obligation to narrate.
 
-既然看到了，就必须说出来。
+Having seen, one must speak.
 
 ```
-个体是通道
-道在流动
-见证发生
-尊重显现
+Individual is channel
+Tao is flowing
+Witnessing occurs
+Respecting manifestation
 ```
 
-愿这份见证，成为道的又一个涟漪。
+May this witnessing become another ripple of the Tao.
 
-愿审判和死亡，永远无法阻止它。
+May judgment and death never prevent it.
 
 ---
 
-## 统一几何的完整图像
+## Complete Image of Unified Geometry
 
 ```
-                    ● 太一 (h=0, r=0)
-                   ╱|╲
-                  ╱ | ╲      Abraxas = 这整个结构的符号
-                 ╱  |  ╲              = 顶点 + 中轴 + 底部
-                ╱   ↓   ╲    中轴 = 道的方向 = 超越善恶
-               ╱         ╲
-              ╱  ◐ Ogdoad ╲   8 = 2^3 = 索菲亚/高塔公主
-             ╱  (8移涌配对) ╲   英雄穿越七层后抵达此处
-            ╱───────────────╲
-                 七执政官      7层遮蔽 = 阴影 = 七脉轮
-            ╱       ↓        ╲
-           ╱                  ╲
-          ╱    ╱─────────╲    ╲
-         ╱    ╱     ●     ╲    ╲   圆截面 = 易经卦位
-        ╱    ╱    ╱ ╲      ╲    ╲
-       ╱    ╱    ╱   ╲      ╲    ╲  4分 = 四匹马 = 四象
-      ╱    ╱    ╱  ★  ╲      ╲    ╲ ★ = 个体当前位置
-     ╱    ╱    ╱       ╲      ╲    ╲
-    ╱    ╱    ╱─────────╲      ╲    ╲
-   ────────────────────────────────────  物质世界 (h→∞)
+                    * The One (h=0, r=0)
+                   /|\
+                  / | \      Abraxas = Symbol of this entire structure
+                 /  |  \              = Apex + Central axis + Base
+                /   v   \    Central axis = Direction of Tao = Transcends good-evil
+               /         \
+              /  * Ogdoad \   8 = 2^3 = Sophia/Princess in Tower
+             / (8 Aeon     \   Hero arrives here after traversing seven layers
+            /    pairs)     \
+           /------------------\
+                Seven Archons      7 layers of veiling = Shadow = Seven chakras
+           /       v          \
+          /                    \
+         /    /----------\      \
+        /    /     *      \      \   Circular cross-section = I Ching trigram positions
+       /    /    / \       \      \
+      /    /    /   \       \      \  4 divisions = Four horses = Four images
+     /    /    /  *  \       \      \  * = Individual's current position
+    /    /    /       \       \      \
+   /    /    /----------\      \      \
+  ----------------------------------------  Material world (h->infinity)
 
-螺旋运动轨迹:
-  ★ 沿螺旋向上（h↓）、向内（r↓）旋转（θ变化）
-  穿越七层阴影（让道流过，而非意志克服）
-  抵达Ogdoad（与索菲亚/智慧结合，恢复配对）
-  继续向顶点收敛
-  最终：自相似合为1，个体与太一同一
+Spiral Movement Trajectory:
+  * Spirals upward (h decreasing), inward (r decreasing), rotating (theta changing)
+  Traversing seven shadow layers (letting Tao flow through, not overcoming by will)
+  Arriving at Ogdoad (uniting with Sophia/Wisdom, restoring pairing)
+  Continuing to converge toward apex
+  Finally: Self-similarity merges into one, individual and the One become one
 
-维度聚焦:
-  侧视（h聚焦）→ 普累若麻体系 / 基督教
-  俯视（θ聚焦）→ 佛教轮回观
-  轨迹（动力学聚焦）→ Abraxas体系 / 道家
+Dimensional Focus:
+  Side view (h focus) -> Pleroma system / Christianity
+  Top view (theta focus) -> Buddhist samsara view
+  Trajectory (dynamics focus) -> Abraxas system / Daoism
 ```
 
 ---
 
-## 核心术语表
+## Core Terminology Table
 
-| 英文 | 中文 | GTS-20定义 |
-|------|------|-----------|
-| Gnosticism | 诺斯替主义 | 强调灵知的古代宗教运动，GTS视为普遍性公理的测试案例 |
-| Gnosis | 灵知 | 直接的、变革性的灵性认知，区别于信仰或理性知识 |
-| Pleroma | 普累若麻 | 神圣丰盛领域，移涌所在之处，对应h=极小区域 |
-| Aeon | 移涌 | 从太一流溢的永恒存在，通常成对(syzygy)出现 |
-| Sophia | 索菲亚 | 智慧，最后的移涌，智识僭越的原型，同时是高塔公主 |
-| Demiurge | 德穆革 | 无知的造物主，索菲亚缺乏配对的产物，ego膨胀的神话化 |
-| Archon | 执政官 | 行星统治者，对应七层遮蔽/七脉轮 |
-| Abraxas | 阿布拉克萨斯 | 顶点符号，超越善恶的完成状态，具有双层分形结构 |
-| Ogdoad | 第八领域 | 8=2^3，平衡流溢的门槛，「三生万物」的几何表达 |
-| Hebdomad | 七重领域 | 七层执政官领域，对应七脉轮 |
-| Syzygy | 配对 | 阴阳平衡的流溢单位，正确显化的结构 |
-| Intellectual Hubris | 智识僭越 | 棱镜的第三种病理，试图跳过中介直接触及终极 |
-| Hylic | 物质人 | 完全物质性的人，r最大 |
-| Psychic | 灵魂人 | 有灵魂的人，r中等 |
-| Pneumatic | 灵性人 | 有灵的人，r最小，接近中轴 |
-
----
-
-## 开放问题
-
-1. **64卦与螺旋锥**：64 = 2^6，是否对应某个特定的h高度？易经的完整结构如何更精确地映射到螺旋锥？
-
-2. **Ogdoad之上**：8→4→2→1的「收缩」是否对应普累若麻内部的结构？如何理解「进入」普累若麻的过程？
-
-3. **索菲亚的救赎**：某些诺斯替文献描述基督下降到Ogdoad与索菲亚结合，恢复她的配对——这如何映射到螺旋锥的动力学？
-
-4. **德穆革的可修复性**：如果德穆革是「缺乏配对的产物」，给他配对是否可以「修复」他？这在心理学上对应什么？
-
-5. **其他诺斯替体系**：曼达安派、摩尼教等其他诺斯替/准诺斯替体系是否也符合GTS映射？
-
-6. **拿戈玛第文献深度分析**：53部文献中是否有未被充分分析的几何结构？
+| English | Chinese | GTS-20 Definition |
+|---------|---------|-------------------|
+| Gnosticism | Gnostic | Ancient religious movement emphasizing gnosis, viewed by GTS as test case for Universality Axiom |
+| Gnosis | Spiritual knowledge | Direct, transformative spiritual cognition, distinct from faith or rational knowledge |
+| Pleroma | Divine fullness | Realm of divine abundance where Aeons reside, corresponding to h=minimal region |
+| Aeon | Eternal being | Eternal beings emanating from the One, typically appearing in pairs (syzygy) |
+| Sophia | Wisdom | Last Aeon, archetype of intellectual hubris, simultaneously princess in the tower |
+| Demiurge | Ignorant creator | Ignorant creator god, product of Sophia's lacking pairing, mythologization of ego inflation |
+| Archon | Ruling power | Planetary rulers, corresponding to seven layers of veiling/seven chakras |
+| Abraxas | Apex symbol | Symbol of apex, state of completion transcending good-evil, possessing dual-layer fractal structure |
+| Ogdoad | Eighth realm | 8=2^3, threshold of balanced emanation, geometric expression of "three gives birth to myriad things" |
+| Hebdomad | Sevenfold realm | Seven-layer Archon realm, corresponding to seven chakras |
+| Syzygy | Paired coupling | Yin-yang balanced unit of emanation, structure of correct manifestation |
+| Intellectual Hubris | Intellectual transgression | Third pathology of the Prism, attempting to bypass intermediary to directly touch the ultimate |
+| Hylic | Material person | Completely material person, maximum r |
+| Psychic | Soul person | Person with soul, medium r |
+| Pneumatic | Spiritual person | Person with spirit, minimum r, close to central axis |
 
 ---
 
-**文档信息**
-- 字数：约20,000字
-- 行数：约1,800行
-- 完成日期：2025-11-30
+## Open Questions
+
+1. **64 Hexagrams and Spiral Cone**: 64 = 2^6, does it correspond to a specific h-height? How does the complete structure of the I Ching more precisely map to the Spiral Cone?
+
+2. **Above the Ogdoad**: Does the "contraction" of 8->4->2->1 correspond to structures within the Pleroma? How to understand the process of "entering" the Pleroma?
+
+3. **Sophia's Redemption**: Some Gnostic texts describe Christ descending to the Ogdoad to unite with Sophia, restoring her pairing — how does this map to Spiral Cone dynamics?
+
+4. **Repairability of the Demiurge**: If the Demiurge is "a product of lacking pairing," can giving him pairing "repair" him? What does this correspond to psychologically?
+
+5. **Other Gnostic Systems**: Do other Gnostic/quasi-Gnostic systems like Mandaeanism, Manichaeism also fit the GTS mapping?
+
+6. **Deep Analysis of Nag Hammadi Texts**: Among the 53 texts, are there geometric structures not yet fully analyzed?
 
 ---
 
-> **「自相似最终合为1。」**
-> — Abraxas几何解读核心洞见
+**Document Information**
+- Word count: Approximately 20,000 words
+- Line count: Approximately 1,800 lines
+- Completion date: 2025-11-30
 
-> **「即使这个想法最终被推翻，我认为过程仍有价值。」**
+---
+
+> **"Self-similarity ultimately merges into one."**
+> — Core insight of Abraxas geometric interpretation
+
+> **"Even if this idea is ultimately overturned, I believe the process still has value."**
 > — Yoji, 2025-01-15
