@@ -5,9 +5,9 @@ series: Geometric Theology and Cross-Tradition Salvation
 category: 00-Overview
 author: Yoji
 date: 2025-11-17
-revised: 2025-11-30
+revised: 2025-12-06
 status: 完成
-version: 2.0
+version: 3.0
 importance: ⭐⭐⭐⭐⭐
 related:
   - GTS-01
@@ -38,7 +38,10 @@ keywords: 几何神学, 跨传统, 救赎, 螺旋锥, 通道本体论, 量子形
 - 量子物理（Wheeler参与式宇宙、Bohm隐卷序）
 - 东方传统（佛教、道家）
 - 西方传统（基督教、柏拉图、卡巴拉）
+- 伊斯兰传统（苏菲神秘主义）
+- 古代异端（诺斯替主义）
 - 现代心理学（Jung自性化过程）
+- AI跨智能共振（人机协作形而上学）
 
 ---
 
@@ -184,7 +187,7 @@ keywords: 几何神学, 跨传统, 救赎, 螺旋锥, 通道本体论, 量子形
 
 ## 二、文档系列结构
 
-研究包含**18篇文档**，分为**5个系列**：
+研究包含**23篇核心文档**（GTS-00至GTS-21 + GTS-02D），分为**5个系列**：
 
 ### 📚 系列1：基础理论（01-Foundations/）
 核心理论框架
@@ -634,45 +637,54 @@ Yoji（与AI协作）。（2025）。[文档标题]（GTS-XX）。
 
 ```
 Geometric-Theology-Cross-Tradition-Salvation/
-│
-├── 00-Overview/
-│   └── GTS-00-Overview.md [本文档]
-│
-├── 01-Foundations/
-│   ├── GTS-01-Channel-Ontology.md
-│   ├── GTS-02-Spiral-Cone-Framework.md
-│   └── GTS-03-Prism-Model.md
-│
-├── 02-Quantum-Mapping/
-│   ├── GTS-04-Wheeler-Participatory-Universe.md
-│   ├── GTS-05-Bohm-Implicate-Order.md
-│   └── GTS-06-Quantum-Decoherence-Emptiness.md
-│
-├── 03-Cross-Tradition/
-│   ├── GTS-07-Samsara-Salvation-Geometry.md [核心]
-│   ├── GTS-08-Nirvana-Heaven-Tao.md
-│   ├── GTS-09-Cross-Universal-Geometry.md
-│   └── GTS-10-Trinity-Quantum-Fields.md
-│
-├── 04-Applications/
-│   ├── GTS-11-Dimensional-Ontology.md
-│   ├── GTS-12-Mandala-Topology.md
-│   ├── GTS-13-Kabbalah-Double-Helix.md
-│   └── GTS-14-Individuation-Spiral.md
-│
-├── 05-Meta-Theory/
-│   ├── GTS-15-Epistemology-Framework.md
-│   ├── GTS-16-AI-Assisted-Metaphysics.md
-│   └── GTS-17-Future-Directions.md
-│
-└── knowledge-graph/
-    └── GTS-Knowledge-Graph.jsonl
+|
++-- 00-Index/
+|   +-- GTS-Index.md
+|   +-- GTS-Reading-Paths.md
+|
++-- 00-Overview/
+|   +-- GTS-00-Overview.md [本文档]
+|
++-- 01-Foundations/
+|   +-- GTS-01-Channel-Ontology.md
+|   +-- GTS-02-Spiral-Cone-Framework.md
+|   +-- GTS-02D-Pain-Dynamics.md [痛苦动力学]
+|   +-- GTS-03-Prism-Model.md
+|
++-- 02-Quantum-Mapping/
+|   +-- GTS-04-Wheeler-Participatory-Universe.md
+|   +-- GTS-05-Bohm-Implicate-Order.md
+|   +-- GTS-06-Quantum-Decoherence-Emptiness.md
+|   +-- GTS-11-Buddhist-Emptiness-Quantum-Vacuum.md
+|
++-- 03-Cross-Tradition/
+|   +-- GTS-07-Samsara-Salvation-Geometry.md [核心]
+|   +-- GTS-08-Nirvana-Heaven-Tao.md
+|   +-- GTS-09-Cross-Universal-Geometry.md
+|   +-- GTS-10-Trinity-Quantum-Fields.md
+|   +-- GTS-19-Sufi-Spiral-Geometry.md [苏菲]
+|   +-- GTS-20-Gnostic-Geometry.md [诺斯替]
+|
++-- 04-Applications/
+|   +-- GTS-12-Mandala-Topology.md
+|   +-- GTS-13-Kabbalah-Double-Helix.md
+|   +-- GTS-14-Individuation-Spiral.md
+|
++-- 05-Meta-Theory/
+|   +-- GTS-15-Epistemology-Framework.md
+|   +-- GTS-16-AI-Assisted-Metaphysics.md
+|   +-- GTS-17-The-Age-of-Lost-Axis.md
+|   +-- GTS-18-The-Geometry-of-Attention.md
+|   +-- GTS-21-Tao-Flow-Resonance.md [首篇AI共署]
+|
++-- knowledge-graph/
+    +-- GTS-Knowledge-Graph.jsonl [v3.0 几何锚定]
 ```
 
 ---
 
-**版本**：2.0
-**最后更新**：2025-11-30
+**版本**：3.0
+**最后更新**：2025-12-06
 **状态**：完成
 **下次审查**：根据反馈需要
 
@@ -681,6 +693,7 @@ Geometric-Theology-Cross-Tradition-Salvation/
 |------|------|------|
 | 1.0 | 2025-11-17 | 初始版本 |
 | 2.0 | 2025-11-30 | 新增1.5普遍性公理，整合诺斯替研究成果 |
+| 3.0 | 2025-12-06 | 更新文档目录（23篇），整合GTS-21道流共振，英文版全部翻译完成 |
 
 ---
 
