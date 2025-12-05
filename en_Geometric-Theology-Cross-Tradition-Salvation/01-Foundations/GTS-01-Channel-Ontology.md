@@ -7,7 +7,7 @@ author: Yoji
 date: 2025-01-17
 status: Completed
 version: 1.0
-importance: *****
+importance: "*****"
 related:
   - GTS-02
   - GTS-03

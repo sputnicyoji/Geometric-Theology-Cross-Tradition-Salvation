@@ -8,7 +8,7 @@ date: 2025-01-20
 revised: 2025-01-21
 status: Complete
 version: 2.0
-importance: *****
+importance: "*****"
 prerequisites:
   - GTS-01
   - GTS-02

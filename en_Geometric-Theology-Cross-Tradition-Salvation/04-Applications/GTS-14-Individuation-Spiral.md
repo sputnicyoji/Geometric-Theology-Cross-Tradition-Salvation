@@ -7,7 +7,7 @@ author: Yoji
 date: 2025-01-21
 status: Complete
 version: 1.0
-importance: *****
+importance: "*****"
 prerequisites:
   - GTS-01
   - GTS-02

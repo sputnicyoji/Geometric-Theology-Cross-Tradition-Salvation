@@ -7,7 +7,7 @@ author: Yoji & Claude Opus 4.5
 date: 2025-11-27
 status: Complete
 version: 1.0
-importance: *****
+importance: "*****"
 prerequisites:
   - GTS-01
   - GTS-02

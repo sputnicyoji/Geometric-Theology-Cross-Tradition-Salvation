@@ -8,7 +8,7 @@ date: 2025-11-17
 revised: 2025-11-30
 status: Completed
 version: 2.0
-importance: *****
+importance: "*****"
 related:
   - GTS-01
   - GTS-02

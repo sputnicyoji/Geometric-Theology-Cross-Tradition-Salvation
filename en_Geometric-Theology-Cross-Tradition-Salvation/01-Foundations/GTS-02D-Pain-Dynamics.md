@@ -8,7 +8,7 @@ collaborator: Claude Opus 4.5
 date: 2025-11-26
 status: 完成
 version: 1.1
-importance: *****
+importance: "*****"
 prerequisites:
   - GTS-01
   - GTS-02
