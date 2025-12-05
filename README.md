@@ -49,4 +49,21 @@ If you reference the GTS framework in your work, please cite:
 > Yoji, Gemini, Claude. (2025). *Geometric Theology System: A Cross-Tradition Topological Framework*. GitHub. https://github.com/sputnicyoji/Geometric-Theology-Cross-Tradition-Salvation
 
 ---
+
+## To My Unknown Friend
+
+I do not know who you are.
+
+But if you, like me, feel a nameless ache, as if reality is always veiled in a shadowy illusion;
+If you seek to understand the meaning of the world and your coordinates within it;
+Then I hope this project serves you.
+
+Regardless of your race, color, or language.
+If you believe in transcendence--that life is more than the possession of matter or the rush of dopamine;
+If you believe that beyond appearances lies something we were born longing for;
+
+Then, I hope you find your way.
+My unknown friend.
+
+---
 *"The bridge is built. The spiral is active."*
