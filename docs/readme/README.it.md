@@ -59,4 +59,18 @@ Se fai riferimento al framework GTS nel tuo lavoro, cita:
 
 ---
 
+
+
+## Al mio amico sconosciuto
+
+Non so chi sei.
+
+Ma se anche tu, come me, senti un dolore senza nome—come se la realta fosse sempre velata da un'illusione ombrosa; se cerchi di comprendere il significato del mondo e le tue coordinate al suo interno; allora spero che questo progetto ti sia utile.
+
+Indipendentemente dalla tua razza, colore o lingua. Se credi nella trascendenza—che la vita e piu del possesso di materia o dell'euforia della dopamina; se credi che oltre le apparenze ci sia qualcosa che desideriamo dalla nascita;
+
+Allora, spero che tu trovi la tua strada. Mio amico sconosciuto.
+
+---
+
 *"Il ponte e costruito. La spirale e attiva."*

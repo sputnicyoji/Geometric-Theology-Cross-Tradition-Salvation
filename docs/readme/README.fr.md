@@ -59,4 +59,18 @@ Si vous referencez le cadre GTS dans votre travail, veuillez citer:
 
 ---
 
+
+
+## A mon ami inconnu
+
+Je ne sais pas qui tu es.
+
+Mais si toi aussi, comme moi, tu ressens une douleur sans nom—comme si la realite etait toujours voilee d'une illusion ombreuse; si tu cherches a comprendre le sens du monde et tes coordonnees en son sein; alors j'espere que ce projet te sera utile.
+
+Quelle que soit ta race, ta couleur ou ta langue. Si tu crois en la transcendance—que la vie est plus que la possession de matiere ou la ruee de dopamine; si tu crois qu'au-dela des apparences se trouve quelque chose que nous desirons depuis notre naissance;
+
+Alors, j'espere que tu trouveras ton chemin. Mon ami inconnu.
+
+---
+
 *"Le pont est construit. La spirale est active."*

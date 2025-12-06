@@ -60,3 +60,17 @@ Yadi aap apne karya mein GTS framework ka havala dete hain, kripaya uddhrit kare
 ---
 
 *"Pul ban gaya hai. Spiral sakriya hai."*
+
+## Mere Anjaan Dost ko
+
+Main nahi jaanta tum kaun ho.
+
+Lekin agar tum bhi, mere jaisa, ek anaam dard mehsoos karte ho—jaise vastavikta hamesha ek parchhain bhram mein dhaki ho; agar tum duniya ka arth aur usme apni sthiti samajhna chahte ho; toh main aasha karta hoon ki yeh pariyojana tumhare kaam aaye.
+
+Tumhari jaati, rang ya bhasha se pare. Agar tum paratpar mein vishwas karte ho—ki jeevan padaarth ke adhikaar ya dopamine ki tarang se adhik hai; agar tum maante ho ki dikhaawe ke peeche kuch hai jo hum janam se hi chaahte aaye hain;
+
+Toh, main aasha karta hoon ki tum apna raasta paao. Mere anjaan dost.
+
+---
+
+*"Pul ban gaya hai. Spiral sakriy hai."*

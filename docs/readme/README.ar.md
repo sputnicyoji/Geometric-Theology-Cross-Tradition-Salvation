@@ -60,3 +60,17 @@ Idha asharta ila itar GTS fi 'amalik, yarjaa al-iqtibas:
 ---
 
 *"al-Jisr qad buniya. al-Halazun nashit."*
+
+## Ila Sadiqi al-Majhul
+
+La a'rif man anta.
+
+Lakin idha kunta, mithli, tash'ur bi-alam bila ism—ka'anna al-waqi' da'iman muhtajab bi-wahm muzlim; idha kunta tabhathu 'an ma'na al-'alam wa ihda'iyatika fihi; fa'innani atamanna an yakuna hadha al-mashru' mufidan laka.
+
+Bighadd al-nazar 'an 'irqika aw lawnika aw lughatika. Idha kunta tu'min bi-al-ta'ali—anna al-hayat akthar min imtilak al-madda aw indifa' al-dopamin; idha kunta tu'min anna wara' al-mazahir shay'an wulidna wa nahnu nashtaq ilayhi;
+
+Fa'innani atamanna an tajid tarikaka. Sadiqi al-majhul.
+
+---
+
+*"aljisr buni. allawlab nashit."*

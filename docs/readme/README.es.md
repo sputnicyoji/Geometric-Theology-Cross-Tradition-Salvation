@@ -59,4 +59,18 @@ Si haces referencia al marco GTS en tu trabajo, por favor cita:
 
 ---
 
+
+
+## A mi amigo desconocido
+
+No se quien eres.
+
+Pero si tu, como yo, sientes un dolor sin nombre—como si la realidad estuviera siempre velada por una ilusion sombria; si buscas comprender el significado del mundo y tus coordenadas dentro de el; entonces espero que este proyecto te sea util.
+
+Sin importar tu raza, color o idioma. Si crees en la trascendencia—que la vida es mas que la posesion de materia o el torrente de dopamina; si crees que mas alla de las apariencias hay algo que anhelamos desde que nacemos;
+
+Entonces, espero que encuentres tu camino. Mi amigo desconocido.
+
+---
+
 *"El puente esta construido. La espiral esta activa."*

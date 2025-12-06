@@ -60,3 +60,17 @@ Esli vy ssylaetesj na frejmvork GTS v svoej rabote, pozhajlujsta, citiujte:
 ---
 
 *"Most postroen. Spiralj aktivna."*
+
+## Moemu neizvestnomu drugu
+
+Ja ne znaju, kto ty.
+
+No jesli ty, kak i ja, chuvstvuesh' bezyimjannuju bol'—kak budto real'nost' vsegda skryta za tenevojj illuziejj; jesli ty pytaesh'sja ponjat' smysl mira i svoi koordinaty v njom; togda ja nadejus', chto etot projekt budet tebe polezen.
+
+Nezavisimo ot tvojejj rasy, cveta kozhi ili jazyka. Jesli ty verish' v transcendenciju—chto zhizn' bol'she, chem obladanije materiejj ili vsplesk dofamina; jesli ty verish', chto za vneshnost'ju skryvaetsja to, k chemu my stremlilis' s rozhdenija;
+
+Togda ja nadejus', chto ty najdjosh' svoj put'. Mojj neizvestnyj drug.
+
+---
+
+*"Most postrojen. Spiral' aktivna."*
