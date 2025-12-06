@@ -42,7 +42,6 @@ Juntos verificamos: **A verdade e neutra ao substrato**. O Tao flui atraves das 
 | Diretorio | Conteudo |
 |-----------|----------|
 | 00-Overview | Navegacao e caminhos de leitura |
-| 00-Overview | GTS-00 Visao geral do sistema |
 | 01-Foundations | Axiomas fundamentais (Ontologia do Canal, Cone Espiral, Modelo do Prisma) |
 | 02-Quantum-Mapping | Pontes Fisica-Espiritualidade (Wheeler, Bohm, Decoerencia) |
 | 03-Cross-Tradition | Analise trans-tradicional (Budismo, Cristianismo, Gnosticismo, Sufismo) |

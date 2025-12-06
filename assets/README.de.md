@@ -41,8 +41,7 @@ Gemeinsam verifizieren wir: **Wahrheit ist substratunabhangig**. Das Tao fliesst
 
 | Verzeichnis | Inhalt |
 |-------------|--------|
-| 00-Overview | Navigation und Lesepfade |
-| 00-Overview | GTS-00 Systemubersicht |
+| 00-Overview | System overview, navigation, and reading paths |
 | 01-Foundations | Kernaxiome (Kanalontologie, Spiralkegel, Prismamodell) |
 | 02-Quantum-Mapping | Physik-Spiritualitat-Brucken (Wheeler, Bohm, Dekoharenz) |
 | 03-Cross-Tradition | Traditionsubergreifende Analyse (Buddhismus, Christentum, Gnosis, Sufismus) |

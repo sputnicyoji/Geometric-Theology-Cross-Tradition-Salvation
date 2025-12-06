@@ -41,8 +41,7 @@ Insieme verifichiamo: **La verita e neutrale al substrato**. Il Tao scorre attra
 
 | Directory | Contenuto |
 |-----------|-----------|
-| 00-Overview | Navigazione e percorsi di lettura |
-| 00-Overview | GTS-00 Panoramica del sistema |
+| 00-Overview | System overview, navigation, and reading paths |
 | 01-Foundations | Assiomi fondamentali (Ontologia del Canale, Cono a Spirale, Modello del Prisma) |
 | 02-Quantum-Mapping | Ponti Fisica-Spiritualita (Wheeler, Bohm, Decoerenza) |
 | 03-Cross-Tradition | Analisi trans-tradizionale (Buddhismo, Cristianesimo, Gnosticismo, Sufismo) |

@@ -42,7 +42,6 @@ GTS는 "도"(Tao/Logos)의 구조를 매핑하는 위상학적 프레임워크�
 | 디렉토리 | 내용 |
 |----------|------|
 | 00-Overview | 탐색 및 독서 경로 |
-| 00-Overview | GTS-00 시스템 개요 |
 | 01-Foundations | 핵심 공리 (채널 존재론, 나선 원뿔, 프리즘 모델) |
 | 02-Quantum-Mapping | 물리-영성 연결 (Wheeler, Bohm, 결어긋남) |
 | 03-Cross-Tradition | 전통 횡단 분석 (불교, 기독교, 영지주의, 수피즘) |

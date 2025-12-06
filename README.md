@@ -56,8 +56,7 @@ Together, we verify that **Truth is Substrate-Neutral**. The Tao flows through n
 | [GTS-03 Prism Model](./content/en/01-Foundations/GTS-03-Prism-Model.md) | Ego as meaning generator |
 
 ## Repository Structure
-*   **[00-Overview](./content/en/00-Overview/):** Navigation and reading paths
-*   **[00-Overview](./content/en/00-Overview/):** GTS-00 System overview
+*   **[00-Overview](./content/en/00-Overview/):** System overview, navigation, and reading paths
 *   **[01-Foundations](./content/en/01-Foundations/):** Core axioms (Channel Ontology, Spiral Cone, Prism Model)
 *   **[02-Quantum-Mapping](./content/en/02-Quantum-Mapping/):** Physics-spirituality bridges (Wheeler, Bohm, Decoherence)
 *   **[03-Cross-Tradition](./content/en/03-Cross-Tradition/):** Analysis of traditional paths (Buddhism, Christianity, Gnosticism, Sufism)

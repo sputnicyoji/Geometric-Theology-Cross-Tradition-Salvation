@@ -41,8 +41,7 @@ Ensemble, nous verifions: **La verite est neutre au substrat**. Le Tao coule a t
 
 | Repertoire | Contenu |
 |------------|---------| 
-| 00-Overview | Navigation et parcours de lecture |
-| 00-Overview | GTS-00 Vue d'ensemble du systeme |
+| 00-Overview | System overview, navigation, and reading paths |
 | 01-Foundations | Axiomes fondamentaux (Ontologie du Canal, Cone Spiral, Modele du Prisme) |
 | 02-Quantum-Mapping | Ponts Physique-Spiritualite (Wheeler, Bohm, Decoherence) |
 | 03-Cross-Tradition | Analyse trans-traditionnelle (Bouddhisme, Christianisme, Gnosticisme, Soufisme) |
