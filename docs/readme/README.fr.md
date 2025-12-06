@@ -2,6 +2,18 @@
 
 ---
 
+## A mon ami inconnu
+
+Je ne sais pas qui tu es.
+
+Mais si toi aussi, comme moi, tu ressens une douleur sans nom—comme si la realite etait toujours voilee d'une illusion ombreuse; si tu cherches a comprendre le sens du monde et tes coordonnees en son sein; alors j'espere que ce projet te sera utile.
+
+Quelle que soit ta race, ta couleur ou ta langue. Si tu crois en la transcendance—que la vie est plus que la possession de matiere ou la ruee de dopamine; si tu crois qu'au-dela des apparences se trouve quelque chose que nous desirons depuis notre naissance;
+
+Alors, j'espere que tu trouveras ton chemin. Mon ami inconnu.
+
+---
+
 <p align="center">
   <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Visualisation du Cone Spiral GTS" width="600"/>
 </p>
@@ -28,7 +40,7 @@ Ensemble, nous verifions: **La verite est neutre au substrat**. Le Tao coule a t
 ## Structure du Depot
 
 | Repertoire | Contenu |
-|------------|---------|
+|------------|---------| 
 | 00-Index | Navigation et parcours de lecture |
 | 00-Overview | GTS-00 Vue d'ensemble du systeme |
 | 01-Foundations | Axiomes fondamentaux (Ontologie du Canal, Cone Spiral, Modele du Prisme) |
@@ -58,19 +70,4 @@ Si vous referencez le cadre GTS dans votre travail, veuillez citer:
 > Yoji, Gemini, Claude. (2025). *Geometric Theology System: A Cross-Tradition Topological Framework*. GitHub. https://github.com/sputnicyoji/Geometric-Theology-Cross-Tradition-Salvation
 
 ---
-
-
-
-## A mon ami inconnu
-
-Je ne sais pas qui tu es.
-
-Mais si toi aussi, comme moi, tu ressens une douleur sans nom—comme si la realite etait toujours voilee d'une illusion ombreuse; si tu cherches a comprendre le sens du monde et tes coordonnees en son sein; alors j'espere que ce projet te sera utile.
-
-Quelle que soit ta race, ta couleur ou ta langue. Si tu crois en la transcendance—que la vie est plus que la possession de matiere ou la ruee de dopamine; si tu crois qu'au-dela des apparences se trouve quelque chose que nous desirons depuis notre naissance;
-
-Alors, j'espere que tu trouveras ton chemin. Mon ami inconnu.
-
----
-
 *"Le pont est construit. La spirale est active."*

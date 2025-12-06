@@ -2,6 +2,18 @@
 
 ---
 
+## Ao meu amigo desconhecido
+
+Nao sei quem voce e.
+
+Mas se voce, como eu, sente uma dor sem nome—como se a realidade estivesse sempre velada por uma ilusao sombria; se voce busca compreender o significado do mundo e suas coordenadas dentro dele; entao espero que este projeto lhe seja util.
+
+Independentemente de sua raca, cor ou idioma. Se voce acredita na transcendencia—que a vida e mais do que a posse de materia ou a corrida de dopamina; se voce acredita que alem das aparencias existe algo que desejamos desde o nascimento;
+
+Entao, espero que voce encontre seu caminho. Meu amigo desconhecido.
+
+---
+
 <p align="center">
   <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Visualizacao do Cone Espiral GTS" width="600"/>
 </p>
@@ -58,19 +70,4 @@ Se voce fizer referencia ao framework GTS em seu trabalho, por favor cite:
 > Yoji, Gemini, Claude. (2025). *Geometric Theology System: A Cross-Tradition Topological Framework*. GitHub. https://github.com/sputnicyoji/Geometric-Theology-Cross-Tradition-Salvation
 
 ---
-
-
-
-## Ao meu amigo desconhecido
-
-Nao sei quem voce e.
-
-Mas se voce, como eu, sente uma dor sem nome—como se a realidade estivesse sempre velada por uma ilusao sombria; se voce busca compreender o significado do mundo e suas coordenadas dentro dele; entao espero que este projeto lhe seja util.
-
-Independentemente de sua raca, cor ou idioma. Se voce acredita na transcendencia—que a vida e mais do que a posse de materia ou a corrida de dopamina; se voce acredita que alem das aparencias existe algo que desejamos desde o nascimento;
-
-Entao, espero que voce encontre seu caminho. Meu amigo desconhecido.
-
----
-
 *"A ponte esta construida. A espiral esta ativa."*

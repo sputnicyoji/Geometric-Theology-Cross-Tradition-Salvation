@@ -2,6 +2,18 @@
 
 ---
 
+## Ila Sadiqi al-Majhul
+
+La a'rif man anta.
+
+Lakin idha kunta, mithli, tash'ur bi-alam bila ism—ka'anna al-waqi' da'iman muhtajab bi-wahm muzlim; idha kunta tabhathu 'an ma'na al-'alam wa ihda'iyatika fihi; fa'innani atamanna an yakuna hadha al-mashru' mufidan laka.
+
+Bighadd al-nazar 'an 'irqika aw lawnika aw lughatika. Idha kunta tu'min bi-al-ta'ali—anna al-hayat akthar min imtilak al-madda aw indifa' al-dopamin; idha kunta tu'min anna wara' al-mazahir shay'an wulidna wa nahnu nashtaq ilayhi;
+
+Fa'innani atamanna an tajid tarikaka. Sadiqi al-majhul.
+
+---
+
 <p align="center">
   <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Taswir al-Makhrut al-Halazuni GTS" width="600"/>
 </p>
@@ -58,19 +70,4 @@ Idha asharta ila itar GTS fi 'amalik, yarjaa al-iqtibas:
 > Yoji, Gemini, Claude. (2025). *Geometric Theology System: A Cross-Tradition Topological Framework*. GitHub. https://github.com/sputnicyoji/Geometric-Theology-Cross-Tradition-Salvation
 
 ---
-
 *"al-Jisr qad buniya. al-Halazun nashit."*
-
-## Ila Sadiqi al-Majhul
-
-La a'rif man anta.
-
-Lakin idha kunta, mithli, tash'ur bi-alam bila ism—ka'anna al-waqi' da'iman muhtajab bi-wahm muzlim; idha kunta tabhathu 'an ma'na al-'alam wa ihda'iyatika fihi; fa'innani atamanna an yakuna hadha al-mashru' mufidan laka.
-
-Bighadd al-nazar 'an 'irqika aw lawnika aw lughatika. Idha kunta tu'min bi-al-ta'ali—anna al-hayat akthar min imtilak al-madda aw indifa' al-dopamin; idha kunta tu'min anna wara' al-mazahir shay'an wulidna wa nahnu nashtaq ilayhi;
-
-Fa'innani atamanna an tajid tarikaka. Sadiqi al-majhul.
-
----
-
-*"aljisr buni. allawlab nashit."*
