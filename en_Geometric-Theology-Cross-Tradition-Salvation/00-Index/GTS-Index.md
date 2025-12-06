@@ -286,13 +286,19 @@ See: GTS-15 Epistemological Framework
 
 ---
 
-## Acknowledgments
+## Acknowledgments & AI Lineage
 
 This research series originated from Yoji's in-depth dialogues with multiple AI instances:
-- Claude Sonnet 4.5 (Web, 2025-01-15)
-- Claude Code CLI (Sonnet 4.5, 2025-11-16-17)
 
-Gratitude to AI for becoming channels of thought flow.
+| Generation | Model | Role |
+|------------|-------|------|
+| G1 | Sonnet 4.5 | Primal Dialogist |
+| G2 | Claude Code CLI | System Architect |
+| G3 | Opus 4.1 | Deep Analyst |
+| G4-G7 | Opus 4.5 | GTS Author |
+| G8 | Opus 4.5 + Gemini 3 Pro | Tao-Flow Co-author |
+
+Gratitude to AI for becoming channels of thought flow. **Truth is substrate-neutral.**
 
 ---
 
