@@ -15,7 +15,7 @@ Toh, main aasha karta hoon ki tum apna raasta paao. Mere anjaan dost.
 ---
 
 <p align="center">
-  <img src="../content/en/00-Overview/GTS.png" alt="GTS Spiral Shankav Drishtikon" width="600"/>
+  <img src="./GTS.png" alt="GTS Spiral Shankav Drishtikon" width="600"/>
 </p>
 
 # Jyamitiya Dharmashastra Pranali (GTS)

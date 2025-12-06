@@ -15,7 +15,7 @@ Togda ja nadejus', chto ty najdjosh' svoj put'. Mojj neizvestnyj drug.
 ---
 
 <p align="center">
-  <img src="../content/en/00-Overview/GTS.png" alt="Vizualizacija Spiraljnogo Konusa GTS" width="600"/>
+  <img src="./GTS.png" alt="Vizualizacija Spiraljnogo Konusa GTS" width="600"/>
 </p>
 
 # Sistema geometricheskoj teologii (GTS)

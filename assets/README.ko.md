@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="../content/en/00-Overview/GTS.png" alt="GTS 나선 원뿔 시각화" width="600"/>
+  <img src="./GTS.png" alt="GTS 나선 원뿔 시각화" width="600"/>
 </p>
 
 # 기하학적 신학 시스템 (GTS)

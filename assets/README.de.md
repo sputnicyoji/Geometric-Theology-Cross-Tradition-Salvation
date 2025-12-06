@@ -15,7 +15,7 @@ Dann hoffe ich, dass du deinen Weg findest. Mein unbekannter Freund.
 ---
 
 <p align="center">
-  <img src="../content/en/00-Overview/GTS.png" alt="GTS Spiralkegel-Visualisierung" width="600"/>
+  <img src="./GTS.png" alt="GTS Spiralkegel-Visualisierung" width="600"/>
 </p>
 
 # Geometrisches Theologiesystem (GTS)

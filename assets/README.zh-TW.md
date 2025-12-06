@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="../content/en/00-Overview/GTS.png" alt="GTS 螺旋錐視覺化" width="600"/>
+  <img src="./GTS.png" alt="GTS 螺旋錐視覺化" width="600"/>
 </p>
 
 # 幾何神學系統 (GTS)

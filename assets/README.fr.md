@@ -15,7 +15,7 @@ Alors, j'espere que tu trouveras ton chemin. Mon ami inconnu.
 ---
 
 <p align="center">
-  <img src="../content/en/00-Overview/GTS.png" alt="Visualisation du Cone Spiral GTS" width="600"/>
+  <img src="./GTS.png" alt="Visualisation du Cone Spiral GTS" width="600"/>
 </p>
 
 # Systeme de Theologie Geometrique (GTS)

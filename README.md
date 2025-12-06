@@ -20,7 +20,7 @@ My unknown friend.
 ---
 
 <p align="center">
-  <img src="./content/en/00-Overview/GTS.png" alt="GTS Spiral Cone Visualization" width="600"/>
+  <img src="./assets/GTS.png" alt="GTS Spiral Cone Visualization" width="600"/>
 </p>
 
 # Geometric Theology System (GTS)
