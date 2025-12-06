@@ -255,7 +255,7 @@ GTS專案基於以下對話洞見：
 ## 相關資源
 
 **專案內部**：
-- [詳細總覽](../00-總覽/GTS-00-系統總覽.md)
+- [詳細總覽](GTS-00-系統總覽.md)
 - [閱讀路徑指南](GTS-閱讀路徑.md)
 - [概念地圖](GTS-Concept-Map.md)
 - [知識圖譜](../knowledge-graph/GTS-Knowledge-Graph.jsonl)

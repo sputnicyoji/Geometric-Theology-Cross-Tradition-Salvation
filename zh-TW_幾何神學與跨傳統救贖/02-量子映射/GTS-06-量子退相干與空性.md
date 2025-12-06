@@ -28,7 +28,7 @@ keywords: 量子退相干, Decoherence, 佛教空性, Sunyata, 量子糾纏, 緣
 > **"Decoherence is the phenomenon by which quantum systems appear classical. It is environment-induced loss of coherence."**
 > — Wojciech Zurek, "Decoherence and the Transition from Quantum to Classical" (2003)
 >
-> **"空性不是『虛無』,而是『糾纏』。退相干不是『真實化』,而是『遮蔽糾纏』。修行不是『獲得』什麼,而是『恢復』量子本質。"**
+> **"空性不是'虛無',而是'糾纏'。退相干不是'真實化',而是'遮蔽糾纏'。修行不是'獲得'什麼,而是'恢復'量子本質。"**
 > — Yoji, 基於量子物理學的空性重新詮釋
 
 ---
@@ -286,7 +286,7 @@ Ghirardi-Rimini-Weber (1986):
   → ρ_S ≈ Σᵢ |cᵢ|²|sᵢ⟩⟨sᵢ|
 
   只剩對角項
-  = 經典概率分布
+  = 經典概率分佈
 ```
 
 ### 2.2 指針態(Pointer States)
@@ -422,7 +422,7 @@ Zurek的「環境超選擇」(Einselection):
 
   3. 單次結果
      為何我只看到一個結果
-     而非概率分布?
+     而非概率分佈?
      → 需要多世界或其他詮釋
 
   4. 意識的角色
@@ -782,7 +782,7 @@ Thich Nhat Hanh的「互即互入」:
 
   4. 退相干完成(有的生起)
      ρ_S ≈ Σᵢ pᵢ|sᵢ⟩⟨sᵢ|
-     經典概率分布
+     經典概率分佈
 
   5. 經驗(色)
      觀察者看到「確定」的世界
@@ -1481,8 +1481,8 @@ GTS-02 螺旋錐框架:
   從外到內的宇宙學
   → 結構框架
 
-GTS-03 棱鏡模型:
-  ego作為折射棱鏡
+GTS-03 稜鏡模型:
+  ego作為折射稜鏡
   → 認識論橋樑(1)
 
 GTS-04 Wheeler參與式宇宙:
@@ -1517,7 +1517,7 @@ GTS-06 量子退相干空性:
      從空性到現象
 
 修行目標:
-  GTS-03: 成為清晰棱鏡(透明)
+  GTS-03: 成為清晰稜鏡(透明)
   GTS-04: 認識參與本質(見證)
   GTS-05: 安住隱卷序(整體)
   GTS-06: 恢復相干性(證空)

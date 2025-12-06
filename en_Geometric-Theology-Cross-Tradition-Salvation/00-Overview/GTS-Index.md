@@ -220,7 +220,7 @@ See: GTS-15 Epistemological Framework
 ## Related Resources
 
 **Within the Project**:
-- [Detailed Overview](../00-Overview/GTS-00-Overview.md)
+- [Detailed Overview](GTS-00-Overview.md)
 - [Reading Paths Guide](GTS-Reading-Paths.md)
 - [Concept Map](GTS-Concept-Map.md)
 - [Knowledge Graph](../knowledge-graph/GTS-Knowledge-Graph.jsonl)

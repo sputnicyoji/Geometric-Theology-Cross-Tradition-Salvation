@@ -1,5 +1,5 @@
 ---
-title: "輪迴與救贖的幾何學：統一佛教與基督教的救贖論"
+title: "輪迴與救贖的幾何學:統一佛教與基督教的救贖論"
 document_id: GTS-07
 series: Geometric Theology and Cross-Tradition Salvation
 category: 03-Cross-Tradition
@@ -31,7 +31,7 @@ keywords: 輪迴, samsara, 救贖, 螺旋錐, 幾何神學, 業力, 恩典, 向�
 
 ## 摘要
 
-歷史上，佛教的輪迴觀（saṃsāra）與基督教的線性救贖觀被視為根本不相容的宇宙圖景。本文檔通過**螺旋錐幾何**（Spiral Cone Geometry）展示它們的深層統一性：
+歷史上,佛教的輪迴觀(saṃsāra)與基督教的線性救贖觀被視為根本不相容的宇宙圖景。本文檔通過**螺旋錐幾何**(Spiral Cone Geometry)展示它們的深層統一性:
 
 **核心發現：**
 1. **幾何統一**：輪迴與救贖是同一螺旋結構的不同投影

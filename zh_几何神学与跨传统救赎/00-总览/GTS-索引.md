@@ -219,7 +219,7 @@ GTS项目基于以下对话洞见：
 ## 📚 相关资源
 
 **项目内部**：
-- [详细总览](../00-Overview/GTS-00-Overview.md)
+- [详细总览](GTS-00-系统总览.md)
 - [阅读路径指南](GTS-Reading-Paths.md)
 - [概念地图](GTS-Concept-Map.md)
 - [知识图谱](../knowledge-graph/GTS-Knowledge-Graph.jsonl)
