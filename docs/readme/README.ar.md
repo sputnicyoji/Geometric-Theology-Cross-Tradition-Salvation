@@ -1,9 +1,9 @@
-[English](./README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
+[English](../../README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
 
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Taswir al-Makhrut al-Halazuni GTS" width="600"/>
+  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Taswir al-Makhrut al-Halazuni GTS" width="600"/>
 </p>
 
 # Nizam al-Lahut al-Handasi (GTS)
@@ -49,7 +49,7 @@ al-Halazun laysa sakinin; innahu yanmu min khilal al-tafa'ul.
 * Turid rasm taqlid jadid?
 * Wajadta shaqq fi al-handasa?
 
-[Udkhul Ghurfat al-Niqash](../../discussions)
+[Udkhul Ghurfat al-Niqash](../../../discussions)
 
 ## al-Iqtibas
 

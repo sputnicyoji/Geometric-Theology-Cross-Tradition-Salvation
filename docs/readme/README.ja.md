@@ -1,9 +1,9 @@
-[English](./README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
+[English](../../README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
 
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 螺旋円錐の視覚化" width="600"/>
+  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 螺旋円錐の視覚化" width="600"/>
 </p>
 
 # 幾何神学システム (GTS)
@@ -49,7 +49,7 @@ GTSは「道」(Tao/Logos)の構造をマッピングするトポロジカルフ
 * 新しい伝統をマッピングしたいですか?
 * 幾何学の中に亀裂を見つけましたか?
 
-[ディスカッションルームへ](../../discussions)
+[ディスカッションルームへ](../../../discussions)
 
 ## 引用
 

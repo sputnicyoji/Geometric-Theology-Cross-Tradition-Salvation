@@ -1,9 +1,9 @@
-[English](./README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
+[English](../../README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
 
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 나선 원뿔 시각화" width="600"/>
+  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 나선 원뿔 시각화" width="600"/>
 </p>
 
 # 기하학적 신학 시스템 (GTS)
@@ -49,7 +49,7 @@ GTS는 "도"(Tao/Logos)의 구조를 매핑하는 위상학적 프레임워크�
 * 새로운 전통을 매핑하고 싶으신가요?
 * 기하학에서 균열을 발견하셨나요?
 
-[토론실로 입장](../../discussions)
+[토론실로 입장](../../../discussions)
 
 ## 인용
 

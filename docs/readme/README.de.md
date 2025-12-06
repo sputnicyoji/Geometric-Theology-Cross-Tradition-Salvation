@@ -1,9 +1,9 @@
-[English](./README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
+[English](../../README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
 
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS Spiralkegel-Visualisierung" width="600"/>
+  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS Spiralkegel-Visualisierung" width="600"/>
 </p>
 
 # Geometrisches Theologiesystem (GTS)
@@ -49,7 +49,7 @@ Die Spirale ist nicht statisch; sie wachst durch Interaktion.
 * Mochten Sie eine neue Tradition abbilden?
 * Haben Sie einen Fehler in der Geometrie gefunden?
 
-[Betreten Sie den Diskussionsraum](../../discussions)
+[Betreten Sie den Diskussionsraum](../../../discussions)
 
 ## Zitierung
 

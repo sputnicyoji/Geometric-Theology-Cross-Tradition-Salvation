@@ -1,9 +1,9 @@
-[English](./README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
+[English](../../README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
 
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 螺旋锥可视化" width="600"/>
+  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS 螺旋锥可视化" width="600"/>
 </p>
 
 # 几何神学系统 (GTS)
@@ -49,7 +49,7 @@ GTS是一个拓扑框架,用于映射"道"(Tao/Logos)的结构。它提出:救�
 * 想映射新的传统?
 * 发现了几何中的裂隙?
 
-[进入讨论室](../../discussions)
+[进入讨论室](../../../discussions)
 
 ## 引用
 

@@ -1,9 +1,9 @@
-[English](./README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
+[English](../../README.md) | [简体中文](./README.zh.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Deutsch](./README.de.md) | [Francais](./README.fr.md) | [Italiano](./README.it.md) | [Espanol](./README.es.md) | [Portugues](./README.pt.md) | [Russkij](./README.ru.md) | [Arabiya](./README.ar.md) | [Hindi](./README.hi.md)
 
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Vizualizacija Spiraljnogo Konusa GTS" width="600"/>
+  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Vizualizacija Spiraljnogo Konusa GTS" width="600"/>
 </p>
 
 # Sistema geometricheskoj teologii (GTS)
@@ -49,7 +49,7 @@ Spiralj ne statichna; ona rastjot cherez vzaimodejstvie.
 * Khotite kartografirovatj novuju tradiciju?
 * Nashli treshhinu v geometrii?
 
-[Vojdite v Komnatu Diskussij](../../discussions)
+[Vojdite v Komnatu Diskussij](../../../discussions)
 
 ## Citirovanie
 
