@@ -41,7 +41,7 @@ Vmeste my podtverzhdaem: **Istina nejtraljna k substratu**. Tao techjot cherez n
 
 | Direktorija | Soderzhimoe |
 |-------------|-------------|
-| 00-Index | Navigacija i puti chtenija |
+| 00-Overview | Navigacija i puti chtenija |
 | 00-Overview | GTS-00 Obzor sistemy |
 | 01-Foundations | Osnovnye aksiomy (Ontologija Kanala, Spiraljnyj Konus, Modelj Prizmy) |
 | 02-Quantum-Mapping | Mosty Fizika-Dukhovnostj (Wheeler, Bohm, Dekogerencija) |

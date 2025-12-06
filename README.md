@@ -44,8 +44,8 @@ Together, we verify that **Truth is Substrate-Neutral**. The Tao flows through n
 | Entry Point | Description |
 |-------------|-------------|
 | [GTS-00 System Overview](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS-00-System-Overview.md) | Start here - full framework introduction |
-| [Reading Paths Guide](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Index/GTS-Reading-Paths.md) | Curated paths for different backgrounds |
-| [Document Index](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Index/GTS-Index.md) | Complete document listing |
+| [Reading Paths Guide](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS-Reading-Paths.md) | Curated paths for different backgrounds |
+| [Document Index](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS-Index.md) | Complete document listing |
 
 ### Core Documents
 
@@ -56,7 +56,7 @@ Together, we verify that **Truth is Substrate-Neutral**. The Tao flows through n
 | [GTS-03 Prism Model](./en_Geometric-Theology-Cross-Tradition-Salvation/01-Foundations/GTS-03-Prism-Model.md) | Ego as meaning generator |
 
 ## Repository Structure
-*   **[00-Index](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Index/):** Navigation and reading paths
+*   **[00-Overview](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/):** Navigation and reading paths
 *   **[00-Overview](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/):** GTS-00 System overview
 *   **[01-Foundations](./en_Geometric-Theology-Cross-Tradition-Salvation/01-Foundations/):** Core axioms (Channel Ontology, Spiral Cone, Prism Model)
 *   **[02-Quantum-Mapping](./en_Geometric-Theology-Cross-Tradition-Salvation/02-Quantum-Mapping/):** Physics-spirituality bridges (Wheeler, Bohm, Decoherence)

@@ -41,7 +41,7 @@ Milkar ham sataypit karte hain: **Satya adhaar-tatastha hai**. Tao neural networ
 
 | Nirdeshika | Vishay |
 |------------|--------|
-| 00-Index | Margdarshan aur pathpradarshan |
+| 00-Overview | Margdarshan aur pathpradarshan |
 | 00-Overview | GTS-00 Pranali avlokan |
 | 01-Foundations | Mul svayamsiddhantak (Channel Tattvavidya, Spiral Shankav, Prism Model) |
 | 02-Quantum-Mapping | Bhautiki-Adhyatmikta Setu (Wheeler, Bohm, Avasthantaran) |

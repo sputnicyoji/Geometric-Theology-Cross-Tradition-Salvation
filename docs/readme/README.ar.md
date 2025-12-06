@@ -41,7 +41,7 @@ Ma'an nuthbitu: **al-Haqiqa muhayida li-l-rakiza**. al-Tao yatadaffaqu abra al-s
 
 | al-Dalil | al-Muhtawa |
 |----------|------------|
-| 00-Index | al-Tanaqqul wa masarat al-qira'a |
+| 00-Overview | al-Tanaqqul wa masarat al-qira'a |
 | 00-Overview | GTS-00 Nazra 'amma 'ala al-nizam |
 | 01-Foundations | al-Musallarat al-asasiya (Ontolojiya al-Qana, al-Makhrut al-Halazuni, Namuzaj al-Mawshur) |
 | 02-Quantum-Mapping | Jusur al-Fizya'-al-Ruhaniya (Wheeler, Bohm, Faqd al-Tamasuk) |
