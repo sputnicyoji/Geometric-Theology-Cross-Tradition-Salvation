@@ -2,17 +2,19 @@
 
 > **Customized for readers with different backgrounds, purposes, and time constraints**
 
-**Version**: 1.0
-**Last Updated**: 2025-11-17
+**Version**: 2.0
+**Last Updated**: 2025-12-06
 
 ---
 
 ## How to Use This Guide
 
-This research series contains 18 documents (currently 8 completed), covering philosophy, theology, quantum physics, psychology, and other domains. Readers with different backgrounds may need different entry points and reading sequences.
+This research series contains **23 core documents** (all completed), covering philosophy, theology, quantum physics, psychology, and other domains. Readers with different backgrounds may need different entry points and reading sequences.
+
+**New Traditions Added** (2025-12): Sufi Mysticism (GTS-19), Gnosticism (GTS-20), AI Cross-Intelligence Resonance (GTS-21)
 
 This guide provides:
-1. **Customization by Background**: 5 tradition/discipline backgrounds
+1. **Customization by Background**: 7 tradition/discipline backgrounds (new: Sufi, Gnostic)
 2. **Customization by Purpose**: 3 reading purposes
 3. **Customization by Time**: 3 time budgets
 
@@ -38,8 +40,8 @@ This guide provides:
    - **Time**: 30-40 minutes
 
 2. **GTS-05**: Bohm's Implicate Order and the Tao
-   - Implicate order is approximately equal to sunyata
-   - Explicate order is approximately equal to rupa
+   - Implicate order ~ sunyata
+   - Explicate order ~ rupa
    - Enfold/unfold dynamics
    - **Time**: 30-40 minutes
 
@@ -47,7 +49,7 @@ This guide provides:
 3. **GTS-02**: Spiral Cone Framework
    - Spiral projection of samsara
    - Karma dynamics
-   - Centripetal convergence is approximately equal to nirvana
+   - Centripetal convergence ~ nirvana
    - **Time**: 45-60 minutes
 
 4. **GTS-07**: Geometry of Samsara and Salvation
@@ -61,14 +63,16 @@ This guide provides:
    - Return to implicate order (Enfoldment)
    - Quantum information conservation
    - Transformation rather than annihilation of individuality
+   - **Time**: 40-50 minutes
 
 #### Phase Four: Practical Application
 6. **GTS-12**: Mandala as Spiral Projection
    - Mandala is top-down projection of Spiral Cone
    - Sand mandala creation/destruction as enfold/unfold
    - Geometric understanding of meditation practice
+   - **Time**: 50-60 minutes
 
-**Total Time**: 2.5-3 hours (currently readable portions)
+**Total Time**: 4-5 hours (all completed)
 
 ---
 
@@ -90,26 +94,29 @@ This guide provides:
    - **Time**: 35-45 minutes
 
 2. **GTS-02**: Spiral Cone Framework
-   - Central axis is approximately equal to Christ
-   - Upward movement is approximately equal to sanctification
-   - Radius contraction is approximately equal to self-denial
+   - Central axis ~ Christ
+   - Upward movement ~ sanctification
+   - Radius contraction ~ self-denial
    - **Time**: 45-60 minutes
 
 #### Phase Two: The Cross and the Trinity
 3. **GTS-09**: The Cross as Universal Geometry
    - Every height h has a cross cross-section
    - Geometric necessity transcending Christian symbolism
+   - **Time**: 40-50 minutes
 
 4. **GTS-10**: Trinity and Quantum Field Theory
    - Father = Implicate order/Quantum vacuum
    - Son = Central axis/Classical path
    - Holy Spirit = Quantum field/Non-local correlation
+   - **Time**: 35-45 minutes
 
 #### Phase Three: Ultimate Goal
 5. **GTS-08**: Nirvana, Heaven, and the Tao
    - Physical meaning of Heaven
    - Information conservation law
    - Resurrection and transformation
+   - **Time**: 40-50 minutes
 
 #### Phase Four: Physical Foundation
 6. **GTS-04**: Wheeler's Participatory Universe
@@ -117,7 +124,7 @@ This guide provides:
    - Participatory reality
    - **Time**: 35-45 minutes
 
-**Total Time**: 2-2.5 hours (currently readable portions)
+**Total Time**: 4-5 hours (all completed)
 
 ---
 
@@ -146,8 +153,8 @@ This guide provides:
 
 #### Phase Two: Physical Correspondence
 3. **GTS-05**: Bohm's Implicate Order and the Tao
-   - Implicate order is approximately equal to Tao
-   - Explicate order is approximately equal to ten thousand things
+   - Implicate order ~ Tao
+   - Explicate order ~ ten thousand things
    - Taoist interpretation of ink-glycerin experiment
    - **Time**: 30-40 minutes
 
@@ -160,8 +167,9 @@ This guide provides:
 5. **GTS-08**: Nirvana, Heaven, and the Tao
    - Physical meaning of returning to simplicity
    - Return to implicate order
+   - **Time**: 40-50 minutes
 
-**Total Time**: 2.5-3 hours (currently readable portions)
+**Total Time**: 3.5-4.5 hours (all completed)
 
 ---
 
@@ -210,8 +218,9 @@ This guide provides:
 6. **GTS-10**: Trinity and Quantum Field Theory
    - Precise field theory mapping
    - Most technically demanding document
+   - **Time**: 35-45 minutes
 
-**Total Time**: 2.5-3 hours (currently readable portions)
+**Total Time**: 4-5 hours (all completed)
 
 ---
 
@@ -229,12 +238,14 @@ This guide provides:
    - Geometric mapping of Jung's process
    - Shadow integration = First centripetal movement
    - Self = Central axis
+   - **Time**: 35-45 minutes
 
 #### Phase Two: Mandala
 2. **GTS-12**: Mandala Topology
    - Mandala as top-down projection of spiral
    - Jung's mandala research
    - Geometric understanding of meditation practice
+   - **Time**: 50-60 minutes
 
 #### Phase Three: Theoretical Foundation
 3. **GTS-01**: Channel Ontology vs Self
@@ -252,7 +263,77 @@ This guide provides:
    - Validation of Jung-Pauli collaboration
    - **Time**: 30-40 minutes
 
-**Total Time**: 2-2.5 hours (currently readable portions)
+**Total Time**: 3.5-4.5 hours (all completed)
+
+---
+
+### Path 6: Readers with Sufi/Islamic Mysticism Background
+
+**Questions You May Care About**:
+- How does Wahdat al-Wujud (Unity of Being) correspond to the Spiral Cone?
+- What is the geometric meaning of Barzakh (Isthmus)?
+- What is the topological structure of Sama (Whirling Dance)?
+
+**Recommended Sequence**:
+
+#### Phase One: Core Correspondence
+1. **GTS-19**: Sufi Spiral Geometry (Core Reading)
+   - Unity of Being and the central axis
+   - Barzakh as validation of Channel Ontology
+   - Seven Lataif (Subtle Centers) h-mapping
+   - **Time**: 45-55 minutes
+
+#### Phase Two: Channel Theory
+2. **GTS-01**: Channel Ontology
+   - Fana (Annihilation) = R_ego -> 0
+   - Baqa (Subsistence) = Continued channel manifestation
+   - **Time**: 35-45 minutes
+
+#### Phase Three: Comparative Perspectives
+3. **GTS-08**: Nirvana, Heaven, and the Tao
+   - Cross-tradition unification of ultimate goals
+   - **Time**: 40-50 minutes
+
+4. **GTS-07**: Geometry of Samsara and Salvation
+   - Geometric interpretation of Maqamat (Spiritual Stations)
+   - **Time**: 35-45 minutes
+
+**Total Time**: 2.5-3.5 hours
+
+---
+
+### Path 7: Readers with Gnostic/Heresy Studies Background
+
+**Questions You May Care About**:
+- How does the Gnostic Pleroma map to the Spiral Cone?
+- Why do "heresies" discover the same structures?
+- How do Abraxas's cyclical theory and mainstream cosmic drama unify?
+
+**Recommended Sequence**:
+
+#### Phase One: Gnostic Geometry
+1. **GTS-20**: Gnostic Geometric Theology (Core Reading)
+   - Pleroma = Central axis/Implicate order
+   - Sophia's fall = Centrifugal movement
+   - Abraxas's 365-day cycle = One spiral revolution
+   - **Time**: 40-50 minutes
+
+#### Phase Two: Universality Axiom
+2. **GTS-15**: Epistemological Framework
+   - "The Tao must be discoverable in all things to be self-consistent"
+   - The existence of heresy itself validates universality
+   - **Time**: 45-55 minutes
+
+#### Phase Three: Comparative Perspectives
+3. **GTS-09**: The Cross as Universal Geometry
+   - Structural comparison with orthodox Christianity
+   - **Time**: 40-50 minutes
+
+4. **GTS-13**: Kabbalistic Double Helix
+   - Another "heretical" tradition's structural validation
+   - **Time**: 35-45 minutes
+
+**Total Time**: 2.5-3.5 hours
 
 ---
 
@@ -270,12 +351,13 @@ This guide provides:
 4. **GTS-03**: Prism Model (epistemology) - 30-40 minutes
 5. **GTS-04/05/06**: Quantum Mapping (physical foundation) - 1.5-2 hours
 6. **GTS-07**: Core application case - 35-45 minutes
-7. **GTS-08**: Unification of three major traditions
-8. **GTS-15**: Epistemological self-critique (required reading)
-9. **GTS-16**: AI-assisted methodology
+7. **GTS-08**: Unification of three major traditions - 40-50 minutes
+8. **GTS-15**: Epistemological self-critique (required reading) - 45-55 minutes
+9. **GTS-16**: AI-assisted methodology - 50-60 minutes
+10. **GTS-19/20**: New tradition validation - 1.5-2 hours
+11. **GTS-21**: AI cross-intelligence resonance - 40-50 minutes
 
-**Total Time**: 6-8 hours (after full completion)
-**Currently Readable**: 4-5 hours
+**Total Time**: 8-10 hours (complete series deep study)
 
 ### Purpose 2: Spiritual Practice
 
@@ -284,17 +366,20 @@ This guide provides:
 **Recommended Sequence** (practice-oriented):
 
 1. **GTS-02**: Spiral Cone Framework (core visualization tool) - Focus: Practice chapter
-2. **GTS-03**: Prism Model (ego cultivation) - Focus: Daily prism maintenance
-3. **GTS-07**: Samsara-Salvation (understand your own path)
-4. **GTS-12**: Mandala Meditation
-5. **GTS-06**: Quantum Decoherence (practice as de-decoherence)
+2. **GTS-02D**: Pain Dynamics (understanding pain in practice)
+3. **GTS-03**: Prism Model (ego cultivation) - Focus: Daily prism maintenance
+4. **GTS-07**: Samsara-Salvation (understand your own path)
+5. **GTS-12**: Mandala Meditation
+6. **GTS-06**: Quantum Decoherence (practice as de-decoherence)
+7. **GTS-19**: Sufi Whirling Dance (geometry of embodied practice)
 
 **Practice Tools**:
 - Daily spiral check (GTS-02)
 - Prism maintenance (GTS-03)
 - Mandala meditation (GTS-12)
+- Pain awareness (GTS-02D)
 
-**Total Time**: 3-4 hours reading + daily practice
+**Total Time**: 4-5 hours reading + daily practice
 
 ### Purpose 3: Philosophical Dialogue
 
@@ -307,13 +392,15 @@ This guide provides:
 3. **GTS-07**: Samsara-Salvation unification (specific case)
 4. **GTS-08**: Three ultimate goals
 5. **GTS-10**: Trinity
+6. **GTS-19/20**: Sufi/Gnostic (expanded dialogue range)
 
 **Dialogue Tools**:
 - Geometric language (common reference)
 - Concept mapping tables (precise translation)
 - Projection identification (understanding differences)
+- Universality axiom (validation standard)
 
-**Total Time**: 3-4 hours
+**Total Time**: 4-5 hours
 
 ---
 
@@ -509,15 +596,15 @@ Feedback is welcome (specific method to be determined).
 
 ---
 
-**Version**: 1.0
+**Version**: 2.0
 **Created**: 2025-11-17
-**Next Update**: When GTS-08 through GTS-17 are completed
+**Last Updated**: 2025-12-06
+**Changes**: All 23 documents completed, added Sufi/Gnostic reading paths
 
 ---
 
 > "The Tao that can be told is not the eternal Tao."
-> — Laozi, *Tao Te Ching*, Chapter 1
+> - Laozi, *Tao Te Ching*, Chapter 1
 >
-> **This guide is only a "raft"—true understanding lies in your own experience.**
+> **This guide is only a "raft" - true understanding lies in your own experience.**
 
----
