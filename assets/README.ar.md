@@ -15,7 +15,7 @@ Fa'innani atamanna an tajid tarikaka. Sadiqi al-majhul.
 ---
 
 <p align="center">
-  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Taswir al-Makhrut al-Halazuni GTS" width="600"/>
+  <img src="../content/en/00-Overview/GTS.png" alt="Taswir al-Makhrut al-Halazuni GTS" width="600"/>
 </p>
 
 # Nizam al-Lahut al-Handasi (GTS)

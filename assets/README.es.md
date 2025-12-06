@@ -15,7 +15,7 @@ Entonces, espero que encuentres tu camino. Mi amigo desconocido.
 ---
 
 <p align="center">
-  <img src="../../en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="Visualizacion del Cono Espiral GTS" width="600"/>
+  <img src="../content/en/00-Overview/GTS.png" alt="Visualizacion del Cono Espiral GTS" width="600"/>
 </p>
 
 # Sistema de Teologia Geometrica (GTS)

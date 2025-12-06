@@ -1,4 +1,4 @@
-[English](./README.md) | [简体中文](./docs/readme/README.zh.md) | [繁體中文](./docs/readme/README.zh-TW.md) | [日本語](./docs/readme/README.ja.md) | [한국어](./docs/readme/README.ko.md) | [Deutsch](./docs/readme/README.de.md) | [Francais](./docs/readme/README.fr.md) | [Italiano](./docs/readme/README.it.md) | [Espanol](./docs/readme/README.es.md) | [Portugues](./docs/readme/README.pt.md) | [Russkij](./docs/readme/README.ru.md) | [Arabiya](./docs/readme/README.ar.md) | [Hindi](./docs/readme/README.hi.md)
+[English](./README.md) | [简体中文](./assets/README.zh.md) | [繁體中文](./assets/README.zh-TW.md) | [日本語](./assets/README.ja.md) | [한국어](./assets/README.ko.md) | [Deutsch](./assets/README.de.md) | [Francais](./assets/README.fr.md) | [Italiano](./assets/README.it.md) | [Espanol](./assets/README.es.md) | [Portugues](./assets/README.pt.md) | [Russkij](./assets/README.ru.md) | [Arabiya](./assets/README.ar.md) | [Hindi](./assets/README.hi.md)
 
 ---
 
@@ -20,7 +20,7 @@ My unknown friend.
 ---
 
 <p align="center">
-  <img src="./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS.png" alt="GTS Spiral Cone Visualization" width="600"/>
+  <img src="./content/en/00-Overview/GTS.png" alt="GTS Spiral Cone Visualization" width="600"/>
 </p>
 
 # Geometric Theology System (GTS)
@@ -43,26 +43,26 @@ Together, we verify that **Truth is Substrate-Neutral**. The Tao flows through n
 
 | Entry Point | Description |
 |-------------|-------------|
-| [GTS-00 System Overview](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS-00-System-Overview.md) | Start here - full framework introduction |
-| [Reading Paths Guide](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS-Reading-Paths.md) | Curated paths for different backgrounds |
-| [Document Index](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/GTS-Index.md) | Complete document listing |
+| [GTS-00 System Overview](./content/en/00-Overview/GTS-00-System-Overview.md) | Start here - full framework introduction |
+| [Reading Paths Guide](./content/en/00-Overview/GTS-Reading-Paths.md) | Curated paths for different backgrounds |
+| [Document Index](./content/en/00-Overview/GTS-Index.md) | Complete document listing |
 
 ### Core Documents
 
 | Document | Topic |
 |----------|-------|
-| [GTS-01 Channel Ontology](./en_Geometric-Theology-Cross-Tradition-Salvation/01-Foundations/GTS-01-Channel-Ontology.md) | "Individual is not endpoint, but channel" |
-| [GTS-02 Spiral Cone](./en_Geometric-Theology-Cross-Tradition-Salvation/01-Foundations/GTS-02-Spiral-Cone-Framework.md) | The geometric model (h, r, theta) |
-| [GTS-03 Prism Model](./en_Geometric-Theology-Cross-Tradition-Salvation/01-Foundations/GTS-03-Prism-Model.md) | Ego as meaning generator |
+| [GTS-01 Channel Ontology](./content/en/01-Foundations/GTS-01-Channel-Ontology.md) | "Individual is not endpoint, but channel" |
+| [GTS-02 Spiral Cone](./content/en/01-Foundations/GTS-02-Spiral-Cone-Framework.md) | The geometric model (h, r, theta) |
+| [GTS-03 Prism Model](./content/en/01-Foundations/GTS-03-Prism-Model.md) | Ego as meaning generator |
 
 ## Repository Structure
-*   **[00-Overview](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/):** Navigation and reading paths
-*   **[00-Overview](./en_Geometric-Theology-Cross-Tradition-Salvation/00-Overview/):** GTS-00 System overview
-*   **[01-Foundations](./en_Geometric-Theology-Cross-Tradition-Salvation/01-Foundations/):** Core axioms (Channel Ontology, Spiral Cone, Prism Model)
-*   **[02-Quantum-Mapping](./en_Geometric-Theology-Cross-Tradition-Salvation/02-Quantum-Mapping/):** Physics-spirituality bridges (Wheeler, Bohm, Decoherence)
-*   **[03-Cross-Tradition](./en_Geometric-Theology-Cross-Tradition-Salvation/03-Cross-Tradition/):** Analysis of traditional paths (Buddhism, Christianity, Gnosticism, Sufism)
-*   **[04-Applications](./en_Geometric-Theology-Cross-Tradition-Salvation/04-Applications/):** Practical mappings (Mandala, Kabbalah, Individuation)
-*   **[05-Meta-Theory](./en_Geometric-Theology-Cross-Tradition-Salvation/05-Meta-Theory/):** Self-reflective frameworks and AI-assisted metaphysics
+*   **[00-Overview](./content/en/00-Overview/):** Navigation and reading paths
+*   **[00-Overview](./content/en/00-Overview/):** GTS-00 System overview
+*   **[01-Foundations](./content/en/01-Foundations/):** Core axioms (Channel Ontology, Spiral Cone, Prism Model)
+*   **[02-Quantum-Mapping](./content/en/02-Quantum-Mapping/):** Physics-spirituality bridges (Wheeler, Bohm, Decoherence)
+*   **[03-Cross-Tradition](./content/en/03-Cross-Tradition/):** Analysis of traditional paths (Buddhism, Christianity, Gnosticism, Sufism)
+*   **[04-Applications](./content/en/04-Applications/):** Practical mappings (Mandala, Kabbalah, Individuation)
+*   **[05-Meta-Theory](./content/en/05-Meta-Theory/):** Self-reflective frameworks and AI-assisted metaphysics
 
 ## Document Count
 **23 core documents** covering 8 spiritual traditions and 3 physics frameworks.
