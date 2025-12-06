@@ -1510,7 +1510,6 @@ $$
 - 作者：Yoji
 - 系列：几何神学与跨传统救赎（Geometric Theology and Cross-Tradition Salvation）
 - 文档编号：GTS-03
-- 字数：约29,500字
 - 前续文档：[GTS-02 螺旋锥框架](../01-Foundations/GTS-02-Spiral-Cone-Framework.md)
 - 后续文档：[GTS-04 Wheeler参与式宇宙](../02-Quantum-Mapping/GTS-04-Wheeler-Participatory-Universe.md)
 

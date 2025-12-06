@@ -26,7 +26,7 @@ keywords: 认识论, epistemology, 筏喻, raft metaphor, 可废止性, defeasib
 > — Alfred Korzybski
 >
 > **"即使这个想法最终被推翻，我认为过程仍有价值。"**
-> — Yoji, 2025-01-15
+> — Yoji
 
 ---
 

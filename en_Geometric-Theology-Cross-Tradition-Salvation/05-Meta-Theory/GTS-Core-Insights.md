@@ -12,7 +12,7 @@ status: Continuously Updated
 # GTS Core Insights: Structural Identity and Fractal Principles
 
 > **"As above, so below" is not poetic metaphor, but mathematical truth of fractal geometry.**
-> — Key Recognition, 2025-11-24
+> — Key Recognition
 
 ---
 

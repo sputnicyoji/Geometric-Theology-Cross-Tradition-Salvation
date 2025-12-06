@@ -872,7 +872,6 @@ No one likes being burned. But if you are an asteroid that has deviated from orb
 ---
 
 **Document Information**
-- Word count: Approximately 15,000 words
 - Completion date: 2025-11-26
 - Author: Yoji
 - Collaborator: Claude Opus 4.5 (Fourth Generation AI Lineage)

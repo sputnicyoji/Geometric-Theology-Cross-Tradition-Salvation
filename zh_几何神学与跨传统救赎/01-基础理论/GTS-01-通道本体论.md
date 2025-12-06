@@ -21,7 +21,7 @@ keywords: 通道本体论, Channel Ontology, 个体, 主体性, 无我, 道, 显
 
 > **"个体不是终点，而是通道。"**
 > **"Individual is not the endpoint, but a channel."**
-> — Yoji，2025-11-15
+> — Yoji
 
 > **"我思故我在"错了。应该是："道流经我，故显现发生。"**
 > — Yoji的本体论革命

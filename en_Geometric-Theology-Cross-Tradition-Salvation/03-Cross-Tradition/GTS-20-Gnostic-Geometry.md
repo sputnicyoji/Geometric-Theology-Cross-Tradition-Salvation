@@ -24,7 +24,7 @@ keywords: Gnosticism, Abraxas, Pleroma, Sophia, Demiurge, heretical verification
 # GTS-20: Gnostic Geometric Theology — Ripples of the Tao and Heretical Verification
 
 > **"Judgment and death cannot prevent the Tao from producing ripples in all forms."**
-> — Yoji, 2025-11-30
+> — Yoji
 
 > **"From Abraxas itself springs life, entirely uncertain life, the mother of good and evil."**
 > — Jung, *Seven Sermons to the Dead*
@@ -1557,7 +1557,6 @@ Dimensional Focus:
 ---
 
 **Document Information**
-- Word count: Approximately 20,000 words
 - Line count: Approximately 1,800 lines
 - Completion date: 2025-11-30
 
@@ -1567,4 +1566,4 @@ Dimensional Focus:
 > — Core insight of Abraxas geometric interpretation
 
 > **"Even if this idea is ultimately overturned, I believe the process still has value."**
-> — Yoji, 2025-01-15
+> — Yoji

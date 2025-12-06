@@ -22,7 +22,7 @@ keywords: 螺旋锥, Spiral Cone, 三生万物, 中轴, 向量动力学, 十字�
 
 > **"三是中轴，使阴阳productive。"**
 > **"The Three is the axis, making Yin-Yang productive."**
-> — Yoji，2025-11-16凌晨
+> — Yoji
 
 > **"重要的不是你此时多深，而是向量是否指向中轴。"**
 > — 位置无关性定理

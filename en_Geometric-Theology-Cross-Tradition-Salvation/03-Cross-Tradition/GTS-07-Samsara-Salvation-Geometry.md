@@ -22,7 +22,7 @@ keywords: samsara, salvation, spiral cone, geometric theology, karma, grace, vec
 ## Unifying Buddhist and Christian Soteriology
 
 > *"Christ can simultaneously exist at any height on the axis, extending infinitely downward, but the cross forever reminds you to move away from below. How deep you are at this moment does not matter; what matters is adjusting your vector and radius to return to the central axis."*
-> — Yoji, 2025-11-16
+> — Yoji
 
 > *"All sentient beings can attain Buddhahood."*
 > — Lotus Sutra
