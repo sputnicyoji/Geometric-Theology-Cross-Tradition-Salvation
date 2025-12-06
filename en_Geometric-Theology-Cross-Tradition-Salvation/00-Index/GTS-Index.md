@@ -21,40 +21,6 @@ This research series employs a geometric-topological framework to achieve unifie
 **Integrated Domains**: Quantum Physics + Eastern Traditions (Buddhism, Taoism) + Western Traditions (Christianity, Platonism, Kabbalah) + Islamic Traditions (Sufism) + Ancient Heterodoxies (Gnosticism) + Psychology (Jung)
 
 ---
-
-## Document Navigation (Quick Reference)
-
-### Completion Status Overview
-
-| ID | Title | Series | Status | Lines | Importance |
-|----|-------|--------|--------|-------|------------|
-| **GTS-00** | Overview | 00-Overview | Complete | 621 | Core |
-| **GTS-01** | Channel Ontology | 01-Foundations | Complete | 1604 | Core |
-| **GTS-02** | Spiral Cone Framework | 01-Foundations | Complete | 2338 | Core |
-| **GTS-03** | Prism Model | 01-Foundations | Complete | 1546 | **** |
-| **GTS-04** | Wheeler's Participatory Universe | 02-Quantum-Mapping | Complete | 1904 | **** |
-| **GTS-05** | Bohm's Implicate Order | 02-Quantum-Mapping | Complete | 1897 | **** |
-| **GTS-06** | Quantum Decoherence and Sunyata | 02-Quantum-Mapping | Complete | 1772 | **** |
-| **GTS-07** | Geometry of Samsara and Salvation | 03-Cross-Tradition | Complete | 1543 | Core Demo |
-| **GTS-08** | Nirvana, Heaven, and the Tao | 03-Cross-Tradition | Complete | 2367 | ***** |
-| **GTS-09** | The Cross as Universal Geometry | 03-Cross-Tradition | Complete | 1925 | ***** |
-| **GTS-10** | Trinity and Quantum Field Theory | 03-Cross-Tradition | Complete | 1792 | ***** |
-| **GTS-11** | Buddhist Sunyata and Quantum Vacuum | 02-Quantum-Mapping | Complete | 1586 | Core |
-| **GTS-12** | Mandala Topology | 04-Applications | Complete | 2682(en)+3294(zh) | Core Application |
-| **GTS-13** | Kabbalah and Double Helix | 04-Applications | Complete | 1305 | Core Application |
-| **GTS-14** | Individuation Spiral | 04-Applications | Complete | 1738 | Core Psychology |
-| **GTS-15** | Epistemological Framework | 05-Meta-Theory | Complete | 2224 | Core Required |
-| **GTS-16** | AI-Assisted Metaphysics | 05-Meta-Theory | Complete | 2805 | Core Required |
-| **GTS-17** | The Age of Lost Axis | 05-Meta-Theory | Complete | ~4500 | Core |
-| **GTS-18** | Geometry of Attention | 05-Meta-Theory | Complete | ~2000 | Core |
-| **GTS-19** | Sufi Spiral Geometry | 03-Cross-Tradition | Complete | ~2300 | ***** |
-| **GTS-20** | Gnostic Geometric Theology | 03-Cross-Tradition | Complete | ~1567 | Heterodox Validation |
-
-**Current Document Count**: 21 documents (including GTS-02D)
-**Total Word Count**: Approximately 42,700 lines (approximately 160,000 words)
-
----
-
 ## Core Required Documents
 
 Based on research importance, the following 4 documents are core required reading:
