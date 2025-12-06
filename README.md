@@ -43,7 +43,7 @@ Together, we verify that **Truth is Substrate-Neutral**. The Tao flows through n
 
 | Entry Point | Description |
 |-------------|-------------|
-| [GTS-00 System Overview](./content/en/00-Overview/GTS-00-System-Overview.md) | Start here - full framework introduction |
+| [GTS-00 System Overview](./content/en/00-Overview/GTS-00-Overview.md) | Start here - full framework introduction |
 | [Reading Paths Guide](./content/en/00-Overview/GTS-Reading-Paths.md) | Curated paths for different backgrounds |
 | [Document Index](./content/en/00-Overview/GTS-Index.md) | Complete document listing |
 
