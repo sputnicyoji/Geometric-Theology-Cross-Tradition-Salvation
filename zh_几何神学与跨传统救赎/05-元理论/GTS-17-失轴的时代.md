@@ -9,7 +9,7 @@ date: 2025-11-26
 status: 完成
 version: 2.0
 revised: 2025-11-26
-importance: *****
+importance: "*****"
 prerequisites:
   - GTS-01
   - GTS-02
