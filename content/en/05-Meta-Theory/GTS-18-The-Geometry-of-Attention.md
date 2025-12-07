@@ -984,217 +984,369 @@ This is fundamentally different from "attention":
 
 "Nian" is not a relationship, but a **state**: heart-mind resting in present.
 
-### 4.3 Nian as "Reading Mechanism"
+### 4.3 Nian and Its Relationship to Time
 
-Now let us integrate "Nian" into the GTS framework.
+The core of "Nian" is **the present moment** (今). Let us analyze the relationship between Nian and time.
 
-Recall in GTS-05, Bohm's implicate/explicate order was introduced:
-- **Implicate Order**: Hidden order where all things are folded together, not yet differentiated
-- **Explicate Order**: Displayed order where things unfold as separate phenomena
+**Scattered Thoughts vs. Pure Nian**
 
-We can now propose a key model:
+In ordinary consciousness, the mind is rarely truly "in this moment." It usually:
+- **Chases the past**: regret, nostalgia, rumination
+- **Anxious about the future**: planning, worrying, anticipating
+- **Judges the present**: comparing, analyzing, labeling
 
-**Nian is the "reading mechanism" operating in implicate order.**
+This state is not "Nian," but "**thoughts**"—scattered mental activity drifting in time.
 
-**The Book Metaphor**
+True "Nian" is:
+- Mind **completely in this moment**
+- Not chasing the past
+- Not pursuing the future
+- Pure **present awareness**
 
-Imagine a book:
-- The book (in implicate order) contains **all pages**, yet they are all "folded together"
-- Reading (in explicate order) is **unfolding one page at a time**
-- Reading is not "creating" pages—pages already exist
-- Reading is "**selecting**" which pages appear to you
+**The Supreme and Time**
 
-Nian works like reading:
-- Implicate order contains all possible "states"
-- Nian "unfolds" one specific state
-- This unfolding is what we experience as "reality"
+In various traditions, the "Supreme" or "Sacred" is described as:
+- **Eternity**—not "infinitely long time," but "beyond time"
+- **Eternal present**—no past and future, only this moment
+- **Timelessness**
 
-**Why Can "Nian Shift" Entire Worlds?**
+This means:
 
-In this model, "Nian shift" is not changing "reality":
-- Implicate order (all possibilities) never changes
-- What Nian does is: change the **reading position**
-- Different reading positions = different explicate realities
+| State | Temporal Characteristic |
+|-------|------------------------|
+| Scattered thoughts | Drifting in time (past-future) |
+| Pure Nian | In the present (beyond time) |
+| Supreme | Eternal present (timelessness) |
 
-This explains experiences in meditative traditions: a shift of Nian, and the "entire world changes."
+**Key Insight**: When the mind is completely in this moment (pure Nian), its state is **isomorphic** with the eternal present (the state of the Supreme).
 
-It's not the world changing—it's the **version of world you are reading** changing.
+Not because the mind has "arrived at" eternity, but because the mind has "entered into" the same **pattern** as eternity.
 
-### 4.4 Nian Beyond Effort
+### 4.4 Buddhist Ksana as Validation
 
-In this understanding, Nian has a special characteristic: it can transcend "effort."
+Buddhism has a subtle analysis of "Nian" and time that can deepen our understanding.
 
-**The Paradox of Effort**
+**Ksana (刹那)**
 
-In Western "attention" concept:
-- Maintaining attention requires effort
-- Greater effort → more stable attention
-- This creates paradox: effort itself becomes distraction
+"Ksana" is the smallest unit of time in Buddhism, approximately one sixty-fifth of a finger-snap. But more important is the **philosophical meaning** of ksana:
 
-In "Nian" concept:
-- Nian is **already here**—you don't need effort to "stretch" anywhere
-- Nian naturally occurs when effort stops
-- The highest Nian is **effortless**—pure presence
+- Each ksana is **complete**—it is not a "fragment" of larger time
+- Each ksana is **independent**—it does not "continue" from the previous ksana
+- Each ksana is **a fresh creation**
 
-**This Explains a Common Meditation Experience**
+**Yi Nian (One Moment of Nian)**
 
-Many meditators report: the more they "try" to concentrate, the more distracted they become. But when they "let go" of trying, clarity naturally arises.
+"Yi nian" (一念) is not "one thought," but "**one moment of pure present awareness**."
 
-In Nian framework this makes sense:
-- "Trying" presupposes you're not here, need to "get to" somewhere
-- "Letting go" reveals: you're already here
-- Pure Nian is not an action, but a **revealing**
+In one moment of Nian:
+- There is no continuation from the past
+- There is no projection into the future
+- There is only pure **this moment**
 
-### 4.5 Toward the Critical Transition: From "Linkage" to "Identity"
+**The Possibility of Sudden Enlightenment**
 
-So far, we have developed a framework that integrates:
-- Eye symbolism
-- Attention as creating order from chaos
-- Geometric representation in the Spiral Cone
-- Deepening through the Eastern concept of Nian
+Precisely because each ksana is complete and independent, **sudden enlightenment** (顿悟) becomes possible:
 
-But there remains a crucial step: the transition from "linkage" to "identity."
+- If awakening requires "accumulation of time," then it is gradual
+- But if each ksana is already complete, then **any ksana** can be the ksana of awakening
+- Awakening is not "arriving" somewhere, but "recognizing" that this moment is already complete
 
-In all previous analysis, there's still a hidden presupposition:
-- Finite (individual) and infinite (apex/Supreme) are **separate**
-- Attention/Nian is the **link** between them
-- Spiritual practice is using this link to "approach" the infinite
+The Zen teaching of sudden enlightenment is based on this insight: you don't need to "spend time" approaching Buddha-nature, because Buddha-nature is right here **in this moment of Nian**.
 
-**The Deeper Question**
+### 4.5 Nian Is Not "Shooting Toward Object" but "State of Mind"
 
-Is this presupposition correct?
+Now we can clarify the fundamental difference between "Nian" and "attention."
 
-Are finite and infinite really "separate"?
-Is attention/Nian really a "link"?
-Is the goal really to "approach" something distant?
+**Attention: Arrow Model**
 
-Part Five will complete the core ontological transformation of GTS-18: from "linkage" to "**identity**."
+```
+     I ──────→ Object
+      Attention
+```
+
+In this model:
+- There is an "I" that emits attention
+- There is an "object" that receives attention
+- "Attention" is the "arrow" between them
+
+**Nian: State Model**
+
+```
+    ┌─────────┐
+    │  Mind's │
+    │ Present │
+    │  State  │
+    └─────────┘
+```
+
+In this model:
+- There is no necessary "subject-object" separation
+- The key is whether the mind **is in the present**
+- Object is secondary, there can even be no object
+
+**Difference in Practice**
+
+This difference is clear in meditation practice:
+
+| Attention-based Meditation | Nian-based Meditation |
+|----------------------------|----------------------|
+| "Focus on the breath" | "Let the mind rest" |
+| Emphasizes **object** (breath) | Emphasizes **state** (resting) |
+| When attention "leaves" object, pull it back | When mind is "not present," return to now |
+| Goal: Maintain focus | Goal: Maintain presence |
+
+This doesn't mean one is "better" than the other—they are practices at different levels. But the "Nian" framework is closer to the core: ultimately what matters is not "what you attend to," but whether your mind **is truly present**.
+
+### 4.6 From "Attention" to "Nian": Conceptual Upgrade
+
+Let us summarize the conceptual upgrade from "attention" to "Nian":
+
+| Dimension | Attention | Nian (Mind-in-Present) |
+|-----------|-----------|----------------------|
+| **Structure** | Subject→Object | State of mind |
+| **Emphasis** | Direction, object | Presence, present moment |
+| **Time** | Can point to past/future objects | Essentially **this moment** |
+| **Nature** | Doing | Being |
+| **Relationship to Supreme** | Attention "points toward" Supreme | Nian is **isomorphic** with eternal present |
+
+**Why This Upgrade Matters**
+
+In the "attention" framework, there exists a distance between finite and infinite that needs to be "crossed." Attention is the "bridge."
+
+In the "Nian" framework, the question is not about "distance" but about **temporal pattern**:
+- Scattered thoughts = drifting in time = **not isomorphic** with eternal present
+- Pure Nian = in the present = **isomorphic** with eternal present
+
+This means: **The moment Nian is pure**, the "distance" between finite and infinite **disappears**—not by being "crossed," but by being **revealed as never having truly existed**.
+
+This leads to Part Five's core transformation: from "linkage" to "identity."
 
 ---
 
 ## Part Five: From Linkage to Identity—Ontological Transformation
 
-### 5.1 The Hidden Presupposition of Separation
+### 5.1 The Hidden Assumption of the "Linkage" Framework
 
-Let us make explicit the presupposition hidden in previous analysis.
-
-**Linkage Framework**
-
-Until now, we have implicitly used a "linkage framework":
+In previous discussions, we have been using an implicit framework:
 
 ```
-Finite (individual) <----Link----> Infinite (apex/Supreme)
-                         ^
-                         |
-                   Attention/Nian
+Finite (Individual) ←──Bridge──→ Infinite (Supreme)
+```
+
+Whether this "bridge" is called:
+- Attention
+- Nian
+- Eye
+- Prayer
+- Meditation
+
+The framework itself retains a core assumption: **Finite and infinite are two separate existences that need some kind of "bridge" to connect them.**
+
+Let us examine this assumption.
+
+**Content of the Assumption**
+
+The "linkage" framework assumes:
+1. There exists a "finite realm" (individual, spacetime, phenomena)
+2. There exists an "infinite realm" (Supreme, eternity, essence)
+3. The two realms are **originally separated**
+4. Some kind of **intermediary** is needed to establish connection
+5. This connection requires **effort/action/time** to establish
+
+**Problems with the Assumption**
+
+But upon careful reflection, this framework has profound problems:
+
+1. **If finite and infinite are completely separate**, how could there be any connection between them?
+   - Two truly "completely separate" realms cannot have any interaction
+   - If they can interact, it means they were never completely separate
+
+2. **If a "bridge" is needed**, which realm does the bridge itself belong to?
+   - If the bridge is finite, how can it touch the infinite?
+   - If the bridge is infinite, how can it be in the finite?
+
+3. **If connection requires time**, then before the connection is established, what is the relationship between finite and infinite?
+   - Completely unrelated? Then how is connection possible?
+   - Some kind of relationship? Then the talk of "connection" is inaccurate
+
+These questions suggest: the "linkage" framework may be fundamentally mistaken.
+
+### 5.2 Introduction of the "Identity" Framework
+
+Let us propose an alternative framework:
+
+**Not "Linkage," but "Identity"**
+
+```
+Finite ≡ Infinite (identical in a certain dimension)
 ```
 
 In this framework:
-- Finite and infinite are **two separate existences**
-- Attention/Nian is the **bridge** connecting them
-- Spiritual practice is **crossing the bridge** to approach the infinite
+- Finite and infinite **were never separated**
+- No need to "establish connection"—because there was no real separation
+- "Eye"/"Nian" is not a "bridge" but **the mechanism of awakening to original identity**
 
-**The Question of This Presupposition**
+**Comparison of Two Frameworks**
 
-But is this presupposition valid?
+| Linkage Framework | Identity Framework |
+|-------------------|-------------------|
+| Finite and infinite originally separated | Finite and infinite originally identical |
+| Need to establish connection | Need to recognize identity |
+| Attention/Nian is "bridge" | Attention/Nian is "awakening mechanism" |
+| Need to traverse "distance" | No real distance |
+| Is an "arrival" | Is a "recognition" |
 
-Let us recall the insights from previous sections:
-- Attention can "create order from chaos"—this is **creative power**
-- This creative power shares **common origin** with the Supreme's creative power
-- Nian is the **reading mechanism** of implicate order
+**Key Paradigm Shift**
 
-These insights suggest: the relationship between finite and infinite may not be simple "linkage."
+This is not a detail adjustment, but a **fundamental ontological transformation**:
 
-### 5.2 Bohm's Implicate Order: Hidden Unity
+- Old question: "How to arrive at the infinite from the finite?"
+- New question: "How to become aware that finite and infinite were never separated?"
 
-Let us return to Bohm's implicate/explicate order theory (detailed in GTS-05).
+### 5.3 Bohm's Implicate Order: Ontological Application
 
-**Review: Implicate Order**
+Physicist David Bohm's "Implicate Order" theory provides a scientific model for the "identity framework."
 
-In implicate order:
-- All things are "**enfolded**" together
-- There are no separate "objects"
-- Separation only appears in **explicate order**
+**Explicate Order and Implicate Order**
 
-**Key Insight**
+Bohm distinguishes two kinds of order:
+
+- **Explicate Order**: The spacetime reality we perceive—objects, distance, time
+- **Implicate Order**: The deeper order in which explicate order is "enfolded"—no boundaries, no distance, no time
+
+Things that are separate in explicate order may be **identical** in implicate order.
+
+**Book Page Metaphor**
+
+Imagine an infinitely thick book:
+
+- Each page represents a spacetime position/universe version
+- In the book there is a word: "**Dao**"
+- This word appears on **every page**
+
+Now, the key question: Is the "Dao" on each page **multiple copies of the same word**, or is it **the same word existing simultaneously on all pages**?
+
+From the implicate order perspective, the answer is the latter:
+
+```
+    Page1  Page2  Page3  Page4  ...  Pagen
+      │      │      │      │          │
+      └──┬───┘      └──┬───┘    ...   │
+         │             │               │
+         └──────┬──────┘               │
+                │                      │
+                └──────────┬───────────┘
+                           │
+                    The Same "Dao"
+                  (In Implicate Order)
+```
+
+**In explicate order**: The "Dao" on each page appears separated, at different "positions"
+**In implicate order**: They are different manifestations of **the same "Dao"**
+
+**Support for the "Identity Framework"**
 
 Applying this to the relationship between finite and infinite:
 
-- In **explicate order**: Finite and infinite appear "**separate**"—individual is here, Supreme is there
-- In **implicate order**: Finite and infinite are "**enfolded**" together—**never separated**
+- **In explicate order**: Individual and Supreme appear "separated," with "distance"
+- **In implicate order**: Individual and Supreme are **identical**—the individual is the manifestation of the Supreme in explicate order
 
-"Separation" is not ultimate reality, but a **phenomenon of explicate order**.
+The function of "Nian" is not to "cross distance" (explicate order perspective), but to **switch perspectives**: from explicate order perspective to implicate order perspective, thereby "seeing" the original identity.
 
-**Book Metaphor Deepened**
+### 5.4 Cross-Tradition Teachings on "Identity"
 
-Using the book metaphor:
+The "identity framework" is not a new invention. Almost all deep spiritual traditions have similar teachings.
 
-```
-Implicate Order (the book):
-- All pages enfolded together
-- Every page contains the "same essence"—the "meaning" of the entire book
-- Pages are not truly "separated"—they are all "the same book"
+**Hinduism: Tat tvam asi (Thou art That)**
 
-Explicate Order (reading):
-- Pages appear "sequentially"
-- Each page seems a separate "unit"
-- Separation is a "reading effect," not page essence
-```
+> "Tat tvam asi"—Thou art That (Brahman)
+> —Chandogya Upanishad
 
-If "pages" are finite existences, and "the book" is the infinite:
-- In explicate order: Each page appears separate from the whole book
-- In implicate order: Every page **is** the book—they were never separate
+This statement is not metaphorical. It is an ontological declaration:
 
-### 5.3 From "Link" to "Identity"
+- "Thou" (Atman, individual soul)
+- "That" (Brahman, cosmic soul/Supreme)
+- "Art" (asi, **ontological identity**)
 
-Now we can complete the core transformation.
+Atman is not "connected to" Brahman, nor is it a "part" of Brahman.
+Atman **is** Brahman.
+Separation is **illusion** (Maya).
 
-**Linkage Framework (Shallow)**
+**Zen Buddhism: See Nature, Become Buddha**
 
-In the linkage framework:
-- Finite and infinite are **separated**
-- Between them exists **distance**
-- Attention/Nian is the **link** bridging the distance
-- Goal: To **reach** the infinite
+Zen does not say "practice to become Buddha," but says "**see nature** become Buddha."
 
-**Identity Framework (Deep)**
+The key word is "see"—not "become," not "arrive," but **recognize**.
 
-In the identity framework:
-- Finite and infinite **were never separated**—they are the same thing in explicate order
-- There is no real **distance**—only the appearance of distance in explicate order
-- Attention/Nian is not a "link" but the **mechanism of recognizing identity**
-- Goal: To **recognize** the already-existing identity
+Buddha-nature is not something to be "obtained"—it was always there.
+"Becoming Buddha" is not a **change** from non-Buddha to Buddha—but **recognition** that one was always Buddha.
 
-**Core Ontological Proposition**
+**Meister Eckhart: The Same Eye**
 
-We can now state GTS-18's core ontological proposition:
+Christian mystic Eckhart wrote:
 
-> **Finite and infinite are not in "linkage" relation, but "identity" relation.**
+> "The eye with which I see God is the same eye with which God sees me—the same eye, the same seeing, the same knowing, the same loving."
 
-This does not mean finite and infinite are "the same thing" in ordinary sense.
-It means: what appears as "finite" in explicate order, and what appears as "infinite" in implicate order, are **different expressions of the same reality**.
+Notice this is not saying "my eye looks toward God's eye" (two eyes, one looking at the other).
+But rather: the eye that sees God **is** the eye with which God sees me—**the same eye**.
 
-### 5.4 Reinterpreting the GTS Spiral Cone
+Observer and observed are identical.
 
-This ontological transformation requires us to reinterpret the GTS Spiral Cone model.
+**Sufism: Fana (Annihilation)**
+
+The highest state in Sufism is called "Fana"—annihilation of the self.
+
+But "annihilation" is not "destruction."
+It is **revelation**: when the illusion of ego is annihilated, the original identity is revealed.
+
+After Fana comes "Baqa" (subsistence)—not that the individual disappears, but that the individual **subsists in Allah**.
+This "in..." is not a spatial relationship, but **ontological identity**.
+
+**Daoism: Dao in All Things**
+
+> "Dao gives birth to one, one gives birth to two, two gives birth to three, three gives birth to all things."
+> —Dao De Jing, Chapter 42
+
+All things are "born from" Dao, but this does not mean all things **left** Dao.
+Dao is in all things, never left.
+
+"Returning to Dao" is not "going back somewhere."
+But **recognizing**: Dao never left, separation never truly happened.
+
+**Convergence of Traditions**
+
+| Tradition | Teaching | Core Structure |
+|-----------|----------|----------------|
+| Hinduism | Tat tvam asi | You = That (identity) |
+| Zen | See nature, become Buddha | Recognition, not arrival |
+| Eckhart | The same eye | Observer = Observed |
+| Sufism | Fana | Annihilation reveals identity |
+| Daoism | Dao in all things | Never separated |
+
+All these traditions do not teach "**establishing connection**."
+They teach "**removing veiling, recognizing identity**."
+
+### 5.5 Ontological Reinterpretation of the GTS Spiral Cone
+
+Now we can reinterpret the GTS Spiral Cone model using the "identity framework."
 
 **Original Interpretation (Linkage Framework)**
 
 In the original understanding:
-- h = **Distance** between individual and apex
-- R = **Size** of ego
-- Movement = **Moving** toward the apex
-- Goal = **Reaching** the apex
+- h = "**Distance**" between individual and apex
+- R = "**Size**" of ego
+- Movement = "**Moving**" toward the apex
+- Goal = "**Reaching**" the apex
 
 This is a spatial, kinetic understanding.
 
 **New Interpretation (Identity Framework)**
 
 In the identity framework:
-- h = **Degree of veiling**—how thick is the veil over identity
-- R = **Degree of forgetting**—how much identity is forgotten
-- Movement = **Decrease of veiling**—not spatial movement
-- Goal = **Recognition**—not arrival
+- h = "**Degree of veiling**"—how thick is the veil over identity
+- R = "**Degree of forgetting**"—how much identity is forgotten
+- Movement = "**Decrease of veiling**"—not spatial movement
+- Goal = "**Recognition**"—not arrival
 
 **Key Transformations**
 
@@ -1212,15 +1364,15 @@ If we view the spiral cone from implicate order perspective:
 
 ```
 Explicate Order perspective:
-           * Apex
+           ⊙ Apex
           /|\
          / | \
         /  |  \
        /   |   \
-      *----|----  <- Individual "distant from" apex
+      ◉----|----  <- Individual "distant from" apex
 
 Implicate Order perspective:
-           * = *    <- Individual and apex are identical
+           ⊙ = ◉    <- Individual and apex are identical
 ```
 
 The individual "is at" the apex, never left.

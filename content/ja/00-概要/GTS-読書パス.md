@@ -1,3 +1,16 @@
+---
+title: "GTS研究シリーズ：読書パスガイド"
+document_id: GTS-Reading-Path
+series: Geometric Theology and Cross-Tradition Salvation
+category: 00-Overview
+author: Yoji
+date: 2025-12-06
+status: 完成
+version: 2.0
+importance: "****"
+keywords: 読書パス, ガイド, 入門, カスタマイズ, 背景別, 目的別
+---
+
 # GTS研究シリーズ：読書パスガイド
 
 > **異なる背景、目的、時間を持つ読者向けにカスタマイズ**
