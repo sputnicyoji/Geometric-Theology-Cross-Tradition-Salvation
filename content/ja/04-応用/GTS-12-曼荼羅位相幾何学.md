@@ -36,67 +36,67 @@ keywords: 曼荼羅, Mandala, 位相幾何学, 神聖幾何学, ファイバー�
 本文書は以下を確立する:
 
 1. **位相幾何学的対応 (Topological Correspondence)**：二次元基底空間上のファイバーバンドル (Fiber Bundle) としての曼荼羅構造
-2. **フラクタル符号化 (Fractal Encoding)**：自己相似的な再帰的情報圧縮 (Self-similar Recursive Information Compression)
+2. **フラクタル符号化 (Fractal Encoding)**：自己相似的な再帰的情報圧縮
 3. **実践メカニズム (Practice Mechanics)**：暗在秩序-明在秩序サイクル (Implicate-Explicate Cycles) としての構築/消解
-4. **心理メカニズム (Psychological Mechanism)**：スパイラルコーンの軸心としてのユングの自己元型 (Self Archetype)
-5. **跨伝統普遍性 (Cross-Tradition Universality)**：文化を超えて保存される位相不変量 (Topological Invariants)
+4. **心理メカニズム (Psychological Mechanism)**：スパイラルコーンの軸心としてのユングの自己元型
+5. **跨伝統普遍性 (Cross-Tradition Universality)**：文化を超えて保存される位相不変量
 6. **GTSとの統合 (Integration with GTS)**：理論フレームワークの実践方法論としての曼荼羅
 
 曼荼羅は**霊的技術のロゼッタストーン (Rosetta Stone)** として浮上する——幾何学、心理学、量子、体験的言語の間を翻訳し、同時に操作可能な実践方法論を提供する。
 
 ---
 
-## 目次 (Table of Contents)
+## 目次
 
-### 第一部：序論 (Part I: Introduction)
-1.1 曼荼羅とは何か？(What is a Mandala?)
-1.2 本文書が答える問い (The Question This Document Answers)
-1.3 方法論：ウルトラシンク統合 (Methodology: Ultrathink Integration)
+### 第一部：序論
+1.1 曼荼羅とは何か？
+1.2 本文書が答える問い
+1.3 方法論：ウルトラシンク統合
 
-### 第二部：曼荼羅の位相幾何学 (Part II: Topology of the Mandala)
-2.1 俯瞰投影としての曼荼羅 (Mandala as Top-Down Projection)
-2.2 数学的形式化：ファイバーバンドル (Mathematical Formalization: Fiber Bundles)
+### 第二部：曼荼羅の位相幾何学
+2.1 俯瞰投影としての曼荼羅
+2.2 数学的形式化：ファイバーバンドル
 2.3 三つの座標系：(r, θ, s)
-2.4 文化を超えた位相不変量 (Topological Invariants Across Cultures)
-2.5 特異点：r→0としてのビンドゥ (The Singularity: Bindu as r→0)
+2.4 文化を超えた位相不変量
+2.5 特異点：r→0としてのビンドゥ
 
-### 第三部：神聖パターンのフラクタル幾何学 (Part III: Fractal Geometry of Sacred Patterns)
-3.1 多重スケールにおける自己相似性 (Self-Similarity at Multiple Scales)
-3.2 フラクタル次元計算 (Fractal Dimension Calculation)
-3.3 情報圧縮と冗長性 (Information Compression and Redundancy)
-3.4 因陀羅網：各原子が宇宙を含む (Indra's Net: Each Atom Contains the Universe)
-3.5 反復生成と創発 (Iterative Generation and Emergence)
+### 第三部：神聖パターンのフラクタル幾何学
+3.1 多重スケールにおける自己相似性
+3.2 フラクタル次元計算
+3.3 情報圧縮と冗長性
+3.4 因陀羅網：各原子が宇宙を含む
+3.5 反復生成と創発
 
-### 第四部：チベット仏教曼荼羅実践 (Part IV: Tibetan Buddhist Mandala Practice)
-4.1 三段階サイクル (The Three-Stage Cycle)
-   4.1.1 構築：明在秩序の創発 (Construction: Explicate Order Emerging)
-   4.1.2 観想：形態の保持 (Visualization: Holding Form)
-   4.1.3 消解：暗在秩序への回帰 (Dissolution: Return to Implicate)
-4.2 次第道 (The Graduated Path)
-   4.2.1 前行法 (Preliminary Practices / Ngöndro)
-   4.2.2 生起次第 (Generation Stage / Kyerim)
-   4.2.3 究竟次第 (Completion Stage / Dzogrim)
-4.3 本尊ヨーガ：中心になること (Deity Yoga: Becoming the Center)
-4.4 基底集合としての五仏家族 (Five Buddha Families as Basis Set)
-4.5 曼荼羅宮殿構造 (Mandala Palace Structure)
-   4.5.1 壁と門：相転移 (Walls and Gates: Phase Transitions)
-   4.5.2 同心層：漸進的接近 (Concentric Layers: Gradual Approach)
-   4.5.3 玉座の間：ヤブユム合一 (The Throne Room: Yab-Yum Union)
-4.6 マントラ-曼荼羅相補性 (Mantra-Mandala Complementarity)
-4.7 ムドラ：身体的符号化 (Mudras: Somatic Encoding)
-4.8 砂曼荼羅：無常の教え (Sand Mandalas: Impermanence Teaching)
+### 第四部：チベット仏教曼荼羅実践
+4.1 三段階サイクル
+   4.1.1 構築：明在秩序の創発
+   4.1.2 観想：形態の保持
+   4.1.3 消解：暗在秩序への回帰
+4.2 次第道
+   4.2.1 前行法
+   4.2.2 生起次第
+   4.2.3 究竟次第
+4.3 本尊ヨーガ：中心になること
+4.4 基底集合としての五仏家族
+4.5 曼荼羅宮殿構造
+   4.5.1 壁と門：相転移
+   4.5.2 同心層：漸進的接近
+   4.5.3 玉座の間：ヤブユム合一
+4.6 マントラ-曼荼羅相補性
+4.7 ムドラ：身体的符号化
+4.8 砂曼荼羅：無常の教え
 
-### 第五部：ユング心理学と曼荼羅 (Part V: Jungian Psychology and Mandala)
-5.1 危機における自発的創発 (Spontaneous Emergence During Crisis)
-5.2 組織化中心としての自己元型 (The Self Archetype as Organizing Center)
-5.3 ストレンジアトラクターとしての曼荼羅 (Mandala as Strange Attractor)
-5.4 ユングの赤の書：個性化の相図 (Jung's Red Book: Phase Portrait of Individuation)
-5.5 四性対三位一体：拒絶された第四者 (Quaternity vs. Trinity: The Rejected Fourth)
-5.6 自己の周回 (Circumambulation of the Self)
-5.7 治療メカニズム：エントロピー減少 (Therapeutic Mechanism: Entropy Reduction)
-5.8 曼荼羅アート・セラピー (Mandala Art Therapy)
+### 第五部：ユング心理学と曼荼羅
+5.1 危機における自発的創発
+5.2 組織化中心としての自己元型
+5.3 ストレンジアトラクターとしての曼荼羅
+5.4 ユングの赤の書：個性化の相図
+5.5 四性対三位一体：拒絶された第四者
+5.6 自己の周回
+5.7 治療メカニズム：エントロピー減少
+5.8 曼荼羅アート・セラピー
 
-### 第六部：GTSフレームワークとの統合 (Part VI: Integration with GTS Framework)
+### 第六部：GTSフレームワークとの統合
 6.1 チャネル存在論 (GTS-01)：曼荼羅中心としての個体
 6.2 スパイラルコーン (GTS-02)：隠された三次元構造
 6.3 プリズムモデル (GTS-03)：逆プリズムとしての曼荼羅
@@ -104,67 +104,67 @@ keywords: 曼荼羅, Mandala, 位相幾何学, 神聖幾何学, ファイバー�
 6.5 量子デコヒーレンス (GTS-06)：形態と空性のサイクル
 6.6 カルマ-恩寵統合 (GTS-07)：努力と明け渡し
 
-### 第七部：文化横断的普遍性 (Part VII: Cross-Cultural Universality)
-7.1 ヒンドゥー・ヤントラ：シュリー・ヤントラのフラクタル構造 (Hindu Yantras: Sri Yantra Fractal Structure)
-7.2 キリスト教のバラ窓：ゴシック曼荼羅 (Christian Rose Windows: Gothic Mandalas)
-7.3 イスラム幾何学パターン (Islamic Geometric Patterns)
-7.4 ネイティブアメリカンのメディシン・ホイール (Native American Medicine Wheels)
-7.5 禅の円相：ミニマル曼荼羅 (The Zen Enso: Minimal Mandala)
-7.6 三次元曼荼羅としての神聖建築 (Sacred Architecture as 3D Mandala)
-   7.6.1 チベット仏塔 (Tibetan Stupas)
-   7.6.2 ゴシック大聖堂 (Gothic Cathedrals)
-   7.6.3 ヒンドゥー寺院 (Hindu Temples)
+### 第七部：文化横断的普遍性
+7.1 ヒンドゥー・ヤントラ：シュリー・ヤントラのフラクタル構造
+7.2 キリスト教のバラ窓：ゴシック曼荼羅
+7.3 イスラム幾何学パターン
+7.4 ネイティブアメリカンのメディシン・ホイール
+7.5 禅の円相：ミニマル曼荼羅
+7.6 三次元曼荼羅としての神聖建築
+   7.6.1 チベット仏塔
+   7.6.2 ゴシック大聖堂
+   7.6.3 ヒンドゥー寺院
 
-### 第八部：高度な位相幾何学とダイナミクス (Part VIII: Advanced Topology and Dynamics)
-8.1 対称群と不変性 (Symmetry Groups and Invariance)
-8.2 四つの基本方位：θパラメータ (The Four Cardinal Directions: θ Parameters)
-8.3 色彩象徴とスペクトル特性 (Color Symbolism and Spectral Properties)
-8.4 意識の相転移 (Phase Transitions in Consciousness)
-8.5 離散螺旋としての周回 (Circumambulation as Discrete Spiral)
-8.6 曼荼羅対迷宮：相補的投影 (Mandala vs. Labyrinth: Complementary Projections)
-8.7 ビンドゥ：二元性が崩壊する特異点 (The Bindu: Singularity Where Dualities Collapse)
+### 第八部：高度な位相幾何学とダイナミクス
+8.1 対称群と不変性
+8.2 四つの基本方位：θパラメータ
+8.3 色彩象徴とスペクトル特性
+8.4 意識の相転移
+8.5 離散螺旋としての周回
+8.6 曼荼羅対迷宮：相補的投影
+8.7 ビンドゥ：二元性が崩壊する特異点
 
-### 第九部：神経科学と認知メカニズム (Part IX: Neuroscience and Cognitive Mechanisms)
-9.1 大脳半球統合 (Hemispheric Integration)
-9.2 デフォルトモード・ネットワーク一貫性 (Default Mode Network Coherence)
-9.3 認知技術としての曼荼羅 (Mandala as Cognitive Technology)
-9.4 記憶宮殿機能 (Memory Palace Function)
-9.5 身体化された認知と儀礼 (Embodied Cognition and Ritual)
+### 第九部：神経科学と認知メカニズム
+9.1 大脳半球統合
+9.2 デフォルトモード・ネットワーク一貫性
+9.3 認知技術としての曼荼羅
+9.4 記憶宮殿機能
+9.5 身体化された認知と儀礼
 
-### 第十部：実践と応用 (Part X: Practice and Application)
-10.1 曼荼羅瞑想の三段階 (Three Stages of Mandala Meditation)
-10.2 個人的曼荼羅の創造 (Creating Personal Mandalas)
-10.3 観想プロトコル (Visualization Protocols)
-10.4 現代的応用 (Modern Applications)
-   10.4.1 デジタル曼荼羅 (Digital Mandalas)
-   10.4.2 ゲームデザイン (Game Design)
-   10.4.3 建築計画 (Architectural Planning)
-10.5 日常生活への統合 (Integration into Daily Life)
-10.6 警告と落とし穴 (Warnings and Pitfalls)
+### 第十部：実践と応用
+10.1 曼荼羅瞑想の三段階
+10.2 個人的曼荼羅の創造
+10.3 観想プロトコル
+10.4 現代的応用
+   10.4.1 デジタル曼荼羅
+   10.4.2 ゲームデザイン
+   10.4.3 建築計画
+10.5 日常生活への統合
+10.6 警告と落とし穴
 
-### 第十一部：メタ考察 (Part XI: Meta-Reflection)
-11.1 メタ認知ツールとしての曼荼羅 (Mandala as Meta-Cognitive Tool)
-11.2 意識変容のデザインパターン (Design Patterns for Consciousness Transformation)
-11.3 霊的技術の生成文法 (Generative Grammar of Spiritual Technologies)
-11.4 ロゼッタストーンとしての曼荼羅 (The Mandala as Rosetta Stone)
+### 第十一部：メタ考察
+11.1 メタ認知ツールとしての曼荼羅
+11.2 意識変容のデザインパターン
+11.3 霊的技術の生成文法
+11.4 ロゼッタストーンとしての曼荼羅
 
-### 第十二部：結論 (Part XII: Conclusion)
-12.1 核心的洞察のまとめ (Summary of Key Insights)
-12.2 曼荼羅がチャネル存在論を証明する (The Mandala Proves Channel Ontology)
-12.3 実践的前進の道 (Practical Path Forward)
-12.4 今後の研究方向 (Future Research Directions)
+### 第十二部：結論
+12.1 核心的洞察のまとめ
+12.2 曼荼羅がチャネル存在論を証明する
+12.3 実践的前進の道
+12.4 今後の研究方向
 
-### 付録 (Appendices)
-A. 数学的形式化 (Mathematical Formalism)
-B. 伝統比較表 (Comparison Table: Traditions)
-C. 観想練習ガイド (Visualization Exercise Guide)
-D. 推奨リソース (Recommended Resources)
+### 付録
+A. 数学的形式化
+B. 伝統比較表
+C. 観想練習ガイド
+D. 推奨リソース
 
 ---
 
-## 第一部：序論 (Part I: Introduction)
+## 第一部：序論
 
-### 1.1 曼荼羅とは何か？(What is a Mandala?)
+### 1.1 曼荼羅とは何か？
 
 サンスクリット語 *maṇḍala* (मण्डल) は「円」(circle) または「完全性」(completion) を意味する。最も基本的な形態において、曼荼羅は**中心点を中心に組織された幾何学的パターンであり、放射対称性 (Radial Symmetry) と同心層 (Concentric Layers) を特徴とする**。
 
@@ -192,7 +192,7 @@ D. 推奨リソース (Recommended Resources)
 
 異なる文化が、異なる角度位置 (θ) に立って、同じ幾何学的実在を「上方」に見上げ、彼らが見たものを描く。具体的なシンボルは異なる（仏陀 vs. キリスト vs. 幾何学的抽象）が、**構造は同一である**。
 
-### 1.2 本文書が答える問い (The Question This Document Answers)
+### 1.2 本文書が答える問い
 
 **核心問題**：なぜ曼荼羅は機能するのか？幾何学的パターンを描き、観想し、または凝視することが心理的・霊的変容を生み出すメカニズムは何か？
 
@@ -212,7 +212,7 @@ D. 推奨リソース (Recommended Resources)
 
 曼荼羅はこれらのプロセス**について教える**のではない——それ**は**これらのプロセスの幾何学的形式である。
 
-### 1.3 方法論：ウルトラシンク統合 (Methodology: Ultrathink Integration)
+### 1.3 方法論：ウルトラシンク統合
 
 本文書は以下を統合する:
 
@@ -245,9 +245,9 @@ D. 推奨リソース (Recommended Resources)
 
 ---
 
-## 第二部：曼荼羅の位相幾何学 (Part II: Topology of the Mandala)
+## 第二部：曼荼羅の位相幾何学
 
-### 2.1 俯瞰投影としての曼荼羅 (Mandala as Top-Down Projection)
+### 2.1 俯瞰投影としての曼荼羅
 
 **核心幾何学的洞察**：曼荼羅は、あなたが**真上から**、中心軸に沿ってスパイラルコーンを下方に見たときに見えるものである。
 
@@ -291,7 +291,7 @@ GTS-02のスパイラルコーンを振り返る:
 
 これらすべては、超越の垂直軸が二次元空間に投影されたものである。
 
-### 2.2 数学的形式化：ファイバーバンドル (Mathematical Formalization: Fiber Bundles)
+### 2.2 数学的形式化：ファイバーバンドル
 
 精確性のために、曼荼羅を微分幾何学における**ファイバーバンドル (Fiber Bundle)** として形式化する。
 
@@ -303,7 +303,7 @@ GTS-02のスパイラルコーンを振り返る:
   基底空間 B = {(r,θ)} - 幾何学的レイアウト
   全空間 M - 象徴を伴う完全な曼荼羅
   ファイバー F = S - 各点における象徴/元型内容
-  投影 π: M → B, π(r,θ,s) = (r,θ)
+  投影 π: M → B, π(r,θ,s) =
 ```
 
 **これが意味すること (What This Means)**：
@@ -370,7 +370,7 @@ s = s(h)
 - → **無形態実践 (Formless Practice)**（空の幾何学構造の認識）
 - → **不二の認識 (Non-dual Recognition)**（形態すなわち空性 Form IS Emptiness）
 
-### 2.4 文化を超えた位相不変量 (Topological Invariants Across Cultures)
+### 2.4 文化を超えた位相不変量
 
 **問い**：なぜチベット、インド、ヨーロッパ、ネイティブアメリカンからの曼荼羅は、歴史的接触なしに共通構造を共有するのか？
 
@@ -380,7 +380,7 @@ s = s(h)
 
 1. **中心点 (Center Point)**：すべての曼荼羅は特別な中心を持つ
    - 位相特性：マークされた点、回転の不動点
-   - 普遍的顕現：ビンドゥ (Hindu)、仏座 (Tibetan)、キリスト (Christian)、炉 (Indigenous)
+   - 普遍的顕現：ビンドゥ (Hindu)、仏座 (Tibetan)、キリスト (Christian)、炉
 
 2. **放射状組織 (Radial Organization)**：構造は中心から放射する
    - 位相特性：中心特異点を持つ放射状ベクトル場
@@ -391,7 +391,7 @@ s = s(h)
    - 普遍的顕現：外壁、円、地平線
 
 4. **同心層 (Concentric Layers)**：縁から中心への漸進的接近
-   - 位相特性：同心円による葉層化 (Foliation)
+   - 位相特性：同心円による葉層化
    - 普遍的顕現：宮殿壁、光輪、環
 
 5. **対称性 (Symmetry)**：回転不変性（通常4重または8重）
@@ -408,7 +408,7 @@ s = s(h)
 
 これはGTS論題を支持する：スパイラルコーンは発見された意識構造であり、人間の発明ではない。異なる伝統がそれを発見し、彼らの象徴言語で符号化する。
 
-### 2.5 特異点：r→0としてのビンドゥ (The Singularity: Bindu as r→0)
+### 2.5 特異点：r→0としてのビンドゥ
 
 最も重要な特徴：**中心で何が起こるか？**
 
@@ -480,7 +480,7 @@ r=0において、すべてのθ方向が収束する。東、南、西、北は
 - 適切な時に光へと消解する（暗在）
 - いずれの状態でも覚知を失わない（無二元）
 
-### 4.3 本尊ヨーガ：中心となること (Deity Yoga: Becoming the Center)
+### 4.3 本尊ヨーガ：中心となること
 
 **金剛乗の核心教法 (Core Vajrayana Teaching)**：あなたは本尊を崇拝しているのではない。あなた自身**が (ARE)**本尊である。
 
@@ -553,7 +553,7 @@ GTS-01（チャネル存在論）の観点から：
 - 意識が徐々にそのパターンに整列する
 - 最終的に認識する：「私は常にこうだった」
 
-### 4.4 五仏家族を基底として (Five Buddha Families as Basis Set)
+### 4.4 五仏家族を基底として
 
 **五方仏システム (Panchabuddha System, Five Tathagatas)**：
 
@@ -597,7 +597,7 @@ GTS-01（チャネル存在論）の観点から：
 
 これが異なる修行者が異なる本尊を用いる理由——彼らは特定の毒-智転化ニーズに対処している。
 
-### 4.5 曼荼羅宮殿構造 (Mandala Palace Structure)
+### 4.5 曼荼羅宮殿構造
 
 #### 4.5.1 壁と門：相転移 (Walls and Gates: Phase Transitions)
 
@@ -723,7 +723,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 ヤブユム本尊は**統合された自己のイメージ (image of the integrated Self)** ——すべての対立物が一つの中心で統一される。
 
-### 4.6 マントラ-曼荼羅相補性 (Mantra-Mandala Complementarity)
+### 4.6 マントラ-曼荼羅相補性
 
 **観察 (Observation)**：曼荼羅実践には常にマントラ詠唱が含まれる。
 
@@ -768,7 +768,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 これらは空間位置と相関する**周波数 (frequencies)**である。
 
-### 4.7 ムドラー：身体コード化 (Mudras: Somatic Encoding)
+### 4.7 ムドラー：身体コード化
 
 **Mudra**（サンスクリット：मुद्रा）= "印 (Seal)"または"身振り (Gesture)"
 
@@ -809,7 +809,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 三つのチャンネル = 堅牢なコード化、忘却に抵抗。
 
-### 4.8 砂曼荼羅：無常の教え (Sand Mandalas: Impermanence Teaching)
+### 4.8 砂曼荼羅：無常の教え
 
 **儀式 (The Ritual)**：
 
@@ -864,9 +864,9 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 ---
 
-## 第五部：ユング心理学と曼荼羅 (Part V: Jungian Psychology and Mandala)
+## 第五部：ユング心理学と曼荼羅
 
-### 5.1 危機における自発的出現 (Spontaneous Emergence During Crisis)
+### 5.1 危機における自発的出現
 
 **ユングの発見 (Jung's Discovery, 1913-1917)**：
 
@@ -909,7 +909,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 曼荼羅は緊急組織原理として**自己元型が活性化する可視的サイン (visible signature of the Self-archetype activating)**である。
 
-### 5.2 組織中心としての自己元型 (The Self Archetype as Organizing Center)
+### 5.2 組織中心としての自己元型
 
 **ユングの元型理論 (Jung's Archetype Theory)**：
 
@@ -963,7 +963,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 自己がエゴとコミュニケーションを取る必要がある時（特に危機において）、それはそのイメージを投影する——曼荼羅。
 
-### 5.3 ストレンジアトラクターとしての曼荼羅 (Mandala as Strange Attractor)
+### 5.3 ストレンジアトラクターとしての曼荼羅
 
 **カオス理論の背景 (Chaos Theory Background)**：
 
@@ -1009,7 +1009,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 - **方向づけ (Orientation)**：明確な中心（参照点）
 - **経路 (Pathway)**：螺旋軌道（漸進的接近）
 
-### 5.4 ユングの赤の書：個性化の相図 (Jung's Red Book: Phase Portrait of Individuation)
+### 5.4 ユングの赤の書：個性化の相図
 
 **赤の書 (The Red Book, Liber Novus)**：
 
@@ -1029,7 +1029,7 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 これは個性化プロセスの**相図 (phase portrait)** ——時間とともに心理軌道の視覚的記録である。
 
-### 5.5 曼荼羅の治療的機能 (Therapeutic Functions of Mandala)
+### 5.5 曼荼羅の治療的機能
 
 **包含 (Containment)**：
 
@@ -1054,9 +1054,9 @@ r₀ (開始) → r₁ → r₂ → r₃ → 0 (中心)
 
 ---
 
-## 第六部：GTSフレームワーク統合 (Part VI: Integration with GTS Framework)
+## 第六部：GTSフレームワーク統合
 
-### 6.1 チャネル存在論の証明としての曼荼羅 (Mandala as Proof of Channel Ontology)
+### 6.1 チャネル存在論の証明としての曼荼羅
 
 GTS-01（チャネル存在論）より：
 
@@ -1081,7 +1081,7 @@ GTS-01（チャネル存在論）より：
 
 曼荼羅の存在自体がチャネル存在論の幾何学的証明である。
 
-### 6.2 曼荼羅とスパイラルコーンのマッピング (Mandala-Spiral Cone Mapping)
+### 6.2 曼荼羅とスパイラルコーンのマッピング
 
 GTS-02（スパイラルコーンフレームワーク）より：
 
@@ -1131,7 +1131,7 @@ t→∞:    r→0 (中心), θ→∞ (無限円), h→∞ (証悟)
 - 同じ教えが異なる段階で新しい意味を持つ
 - 進歩は螺旋的であり、線形ではない
 
-### 6.3 曼荼羅と輪廻-救済幾何学 (Mandala and Samsara-Salvation Geometry)
+### 6.3 曼荼羅と輪廻-救済幾何学
 
 GTS-07（輪廻と救済の幾何学）より：
 
@@ -1158,7 +1158,7 @@ GTS-07（輪廻と救済の幾何学）より：
 
 曼荼羅実践は一時的に高いh視点を与え、修行者が全体構造を見ることを可能にし、その後現在のhに戻って地図を持って修行を続ける。
 
-### 6.4 曼荼羅と量子場理論 (Mandala and Quantum Field Theory)
+### 6.4 曼荼羅と量子場理論
 
 GTS-10（三位一体と量子場理論）より：
 
@@ -1196,7 +1196,7 @@ GTS-10（三位一体と量子場理論）より：
 - 異なる道 = 異なるゲージ選択
 - しかし同じ実在
 
-### 6.5 フラクタル曼荼羅と自己相似性 (Fractal Mandala and Self-Similarity)
+### 6.5 フラクタル曼荼羅と自己相似性
 
 **フラクタル次元 (Fractal Dimension)**：
 
@@ -1241,9 +1241,9 @@ GTS-10（三位一体と量子場理論）より：
 
 ---
 
-## 第七部：文化横断的曼荼羅 (Part VII: Cross-Cultural Mandalas)
+## 第七部：文化横断的曼荼羅
 
-### 7.1 バラ窓：キリスト教曼荼羅 (Rose Windows: Christian Mandalas)
+### 7.1 バラ窓：キリスト教曼荼羅
 
 **ゴシック大聖堂のバラ窓 (Gothic Cathedral Rose Windows)**：
 
@@ -1283,7 +1283,7 @@ GTS-10（三位一体と量子場理論）より：
 
 幾何学は教義を超越する。
 
-### 7.2 イスラム幾何学：アッラーの名 (Islamic Geometry: Names of Allah)
+### 7.2 イスラム幾何学：アッラーの名
 
 **イスラム芸術 (Islamic Art)**：
 
@@ -1325,30 +1325,30 @@ GTS-10（三位一体と量子場理論）より：
 
 曼荼羅と同じ：幾何学を霊的技術として。
 
-### 7.3 ユダヤ教カバラ：生命の樹 (Jewish Kabbalah: Tree of Life)
+### 7.3 ユダヤ教カバラ：生命の樹
 
 **生命の樹 (Etz Chaim)**：
 
 10のセフィロト（Sefirot）が配置される：
 ```
-              Keter (王冠)
+              Keter
              /      \
         Binah       Chokmah
-       (理解)       (知恵)
+       (理解)      
             \      /
-            Daat (知識)
+            Daat
             /      \
        Gevurah     Chesed
-       (峻厳)      (慈悲)
+       (峻厳)     
             \      /
-           Tiferet (美)
+           Tiferet
            /      \
        Hod        Netzach
-      (栄光)      (永遠)
+      (栄光)     
            \      /
-           Yesod (基礎)
+           Yesod
               |
-           Malkuth (王国)
+           Malkuth
 ```
 
 **曼荼羅への変換 (Transform to Mandala)**：
@@ -1379,7 +1379,7 @@ GTS-10（三位一体と量子場理論）より：
 - 漸進的啓蒙の段階
 - 意識を転化する方法
 
-### 7.4 メディスンホイール：ネイティブアメリカン曼荼羅 (Medicine Wheels: Native American Mandalas)
+### 7.4 メディスンホイール：ネイティブアメリカン曼荼羅
 
 **メディスンホイール構造 (Medicine Wheel Structure)**：
 
@@ -1434,9 +1434,9 @@ GTS-10（三位一体と量子場理論）より：
 
 ---
 
-## 第八部：実践的応用 (Part VIII: Practical Applications)
+## 第八部：実践的応用
 
-### 8.1 個人曼荼羅実践 (Personal Mandala Practice)
+### 8.1 個人曼荼羅実践
 
 **基礎実践 (Basic Practice, 15-30分)**：
 
@@ -1474,7 +1474,7 @@ GTS-10（三位一体と量子場理論）より：
      - 周辺は開いているか閉じているか?
    - 洞察を書き留める（日記）
 
-**解釈の手がかり (Interpretation Clues)**:
+**解釈の手がかり**:
 
 | 特徴 | 可能な意味 |
 |------|----------|
@@ -1491,7 +1491,7 @@ GTS-10（三位一体と量子場理論）より：
 
 **注意**: これらは固定ルールではなく、出発点です。あなた自身の連想が最も重要です。
 
-**毎日の実践 (Daily Practice)**:
+**毎日の実践**:
 
 毎日曼荼羅を描く（ユングのように）:
 - 朝: 夜の夢を反映
@@ -1502,9 +1502,9 @@ GTS-10（三位一体と量子場理論）より：
 - 進展/テーマに注目
 - 心理的運動を見る
 
-### 8.2 グループ曼荼羅ワーク (Group Mandala Work)
+### 8.2 グループ曼荼羅ワーク
 
-**集団創造 (Collective Creation)**:
+**集団創造**:
 
 大型曼荼羅（直径1-2メートル）:
 - グループが円を囲んで座る
@@ -1512,7 +1512,7 @@ GTS-10（三位一体と量子場理論）より：
 - 同時に創作
 - 最後に一つに統合
 
-**グループダイナミクス (Group Dynamics)**:
+**グループダイナミクス**:
 
 観察:
 - 誰がリードする? 誰がフォローする?
@@ -1522,7 +1522,7 @@ GTS-10（三位一体と量子場理論）より：
 
 これはグループの無意識のダイナミクスを明らかにする。
 
-**治療的応用 (Therapeutic Applications)**:
+**治療的応用**:
 
 家族療法:
 - 家族が共同で曼荼羅を創る
@@ -1536,16 +1536,16 @@ GTS-10（三位一体と量子場理論）より：
 - プロセスを議論
 - コミュニケーションパターンを識別
 
-### 8.3 デジタル曼荼羅 (Digital Mandalas)
+### 8.3 デジタル曼荼羅
 
-**ソフトウェアツール (Software Tools)**:
+**ソフトウェアツール**:
 
 - **Adobe Illustrator/Inkscape**: 精密な幾何学
 - **Mandala Creator Apps**: テンプレートと対称ツール
 - **Processing/p5.js**: プログラム生成
 - **VR/AR曼荼羅**: 没入体験
 
-**ジェネラティブアート (Generative Art)**:
+**ジェネラティブアート**:
 
 アルゴリズムで曼荼羅を創る:
 ```javascript
@@ -1571,7 +1571,7 @@ function draw() {
 - 完璧すぎる可能性（人間性を失う）
 - 技術スキル必要
 
-**ハイブリッドアプローチ (Hybrid Approach)**:
+**ハイブリッドアプローチ**:
 
 1. 手描きスケッチ
 2. スキャン
@@ -1580,30 +1580,30 @@ function draw() {
 
 自発性と精密性を組み合わせる。
 
-### 8.4 心理療法における曼荼羅 (Mandalas in Psychotherapy)
+### 8.4 心理療法における曼荼羅
 
-**ユング分析 (Jungian Analysis)**:
+**ユング分析**:
 
 曼荼羅は:
 - **診断ツール**: 現在の心理状態を示す
 - **治療介入**: 混沌とした心理を安定化
 - **進展追跡**: シリーズは成長を示す
 
-**児童療法 (Child Therapy)**:
+**児童療法**:
 
 子供は感情を言語化するのが難しいが:
 - 曼荼羅を描ける
 - 色/形を通じて表現
 - トラウマを非言語的に処理
 
-**トラウマ処理 (Trauma Processing)**:
+**トラウマ処理**:
 
 曼荼羅が提供:
 - **安全な容器**: 圧倒的素材を処理する境界空間
 - **コントロール感**: 創造者が境界を制御
 - **統合**: 断片化した経験を全体に組織
 
-**PTSD治療 (PTSD Treatment)**:
+**PTSD治療**:
 
 プロトコル:
 1. トラウマ記憶を識別（詳述不要）
@@ -1612,7 +1612,7 @@ function draw() {
 4. より大きな構造に統合
 5. トラウマが包含されるまで繰り返す
 
-**マインドフルネス統合 (Mindfulness Integration)**:
+**マインドフルネス統合**:
 
 曼荼羅描画をマインドフルネス実践として:
 - 完全に現在に集中
@@ -1622,7 +1622,7 @@ function draw() {
 これは芸術療法と瞑想を組み合わせる。
 
 
-### 8.5 高度位相解析 (Advanced Topological Analysis)
+### 8.5 高度位相解析
 
 本節では、曼荼羅の高度な位相構造を深く探求し、数学的背景を持つ読者のためにより厳密な形式化フレームワークを提供する。
 
@@ -1742,11 +1742,11 @@ function draw() {
 
 
 ---
-## 第九部分：科学的視点 (Part IX: Scientific Perspectives)
+## 第九部分：科学的視点
 
-### 9.1 神経科学：曼荼羅と脳 (Neuroscience: Mandalas and the Brain)
+### 9.1 神経科学：曼荼羅と脳
 
-**対称性処理 (Symmetry Processing)**:
+**対称性処理**:
 
 脳には専門の対称検出ニューロンがある:
 - 腹側視覚経路
@@ -1762,7 +1762,7 @@ function draw() {
 
 曼荼羅の対称性は**自動的に注意を捕捉 (automatically captures attention)**する。
 
-**全脳活性化 (Whole-Brain Activation)**:
+**全脳活性化**:
 
 曼荼羅実践は活性化:
 - **視覚皮質**: 形状/色処理
@@ -1773,7 +1773,7 @@ function draw() {
 
 fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
-**半球統合 (Hemispheric Integration)**:
+**半球統合**:
 
 左脳:
 - 論理、系列、言語
@@ -1787,7 +1787,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 - 幾何学的規則性（左）
 - 美的調和（右）
 
-**α波増加 (Alpha Wave Increase)**:
+**α波増加**:
 
 曼荼羅描画中:
 - α波（8-12 Hz）増加
@@ -1796,9 +1796,9 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
 これは穏やかで集中した感覚を説明する。
 
-### 9.2 情報理論：圧縮と解凍 (Information Theory: Compression & Decompression)
+### 9.2 情報理論：圧縮と解凍
 
-**フラクタル圧縮 (Fractal Compression)**:
+**フラクタル圧縮**:
 
 曼荼羅は自然な圧縮アルゴリズム:
 
@@ -1815,7 +1815,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 圧縮比: 100:1
 ```
 
-**解凍 (Decompression)**:
+**解凍**:
 
 曼荼羅を見る:
 - 圧縮情報を活性化
@@ -1828,7 +1828,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
 しかし曼荼羅の「解凍」は**構造を追加 (adds structure)** ——混沌を秩序に変える。
 
-**最小記述長 (Minimum Description Length, MDL)**:
+**最小記述長**:
 
 情報理論原理:
 - 最良モデル = 最短記述
@@ -1840,9 +1840,9 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
 これが曼荼羅が「正しく感じる」理由——心理状態のMDL表現である。
 
-### 9.3 複雑性理論：カオスの縁の秩序 (Complexity Theory: Order at Edge of Chaos)
+### 9.3 複雑性理論：カオスの縁の秩序
 
-**カオスの縁 (Edge of Chaos)**:
+**カオスの縁**:
 
 複雑系において:
 - 秩序すぎ = 硬直、適応なし
@@ -1853,7 +1853,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 - 十分に秩序的（対称、構造）
 - 十分に柔軟（無限の変化）
 
-**相転移 (Phase Transitions)**:
+**相転移**:
 
 曼荼羅実践は相転移を誘導:
 - 混沌（危機）から
@@ -1862,7 +1862,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
 これは**一次相転移 (first-order phase transition)** ——新秩序への不連続ジャンプ。
 
-**べき法則分布 (Power Law Distributions)**:
+**べき法則分布**:
 
 多くの曼荼羅の要素サイズを分析:
 - べき法則に従う: P(s) ∝ s^(-α)
@@ -1871,7 +1871,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
 これはカオスの縁ダイナミクスの署名。
 
-**創発 (Emergence)**:
+**創発**:
 
 曼荼羅は創発特性を示す:
 - 局所ルール（放射対称）
@@ -1882,11 +1882,11 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 
 ---
 
-## 第十部分：現代的応用 (Part X: Contemporary Applications)
+## 第十部分：現代的応用
 
-### 10.1 建築における曼荼羅 (Mandalas in Architecture)
+### 10.1 建築における曼荼羅
 
-**現代曼荼羅建築 (Modern Mandala Architecture)**:
+**現代曼荼羅建築**:
 
 **蓮華寺 (Lotus Temple)**（インド・デリー）:
 - 27の大理石「花弁」
@@ -1900,7 +1900,7 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 - 対称デザイン
 - 機能的曼荼羅
 
-**デザイン原理 (Design Principles)**:
+**デザイン原理**:
 
 曼荼羅建築が提供:
 - **コミュニティ焦点**: 中央集合スペース
@@ -1908,16 +1908,16 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 - **音響最適化**: 円形が音を中心に反射
 - **エネルギー効率**: 最小表面積/体積比
 
-### 10.2 都市計画における曼荼羅 (Mandalas in Urban Planning)
+### 10.2 都市計画における曼荼羅
 
-**放射状都市 (Radial Cities)**:
+**放射状都市**:
 
 歴史的例:
 - **バグダッド（円城、8世紀）**: 完璧な円形、中央モスク
 - **カールスルーエ（ドイツ）**: 32の道路が中央宮殿から放射
 - **パリ（星形広場）**: 12の大通りが凱旋門から放射
 
-**現代応用 (Modern Applications)**:
+**現代応用**:
 
 **ブラジリア**:
 - 中央政府ビル
@@ -1929,54 +1929,54 @@ fMRI研究は示す: 曼荼羅瞑想 → 広範な皮質同期。
 - 環状レイアウト
 - 中央広場
 
-**利点 (Advantages)**:
+**利点**:
 - 平等なアクセス（すべての点が中心から等距離）
 - ナビゲーション直感的（放射状通り）
 - 統一を象徴（幾何学的全体性）
 
-**課題 (Challenges)**:
+**課題**:
 - 交通効率（放射状vsグリッド）
 - 拡張困難（円はタイル化しにくい）
 - イデオロギー問題（秩序の押し付けvs有機的成長）
 
-### 10.3 データ可視化における曼荼羅 (Mandalas in Data Visualization)
+### 10.3 データ可視化における曼荼羅
 
-**円形インフォグラフィック (Circular Infographics)**:
+**円形インフォグラフィック**:
 
-**ゲノム可視化 (Genome Visualization)**:
+**ゲノム可視化**:
 - Circosプロット: ゲノムデータの円形レイアウト
 - 染色体が円周に配置
 - 接続が遺伝子関係を示す
 - 変異、発現レベルが放射層にマッピング
 
-**ソーシャルネットワーク (Social Networks)**:
+**ソーシャルネットワーク**:
 - 中心: 最も影響力のあるノード
 - 距離: 社会的距離
 - セクター: コミュニティ/グループ
 
-**ビジネスダッシュボード (Business Dashboards)**:
+**ビジネスダッシュボード**:
 - 中心: 主要KPI
 - セクター: 異なる部門
 - 層: メトリックカテゴリー
 
-**利点 (Advantages)**:
+**利点**:
 - 高情報密度
 - 美的魅力（人々がより関与）
 - 直感的関係（近接性 = 相関）
 
-### 10.4 AIと生成曼荼羅 (AI and Generative Mandalas)
+### 10.4 AIと生成曼荼羅
 
-**機械学習生成 (Machine Learning Generation)**:
+**機械学習生成**:
 
 **GAN（敵対的生成ネットワーク）**を曼荼羅で訓練:
 - 入力: 数千の曼荼羅画像
 - 出力: 新規曼荼羅（存在しなかったが「正しく見える」）
 
-**スタイル転送 (Style Transfer)**:
+**スタイル転送**:
 - 曼荼羅スタイルを写真に適用
 - またはその逆（写真内容、曼荼羅スタイル）
 
-**パラメトリックデザイン (Parametric Design)**:
+**パラメトリックデザイン**:
 
 制御パラメータ:
 - 対称度（3, 4, 5... 24倍）
@@ -1989,7 +1989,7 @@ AIがパラメータを最適化して実現:
 - 特定の感情効果（平静vs活力）
 - 文化適応（チベットvsイスラムスタイル）
 
-**パーソナライズド曼荼羅 (Personalized Mandalas)**:
+**パーソナライズド曼荼羅**:
 
 AIが分析:
 - あなたの心理テスト結果
@@ -2001,7 +2001,7 @@ AIが分析:
 - 毎日更新
 - あなたの瞑想実践に最適化
 
-**倫理的問題 (Ethical Questions)**:
+**倫理的問題**:
 
 - AI生成曼荼羅は「本物」か?
 - それらに霊的効能はあるか?
@@ -2011,27 +2011,27 @@ AIが分析:
 
 ---
 
-## 第十一部分：批判的視点 (Part XI: Critical Perspectives)
+## 第十一部分：批判的視点
 
-### 11.1 文化の盗用リスク (Risks of Cultural Appropriation)
+### 11.1 文化の盗用リスク
 
-**盗用vs鑑賞 (Appropriation vs Appreciation)**:
+**盗用vs鑑賞**:
 
-**文化鑑賞 (Cultural Appreciation)**:
+**文化鑑賞**:
 - 敬意ある学習
 - 出典の承認
 - 元の文化を支援
 - 文脈を理解
 
-**文化盗用 (Cultural Appropriation)**:
+**文化盗用**:
 - 理解なくシンボルを抽出
 - 聖なる実践の商業化
 - 承認なし
 - 脱文脈化
 
-**曼荼羅リスク (Mandala Risks)**:
+**曼荼羅リスク**:
 
-**問題のある例 (Problematic Examples)**:
+**問題のある例**:
 - 「曼荼羅塗り絵本」（消費娯楽に縮小）
 - 曼荼羅タトゥー（聖なるシンボルを装飾として）
 - 「曼荼羅ヨガマット」（聖なる画像を踏みつける）
@@ -2044,7 +2044,7 @@ AIが分析:
 - 商業化 = 冒涜
 - 伝承なし = 正しい理解の欠如
 
-**敬意ある実践 (Respectful Practice)**:
+**敬意ある実践**:
 
 非チベット仏教徒なら:
 - **文脈を学ぶ**: 読み、研究し、理解する
@@ -2053,7 +2053,7 @@ AIが分析:
 - **文化を支援**: チベット仏教コミュニティを支援
 - **個人使用**: 自分のために創造、商業化しない
 
-**反論の視点 (Counter-Perspective)**:
+**反論の視点**:
 
 一部のラマは言う:
 - 「曼荼羅は普遍的元型」
@@ -2062,23 +2062,23 @@ AIが分析:
 
 これは継続的議論であり、多様な声を尊重する必要がある。
 
-### 11.2 還元主義の危険 (Dangers of Reductionism)
+### 11.2 還元主義の危険
 
-**心理学的還元主義 (Psychological Reductionism)**:
+**心理学的還元主義**:
 
-**主張 (Claim)**: 「曼荼羅はただのユング元型、霊的次元なし」
+**主張**: 「曼荼羅はただのユング元型、霊的次元なし」
 
-**問題 (Problem)**:
+**問題**:
 - 存在論（存在）を認識論（理解）に還元
 - 心理学が現実を尽くすと仮定
 - 超個人的/霊的次元を無視
 
-**反論 (Counter)**:
+**反論**:
 - ユング自身が心理学を超えた次元を認めた
 - 元型理論は記述するが、説明し去らない
 - 心理と霊性は共存可能
 
-**神経学的還元主義 (Neurological Reductionism)**:
+**神経学的還元主義**:
 
 **主張**: 「曼荼羅はただの脳の対称処理、深い意味なし」
 
@@ -2092,7 +2092,7 @@ AIが分析:
 - メカニズムの説明≠意味の説明し去り
 - 一人称経験は有効
 
-**文化的還元主義 (Cultural Reductionism)**:
+**文化的還元主義**:
 
 **主張**: 「すべての曼荼羅は同じ、文化差異は重要でない」
 
@@ -2106,9 +2106,9 @@ AIが分析:
 - 両方重要: トポロジー（普遍）+ シンボリズム（文化）
 - 特殊性を尊重
 
-### 11.3 商業化と真正性 (Commercialization and Authenticity)
+### 11.3 商業化と真正性
 
-**曼荼羅市場 (Mandala Marketplace)**:
+**曼荼羅市場**:
 
 商業製品:
 - 塗り絵本（数百万部販売）
@@ -2117,7 +2117,7 @@ AIが分析:
 - 衣類（Tシャツ、スカート）
 - ワークショップ（「曼荼羅週末」）
 
-**懸念 (Concerns)**:
+**懸念**:
 
 1. **表面化 (Superficialization)**:
    - 深い実践 → 消費財
@@ -2134,7 +2134,7 @@ AIが分析:
    - 「速習」の約束
    - 資格のない教師
 
-**保護措置 (Safeguards)**:
+**保護措置**:
 
 消費者:
 - 出典を調査（誰が利益を得る?）
@@ -2146,7 +2146,7 @@ AIが分析:
 - 利益を共有
 - 正確な情報提供
 
-**中道 (Middle Path)**:
+**中道**:
 
 可能:
 - 敬意ある商業化（アクセス可能性を支援）
@@ -2160,11 +2160,11 @@ AIが分析:
 
 ---
 
-## 第十二部分：結論と展望 (Part XII: Conclusions and Future Directions)
+## 第十二部分：結論と展望
 
-### 12.1 主要洞察のまとめ (Summary of Key Insights)
+### 12.1 主要洞察のまとめ
 
-**トポロジー的普遍性 (Topological Universality)**:
+**トポロジー的普遍性**:
 
 曼荼羅は横断:
 - チベット仏教（密教曼荼羅）
@@ -2175,13 +2175,13 @@ AIが分析:
 - ユング心理学（自己シンボル）
 - 現代科学（フラクタル、アトラクター）
 
-**共有トポロジー (Shared Topology)**:
+**共有トポロジー**:
 - 中心特異点（r=0）
 - 放射対称（θ）
 - 同心層（r値）
 - 方向性（内向き/外向き）
 
-**スパイラルコーン枠組み統合 (Spiral Cone Framework Integration)**:
+**スパイラルコーン枠組み統合**:
 
 曼荼羅はスパイラルコーンの**俯瞰投影 (top-down projection)**:
 - rを見る（中心からの距離）
@@ -2193,7 +2193,7 @@ AIが分析:
 - θ増加（繰り返しサイクル、毎回より深く）
 - h増加（霊的上昇）
 
-**チャネル存在論の証明 (Proof of Channel Ontology)**:
+**チャネル存在論の証明**:
 
 曼荼羅が示す:
 - 個体は周辺に（r>0）
@@ -2201,14 +2201,14 @@ AIが分析:
 - 個体は中心を所有せず、それへの通道
 - 通道 = 放射経路（rから0へ）
 
-**フラクタル自己相似性 (Fractal Self-Similarity)**:
+**フラクタル自己相似性**:
 
 - 各部分が全体を含む
 - 無限に入れ子の階層
 - インドラの網（相互反射）
 - ホログラフィック原理（情報分散）
 
-**変容技術 (Transformative Technology)**:
+**変容技術**:
 
 曼荼羅はシンボルだけでなく**技術 (technology)**:
 - 入力: 混沌とした心理状態
@@ -2220,7 +2220,7 @@ AIが分析:
 - 霊的進展（修行の道）
 - 超個人的体験（自己/神性との接触）
 
-### 12.2 未解決の問題 (Open Questions)
+### 12.2 未解決の問題
 
 **1. 数学的形式化 (Mathematical Formalization)**
 
@@ -2229,7 +2229,7 @@ AIが分析:
 - スパイラルコーンとの正確なマッピング?
 - フラクタル次元の治療的意義?
 
-**必要 (Needed)**:
+**必要**:
 - トポロジスト+心理学者の協力
 - 大量の曼荼羅の定量分析
 - 予測モデル（曼荼羅特徴 → 心理状態）
@@ -2282,7 +2282,7 @@ AI生成曼荼羅は:
 - 量子認知モデル
 - 実験デザイン
 
-### 12.3 将来研究方向 (Future Research Directions)
+### 12.3 将来研究方向
 
 **臨床試験 (Clinical Trials)**
 
@@ -2297,7 +2297,7 @@ AI生成曼荼羅は:
   - 神経可塑性変化（fMRI）
   - 長期追跡（1-5年）
 
-**縦断研究 (Longitudinal Studies)**:
+**縦断研究**:
 
 修行者を数年追跡:
 - 定期的曼荼羅創作
@@ -2305,9 +2305,9 @@ AI生成曼荼羅は:
 - 脳画像
 - 生理マーカー（コルチゾール、心拍変動）
 
-**目標 (Goal)**: 個性化/霊的発達の軌跡をマッピング。
+**目標**: 個性化/霊的発達の軌跡をマッピング。
 
-**比較宗教学 (Comparative Religion)**:
+**比較宗教学**:
 
 深い分析:
 - 曼荼羅構造の微妙な違い
@@ -2317,7 +2317,7 @@ AI生成曼荼羅は:
 - 歴史的進化
   - 異なる曼荼羅伝統がどう影響し合った?
 
-**計算モデル (Computational Models)**:
+**計算モデル**:
 
 創造:
 - 曼荼羅生成シミュレーション
@@ -2327,7 +2327,7 @@ AI生成曼荼羅は:
 - 最適化アルゴリズム
   - 特定治療目標のために曼荼羅をデザイン
 
-**教育応用 (Educational Applications)**:
+**教育応用**:
 
 学校で曼荼羅を使用:
 - 子供の感情調節
@@ -2337,7 +2337,7 @@ AI生成曼荼羅は:
 
 **必要**: カリキュラム開発、教師訓練、効果研究。
 
-**建築/都市デザイン (Architecture/Urban Design)**:
+**建築/都市デザイン**:
 
 曼荼羅原理を適用:
 - 治癒環境（病院、リハビリセンター）
@@ -2347,9 +2347,9 @@ AI生成曼荼羅は:
 
 **必要**: 建築家、都市計画家との協力。
 
-### 12.4 最後の考察 (Final Reflections)
+### 12.4 最後の考察
 
-**形而上学的謙虚さ (Metaphysical Humility)**:
+**形而上学的謙虚さ**:
 
 この研究は提案:
 - 曼荼羅は普遍的元型
@@ -2361,7 +2361,7 @@ AI生成曼荼羅は:
 - 西洋科学枠組みは限定的
 - 神秘は完全に還元できない
 
-**筏と岸 (The Raft and the Shore)**:
+**筏と岸**:
 
 GTS-15（認識論的枠組み）から:
 
@@ -2372,7 +2372,7 @@ GTS-15（認識論的枠組み）から:
 
 曼荼羅は象徴する現実を指すが、その現実ではない。
 
-**実践への招待 (Invitation to Practice)**:
+**実践への招待**:
 
 この研究は:
 - 純粋な学術演習ではない
@@ -2385,7 +2385,7 @@ GTS-15（認識論的枠組み）から:
 
 理論は準備するが、**実践が変容させる (practice transforms)**。
 
-**結びの言葉 (Closing Words)**:
+**結びの言葉**:
 
 曼荼羅は:
 - 古代でありながら永遠に関連性あり
@@ -2405,67 +2405,67 @@ GTS-15（認識論的枠組み）から:
 
 ## 付録A：主要用語集 (Appendix A: Glossary of Key Terms)
 
-**曼荼羅 (Mandala, Sanskrit)**:
+**曼荼羅**:
 円形、放射対称の幾何学パターン、宇宙、心理、または霊的全体性を表す。
 
-**本尊ヨーガ (Deity Yoga)**:
+**本尊ヨーガ**:
 チベット仏教実践、自己を悟りの本尊として視覚化し変容を実現。
 
-**生起次第 (Kyerim)**:
+**生起次第**:
 密教実践の生成段階、詳細な視覚化を創造し維持。
 
-**究竟次第 (Dzogrim)**:
+**究竟次第**:
 密教実践の完成段階、視覚化を溶解し心の本性を直接認識。
 
-**ビンドゥ (Bindu)**:
+**ビンドゥ**:
 曼荼羅の中心点、すべての二元性が崩壊する特異点（r=0）。
 
-**五仏族 (Five Buddha Families)**:
+**五仏族**:
 チベット仏教の五つの本尊族、五つの智慧と変容される五つの煩悩を表す。
 
-**父母双尊 (Yab-Yum)**:
+**父母双尊**:
 男性と女性本尊の性的結合、智慧と慈悲、空性と方便の不二を象徴。
 
-**前行 (Ngondro)**:
+**前行**:
 金剛乗の予備実践（帰依、礼拝、金剛薩埵、曼荼羅供養、グル・ヨーガ）。
 
-**自己元型 (Self Archetype, Jung)**:
+**自己元型**:
 ユング心理学における全体心理（意識+無意識）の組織中心、しばしば曼荼羅形式で現れる。
 
-**個性化 (Individuation, Jung)**:
+**個性化**:
 完全で統合された自己になる心理プロセス、自我と自己の整合。
 
-**ストレンジアトラクター (Strange Attractor)**:
+**ストレンジアトラクター**:
 カオス領域で複雑で非反復だが有界な軌道をたどる動力系の状態。
 
-**フラクタル次元 (Fractal Dimension, D)**:
+**フラクタル次元**:
 フラクタルの複雑さを測る非整数次元、典型的曼荼羅D ≈ 1.5-2.0。
 
-**暗在秩序/明在秩序 (Implicate/Explicate Order, Bohm)**:
+**暗在秩序/明在秩序**:
 デヴィッド・ボームの用語: 暗在秩序=内包された潜在現実; 明在秩序=展開された顕現実。
 
-**チャネル存在論 (Channel Ontology)**:
+**チャネル存在論**:
 個体は終点ではなく通道であるという哲学、神性/道がそれを通じて流れる。
 
-**スパイラルコーン枠組み (Spiral Cone Framework)**:
+**スパイラルコーン枠組み**:
 三次元幾何モデル、r（半径）、θ（角度）、h（高さ）、輪廻と救済を統一。
 
-**デコヒーレンス (Decoherence, Quantum)**:
+**デコヒーレンス**:
 量子系が重ね合わせ状態から古典的確定状態へ崩壊するプロセス。
 
-**トポロジー不変量 (Topological Invariants)**:
+**トポロジー不変量**:
 連続変形下で保存される性質（中心、放射対称、境界など）。
 
-**ファイバーバンドル (Fiber Bundle)**:
+**ファイバーバンドル**:
 数学構造M = {(r, θ, s)}、sはシンボル内容、r、θは空間座標。
 
-**相転移 (Phase Transition)**:
+**相転移**:
 一つの状態（固体、液体、気体）から別の状態への不連続変化。
 
-**インドラの網 (Indra's Net)**:
+**インドラの網**:
 華厳経の比喩: 無限に相互反射する宝珠の網、相互依存を象徴。
 
-**ホログラフィック原理 (Holographic Principle)**:
+**ホログラフィック原理**:
 各部分が全体の情報を含むという考え。
 
 ---
@@ -2474,72 +2474,72 @@ GTS-15（認識論的枠組み）から:
 
 ### チベット仏教曼荼羅 (Tibetan Buddhist Mandalas)
 
-**書籍 (Books)**:
+**書籍**:
 1. *The Mandala: Sacred Circle in Tibetan Buddhism* - Martin Brauen
 2. *Mandala* - Jose and Miriam Arguelles
-3. *The Tibetan Book of the Dead* - Robert Thurman (translation)
+3. *The Tibetan Book of the Dead* - Robert Thurman
 4. *The World of Tibetan Buddhism* - Dalai Lama XIV
 
-**学術 (Academic)**:
+**学術**:
 - *Mandala: Meaning and Practice* - Giuseppe Tucci
 - *Tantric Practice in Nyingma* - Khetsun Sangpo Rinpoche
 
 ### ユング心理学 (Jungian Psychology)
 
-**主要テキスト (Primary Texts)**:
+**主要テキスト**:
 - *Mandala Symbolism* - C.G. Jung
 - *Memories, Dreams, Reflections* - C.G. Jung
 - *The Red Book (Liber Novus)* - C.G. Jung
 
-**二次文献 (Secondary Sources)**:
+**二次文献**:
 - *Jung and the Mandala* - Suzanne Fincher
 - *Creating Mandalas* - Susanne F. Fincher
 
 ### 幾何学とトポロジー (Geometry & Topology)
 
-**基礎 (Foundational)**:
+**基礎**:
 - *The Fractal Geometry of Nature* - Benoit Mandelbrot
 - *Symmetry* - Hermann Weyl
 
-**上級 (Advanced)**:
+**上級**:
 - *Fiber Bundles* - Dale Husemoller
 - *Topology* - James Munkres
 
 ### 文化横断的神聖幾何学 (Cross-Cultural Sacred Geometry)
 
-**イスラム (Islamic)**:
+**イスラム**:
 - *Islamic Geometric Patterns* - Eric Broug
 - *The Sense of Unity* - Nader Ardalan
 
-**キリスト教 (Christian)**:
+**キリスト教**:
 - *Sacred Geometry: Philosophy and Practice* - Robert Lawlor
 - *Chartres Cathedral* - Malcolm Miller
 
-**カバラ (Kabbalah)**:
+**カバラ**:
 - *The Kabbalah* - Gershom Scholem
 - *A Garden of Pomegranates* - Israel Regardie
 
 ### 実践ガイド (Practice Guides)
 
-**初心者 (Beginner)**:
+**初心者**:
 - *The Mandala Workbook* - Susanne F. Fincher
 - *Mandala Journey* - Sri Ganapathi Sachchidananda Swamiji
 
-**上級 (Advanced)**:
+**上級**:
 - *The Practice of Dzogchen* - Longchen Rabjam
 - *Deity, Mantra, and Wisdom* - Jigme Lingpa
 
 ### オンラインリソース (Online Resources)
 
-**データベース (Databases)**:
+**データベース**:
 - Rubin Museum of Art (Himalayan Art Resources)
 - British Library Mandala Collection
 
-**動画 (Videos)**:
+**動画**:
 - Tibetan monks creating sand mandalas (YouTube)
 - Robert Thurman lectures on mandalas
 
-**アプリ (Apps)**:
+**アプリ**:
 - Silk (generative mandala art)
 - Amaziograph (symmetry drawing)
 
@@ -2596,12 +2596,12 @@ GTS-15（認識論的枠組み）から:
 
 ### 演習1：7日間曼荼羅日記 (Exercise 1: 7-Day Mandala Journal)
 
-**材料 (Materials)**:
+**材料**:
 - 円形紙、直径20cm（7枚）
 - 色鉛筆またはマーカー
 - 日記帳
 
-**毎日プロトコル (Daily Protocol, 20分)**:
+**毎日プロトコル**:
 
 1. **準備 (Preparation, 2分)**:
    - 座って、数回深呼吸
@@ -2621,7 +2621,7 @@ GTS-15（認識論的枠組み）から:
    - 完成した曼荼羅は何を「語る」?
    - 簡単なメモを書く
 
-**8日目：レビュー (Day 8: Review)**:
+**8日目：レビュー**:
 
 すべての7つの曼荼羅を並べる:
 - 進展が見える?
@@ -2633,9 +2633,9 @@ GTS-15（認識論的枠組み）から:
 
 ### 演習2：五仏瞑想 (Exercise 2: Five Buddha Meditation)
 
-**目標 (Goal)**: 五仏枠組みを使った自己診断。
+**目標**: 五仏枠組みを使った自己診断。
 
-**ステップ (Steps, 30分)**:
+**ステップ**:
 
 1. **族を学ぶ (Study Families, 5分)**:
    - 五仏表を復習（§4.4）
@@ -2662,13 +2662,13 @@ GTS-15（認識論的枠組み）から:
    - シンプルな5色曼荼羅を描く
    - 集中した色を強調
 
-**繰り返し (Repeat)**: 毎週、煩悩-智慧バランスがどう変化するか追跡。
+**繰り返し**: 毎週、煩悩-智慧バランスがどう変化するか追跡。
 
 ### 演習3：螺旋瞑想 (Exercise 3: Spiral Meditation)
 
 **目標**: 中心への螺旋運動を体験。
 
-**プロトコル (Protocol, 20分)**:
+**プロトコル**:
 
 1. **準備 (Preparation, 2分)**:
    - 快適に座る
@@ -2698,7 +2698,7 @@ GTS-15（認識論的枠組み）から:
    - ゆっくり外向きに螺旋し出発rに戻る
    - 中心の記憶を持って
 
-**ノート (Notes)**:
+**ノート**:
 - これは生起と究竟のミニバージョン
 - 内向き = 究竟（溶解）
 - 中心 = 空性の悟り
@@ -2710,7 +2710,7 @@ GTS-15（認識論的枠組み）から:
 
 ### D.1 スパイラルコーンのパラメータ化 (Spiral Cone Parameterization)
 
-**基本方程式 (Basic Equations)**:
+**基本方程式**:
 
 ```
 r(t) = r₀ · e^(-kt)    [指数減衰半径]
@@ -2718,14 +2718,14 @@ r(t) = r₀ · e^(-kt)    [指数減衰半径]
 h(t) = v_h · t         [線形増加高さ]
 
 ここで (where):
-  r₀ = 初期半径 (initial radius)
+  r₀ = 初期半径
   k = 減衰定数 (decay constant), k > 0
-  ω = 角速度 (angular velocity)
-  v_h = 垂直速度 (vertical velocity)
-  t = 時間/進行パラメータ (time/progress parameter)
+  ω = 角速度
+  v_h = 垂直速度
+  t = 時間/進行パラメータ
 ```
 
-**デカルト座標 (Cartesian Coordinates)**:
+**デカルト座標**:
 
 ```
 x(t) = r(t)·cos(θ(t)) = r₀·e^(-kt)·cos(ωt)
@@ -2733,7 +2733,7 @@ y(t) = r(t)·sin(θ(t)) = r₀·e^(-kt)·sin(ωt)
 z(t) = h(t) = v_h·t
 ```
 
-**弧長 (Arc Length)**:
+**弧長**:
 
 ```
 ds/dt = √[(dr/dt)² + (rdθ/dt)² + (dh/dt)²]
@@ -2743,7 +2743,7 @@ ds/dt = √[(dr/dt)² + (rdθ/dt)² + (dh/dt)²]
 総長 (Total length) L = ∫₀^T √[r²(t)(k² + ω²) + v_h²] dt
 ```
 
-**曲率 (Curvature)**:
+**曲率**:
 
 ```
 κ(t) = |r''(t) × r'(t)| / |r'(t)|³
@@ -2753,14 +2753,14 @@ ds/dt = √[(dr/dt)² + (rdθ/dt)² + (dh/dt)²]
 
 ### D.2 俯瞰投影 (Top-Down Projection)
 
-**投影演算子 (Projection Operator)**:
+**投影演算子**:
 
 ```
 P: R³ → R²
 P(x, y, z) = (x, y)  [z座標を無視]
 ```
 
-**スパイラルコーンから曼荼羅へ (Spiral Cone to Mandala)**:
+**スパイラルコーンから曼荼羅へ**:
 
 ```
 スパイラルコーン上の点 (Point on spiral cone): (r(t), θ(t), h(t))
@@ -2770,7 +2770,7 @@ P(x, y, z) = (x, y)  [z座標を無視]
 M = {(r, θ) | 0 ≤ r ≤ r₀, 0 ≤ θ < 2π}
 ```
 
-**情報損失 (Information Loss)**:
+**情報損失**:
 
 投影はh次元を失う:
 - 元: 3D（r, θ, h）
@@ -2781,7 +2781,7 @@ M = {(r, θ) | 0 ≤ r ≤ r₀, 0 ≤ θ < 2π}
 
 ### D.3 フラクタル次元計算 (Fractal Dimension Calculation)
 
-**ボックスカウント法 (Box-Counting Method)**:
+**ボックスカウント法**:
 
 1. サイズεのグリッドで曼荼羅を覆う
 2. 曼荼羅部分を含むボックス数N(ε)を数える
@@ -2793,13 +2793,13 @@ M = {(r, θ) | 0 ≤ r ≤ r₀, 0 ≤ θ < 2π}
 D = lim[ε→0] log(N(ε)) / log(1/ε)
 ```
 
-**典型値 (Typical Values)**:
+**典型値**:
 
 - シンプル曼荼羅（禅円）: D ≈ 1.0
 - 中程度複雑性: D ≈ 1.5から1.7
 - 高複雑性（カーラチャクラ）: D ≈ 1.8から1.95
 
-**意義 (Significance)**:
+**意義**:
 
 D > 1: 線より複雑
 D < 2: 塗りつぶし円よりシンプル
@@ -2807,34 +2807,34 @@ D < 2: 塗りつぶし円よりシンプル
 
 ### D.4 ファイバーバンドル形式化 (Fiber Bundle Formalization)
 
-**基底空間 (Base Space)**:
+**基底空間**:
 
 ```
 B = {(r, θ) | 0 ≤ r ≤ r₀, 0 ≤ θ < 2π} ⊂ R²
 [曼荼羅の空間位置]
 ```
 
-**ファイバー (Fiber)**:
+**ファイバー**:
 
 ```
 F = {s} = シンボル内容の集合 (set of symbolic content)
 [各位置の意味/イメージ]
 ```
 
-**全空間 (Total Space)**:
+**全空間**:
 
 ```
 E = {(r, θ, s) | (r, θ) ∈ B, s ∈ F}
 ```
 
-**射影 (Projection)**:
+**射影**:
 
 ```
 π: E → B
 π(r, θ, s) = (r, θ)
 ```
 
-**切断 (Section)**:
+**切断**:
 
 ```
 σ: B → E
@@ -2843,7 +2843,7 @@ E = {(r, θ, s) | (r, θ) ∈ B, s ∈ F}
 [各位置に意味を割り当て]
 ```
 
-**接続 (Connection)**:
+**接続**:
 
 放射経路に沿った平行輸送:
 - 外層から内層へ移動
@@ -2852,16 +2852,16 @@ E = {(r, θ, s) | (r, θ) ∈ B, s ∈ F}
 
 ### D.5 トポロジー不変量 (Topological Invariants)
 
-**オイラー標数 (Euler Characteristic)**:
+**オイラー標数**:
 
 単純化された曼荼羅（円盤）の場合:
 ```
 χ = V - E + F = 1
 
 ここで (where):
-  V = 頂点数 (vertices)
-  E = 辺数 (edges)
-  F = 面数 (faces)
+  V = 頂点数
+  E = 辺数
+  F = 面数
 ```
 
 穴のある曼荼羅の場合:
@@ -2871,7 +2871,7 @@ E = {(r, θ, s) | (r, θ) ∈ B, s ∈ F}
 ここでg = 種数（穴の数） (genus, number of holes)
 ```
 
-**基本群 (Fundamental Group)**:
+**基本群**:
 
 シンプル曼荼羅（円盤）:
 ```
@@ -2883,7 +2883,7 @@ E = {(r, θ, s) | (r, θ) ∈ B, s ∈ F}
 π₁(M - {center}) = Z  [整数、中心周りのループ]
 ```
 
-**ホモロジー群 (Homology Groups)**:
+**ホモロジー群**:
 
 ```
 H₀(M) = Z     [連結成分]
@@ -2895,7 +2895,7 @@ H₂(M) = Z     [全表面]
 
 ---
 
-**文書状態 (Document Status)**: 完全（I-XII部分 + 付録A-D）
+**文書状態**: 完全（I-XII部分 + 付録A-D）
 **長さ**: 約29,000字
 **形式**: 主要用語日英二言語
 **完成日**: 2025-01-21
